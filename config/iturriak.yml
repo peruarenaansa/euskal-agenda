@@ -1,0 +1,26 @@
+iturriak:
+  kulturklik:
+    izena: "Kulturklik"
+    # Open Data Euskadi-ren JSON deskarga zuzena (API ofizialaren alternatiba)
+    json_url: "https://opendata.euskadi.eus/contenidos/ds_eventos/agenda_cultura_euskadi/es_kultura/adjuntos/kulturklik.json"
+    # HTML scraping URLak (JSON deskarga huts egiten badu, fallback gisa)
+    agenda_url: "https://www.kulturklik.euskadi.eus/webkklik00-shagenda/eu/aa58aPublicoWar/agenda/sacarAgenda?locale=eu"
+    egun_url: "https://www.kulturklik.euskadi.eus/z12-shagenda/eu/aa58aPublicoWar/agenda/sacarAgendaDia?eventosParaFecha={data}&locale=eu"
+    metodoa: "json_deskarga"   # json_deskarga | html_scraping
+    eremua: "EAE"
+    eskaera_tartea: 2.0
+    # Erakusketa kategoriak baztertu (datu asko, astiro)
+    baztertu_kategoriak:
+      - "Exposición"
+      - "Exposiciones"
+      - "Erakusketa"
+      - "Erakusketak"
+      - "Arte Bisualak"
+      - "Artes Visuales"
+
+  eke:
+    izena: "EKE - Euskal Kultur Erakundea"
+    ical_url: "https://www.eke.eus/events/aggregator/@@event_listing_ical?mode=future"
+    metodoa: "ical"
+    eremua: "EH"
+    eskaera_tartea: 1.0

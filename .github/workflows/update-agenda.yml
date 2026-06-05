@@ -1,0 +1,36 @@
+name: Agenda eguneratu
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Egunero 06:00 UTC (08:00 EAEn)
+  workflow_dispatch:        # Eskuz abiarazi daiteke GitHub-etik
+
+jobs:
+  eguneratu:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Kodea deskargatu
+        uses: actions/checkout@v4
+
+      - name: Python konfiguratu
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Mendekotasunak instalatu
+        run: pip install -r requirements.txt
+
+      - name: Scraping egin eta agenda eguneratu
+        run: python main.py
+
+      - name: Aldaketak commit eta push
+        run: |
+          git config user.name  "euskal-agenda-bot"
+          git config user.email "bot@euskal-agenda"
+          git add data/agenda.json
+          git diff --cached --quiet || git commit -m "Agenda eguneratua: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
