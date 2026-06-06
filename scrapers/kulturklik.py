@@ -64,7 +64,7 @@ class KulturklikScraper(BaseScraper):
     # ------------------------------------------------------------------
 
     def _json_bidez(self) -> list[dict]:
-        erantzuna = self.eskatu(self.json_url)
+        erantzuna = self.eskatu(self.json_url, curl_lehentasuna=True)
         if not erantzuna:
             return []
         try:
@@ -117,30 +117,54 @@ class KulturklikScraper(BaseScraper):
         )
         return ekitaldiak
 
+    # Telebistako kanalak — non eremuan agertzen badira, baztertu
+    TELEBISTA_KANALAK = {"primeran", "makusi"}
+
+    # Herri anitzen adierazleak — baztertu
+    HERRI_ANITZ = re.compile(
+        r"\b(eta|y|,|/)\b.*\b(eta|y|,|/)\b"  # "Bilbo eta Donostia eta..."
+        r"|,",                                  # koma bat = zerrenda
+        re.IGNORECASE,
+    )
+
     def _bihurtu_sarrera(self, s: dict) -> dict | None:
         # Izenburua
         izena = self.garbitu_izenburua(s.get("documentName") or "")
         if not izena:
             return None
 
-        # Datak
-        hasiera_data = self._normalizatu_data(s.get("eventStartDate") or s.get("eventSearchDate1") or "")
-        bukaera_data = self._normalizatu_data(s.get("eventEndDate") or s.get("eventSearchDate2") or "")
-
-        # Ordutegian ordu zehatza badago, gehitu datari
-        ordutegia = s.get("eventTimeTable") or ""
-        if hasiera_data and len(hasiera_data) == 10 and ordutegia:
-            ordu = re.search(r"(\d{1,2})[:\.](\d{2})", ordutegia)
-            if ordu:
-                hasiera_data = f"{hasiera_data}T{int(ordu.group(1)):02d}:{ordu.group(2)}:00"
-
-        # Lekua — eremu hierarkia
-        antzoki = self.garbitu_testua(
-            s.get("eventLocationName") or s.get("eventLocation") or s.get("eventWhere") or s.get("placename") or ""
+        # Datak eta ordua bereizita
+        hasiera_data, hasiera_ordua = self._data_eta_ordua(
+            s.get("eventStartDate") or s.get("eventSearchDate1") or "",
+            s.get("eventTimeTable") or ""
         )
+        bukaera_data, bukaera_ordua = self._data_eta_ordua(
+            s.get("eventEndDate") or s.get("eventSearchDate2") or "",
+            ""
+        )
+
+        # Lekua
+        antzoki = self.garbitu_testua(
+            s.get("eventLocationName") or s.get("eventLocation")
+            or s.get("eventWhere") or s.get("placename") or ""
+        )
+
+        # [8] Telebistako kanalak baztertu
+        if antzoki.strip().lower() in self.TELEBISTA_KANALAK:
+            return None
+
+        # [4] non eremua hutsik → baztertu
+        if not antzoki.strip():
+            return None
+
         herria = self.garbitu_testua(
             s.get("eventTownName") or s.get("municipality") or ""
         )
+
+        # [7] Herri anitz → baztertu (koma, zerrenda...)
+        if herria and ("," in herria or " / " in herria):
+            return None
+
         herrialdea = self.garbitu_testua(
             s.get("eventTerritoryName") or s.get("territory") or ""
         )
@@ -169,7 +193,7 @@ class KulturklikScraper(BaseScraper):
         azalpena = self.garbitu_testua(s.get("documentDescription") or "")
         azalpena = re.sub(r"<[^>]+>", "", azalpena)[:800]
 
-        # URL — hurrenkera: eventSourceUrl > friendlyUrl > physicalUrl
+        # URL
         url = (
             s.get("eventSourceUrl")
             or s.get("friendlyUrl")
@@ -180,7 +204,7 @@ class KulturklikScraper(BaseScraper):
         # Irudia
         irudi_url = s.get("eventImageUrl") or ""
 
-        # Hizkuntza — eventLanguages eremua
+        # Hizkuntza
         hizkuntza = self._normalizatu_hizkuntza(s.get("eventLanguages") or "")
 
         # Mota
@@ -192,7 +216,9 @@ class KulturklikScraper(BaseScraper):
             "mota": mota,
             "hizkuntza": hizkuntza,
             "hasiera_data": hasiera_data,
+            "hasiera_ordua": hasiera_ordua,
             "bukaera_data": bukaera_data,
+            "bukaera_ordua": bukaera_ordua,
             "lekua": lekua,
             "prezioa": prezioa,
             "url": url,
@@ -307,6 +333,46 @@ class KulturklikScraper(BaseScraper):
     # ------------------------------------------------------------------
     # Laguntzaileak
     # ------------------------------------------------------------------
+
+    @staticmethod
+    def _data_eta_ordua(data_str: str, ordutegia_str: str = "") -> tuple[str, str]:
+        """
+        Data eta ordua bereizita itzuli: (hasiera_data, hasiera_ordua)
+        hasiera_data: "YYYY-MM-DD"
+        hasiera_ordua: "HH:MM" edo "" ordua ez badago
+        """
+        data_str = str(data_str).strip() if data_str else ""
+        ordua = ""
+        data = ""
+
+        if not data_str:
+            return "", ""
+
+        # ISO formatua: 2026-07-15T19:30:00
+        try:
+            dt = datetime.fromisoformat(data_str)
+            data = dt.strftime("%Y-%m-%d")
+            if dt.hour or dt.minute:
+                ordua = dt.strftime("%H:%M")
+        except ValueError:
+            # dd/mm/yyyy
+            m = re.match(r"(\d{2})/(\d{2})/(\d{4})", data_str)
+            if m:
+                data = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+            else:
+                m = re.match(r"(\d{2})-(\d{2})-(\d{4})", data_str)
+                if m:
+                    data = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+                else:
+                    data = data_str[:10]
+
+        # Ordua eventTimeTable eremutik atera (oraindik ez badugu)
+        if not ordua and ordutegia_str:
+            m = re.search(r"(\d{1,2})[:\.](\d{2})", ordutegia_str)
+            if m:
+                ordua = f"{int(m.group(1)):02d}:{m.group(2)}"
+
+        return data, ordua
 
     @staticmethod
     def _normalizatu_hizkuntza(hizkuntza_raw: str) -> str:
