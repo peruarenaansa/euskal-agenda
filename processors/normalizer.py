@@ -10,6 +10,8 @@ import hashlib
 import yaml
 from pathlib import Path
 
+from processors.musika import formateatu_musika_izena
+
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "normalizazioa.yml"
 
 # Agendako mota ofizialak
@@ -43,7 +45,11 @@ class Normalizatzailea:
             lekua["herria"], lekua.get("herrialdea", "")
         )
         ekitaldia["lekua"] = lekua
-        ekitaldia["mota"] = self._normalizatu_mota(ekitaldia.get("mota", ""))
+        mota = self._normalizatu_mota(ekitaldia.get("mota", ""))
+        ekitaldia["mota"] = mota
+        # Musika ekitaldien izenburua formateatu (maiuskulak + '+' → 'eta')
+        if mota == "musika":
+            ekitaldia["ekitaldia"] = formateatu_musika_izena(ekitaldia.get("ekitaldia", ""))
         ekitaldia["id"] = self._sortu_id(
             ekitaldia.get("iturria", ""),
             ekitaldia.get("url", ""),
