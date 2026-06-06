@@ -16,6 +16,7 @@ from pathlib import Path
 
 from scrapers.kulturklik import KulturklikScraper
 from scrapers.eke import EkeScraper
+from scrapers.musikazuzenean import MusikazuzeneanScraper
 from processors.normalizer import Normalizatzailea
 from processors.deduplicator import kendu_bikoiztunak
 from processors.hizkuntza import hizkuntza_iragaztu
@@ -77,7 +78,7 @@ def iragazki_zaharrak(ekitaldiak: list[dict]) -> list[dict]:
 
 def egin_scraping() -> list[dict]:
     ekitaldiak = []
-    for iturria in [KulturklikScraper(), EkeScraper()]:
+    for iturria in [KulturklikScraper(), EkeScraper(), MusikazuzeneanScraper()]:
         try:
             berri = iturria.lortu_ekitaldiak()
             logger.info("%s: %d ekitaldi jaso", iturria.iturria_izena, len(berri))
