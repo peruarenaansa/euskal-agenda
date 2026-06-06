@@ -25,6 +25,8 @@ iturriak:
     metodoa: "wp_api_eta_html"
     eremua: "EH"
     eskaera_tartea: 1.5
+
+  eke:
     izena: "EKE - Euskal Kultur Erakundea"
     ical_url: "https://www.eke.eus/events/aggregator/@@event_listing_ical?mode=future"
     metodoa: "ical"
