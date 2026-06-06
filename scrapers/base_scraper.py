@@ -1,12 +1,19 @@
 """
 base_scraper.py — Scraper guztien oinarrizko klasea.
 Retry logika, rate limiting eta testuen garbiketa.
+
+Eskaera estrategia:
+  1. requests (azkar, ohiko guneetarako)
+  2. curl subprocess (requests huts egiten badu — TLS eta firewall arazoetarako)
 """
 import html
+import json
 import logging
 import re
+import subprocess
 import time
 from abc import ABC, abstractmethod
+from io import BytesIO
 
 import requests
 
@@ -17,15 +24,34 @@ logging.basicConfig(
 )
 
 
+class _FakeResponse:
+    """curl emaitza requests.Response moduan erabiltzeko."""
+    def __init__(self, content: bytes, status_code: int = 200):
+        self.content = content
+        self.text = content.decode("utf-8", errors="replace")
+        self.status_code = status_code
+        self.ok = 200 <= status_code < 300
+
+    def json(self):
+        return json.loads(self.content)
+
+    def raise_for_status(self):
+        if not self.ok:
+            raise requests.HTTPError(f"HTTP {self.status_code}")
+
+
 class BaseScraper(ABC):
     HEADERS = {
         "User-Agent": (
-            "Mozilla/5.0 (compatible; EuskalAgenda/1.0; "
-            "+https://github.com/zure-erabiltzailea/euskal-agenda)"
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/124.0.0.0 Safari/537.36"
         ),
-        "Accept-Language": "eu, es;q=0.8",
+        "Accept-Language": "eu, es;q=0.8, en;q=0.5",
         "Accept": "application/json, text/html, */*",
     }
+    # Timeout segundoak: (konexioa, irakurketa)
+    TIMEOUT = (30, 60)
 
     def __init__(self, iturria_izena: str, eskaera_tartea: float = 2.0):
         self.iturria_izena = iturria_izena
@@ -33,23 +59,69 @@ class BaseScraper(ABC):
         self.logger = logging.getLogger(iturria_izena)
         self._azken_eskaera = 0.0
 
-    def eskatu(self, url: str, **kwargs) -> requests.Response | None:
-        """GET eskaera rate limiting eta 3 retry-rekin."""
+    def eskatu(self, url: str, curl_lehentasuna: bool = False, **kwargs):
+        """
+        GET eskaera rate limiting eta retry-rekin.
+        curl_lehentasuna=True bada, curl erabiltzen du requests baino lehen.
+        """
         igaro = time.time() - self._azken_eskaera
         if igaro < self.eskaera_tartea:
             time.sleep(self.eskaera_tartea - igaro)
+
+        metodoak = (
+            [self._eskatu_curl, self._eskatu_requests]
+            if curl_lehentasuna
+            else [self._eskatu_requests, self._eskatu_curl]
+        )
+
         for saiakera in range(3):
-            try:
-                erantzuna = requests.get(url, headers=self.HEADERS, timeout=20, **kwargs)
-                self._azken_eskaera = time.time()
-                erantzuna.raise_for_status()
-                return erantzuna
-            except requests.RequestException as e:
-                self.logger.warning("Eskaera huts (%d/3): %s — %s", saiakera + 1, url, e)
-                if saiakera < 2:
-                    time.sleep(5 * (saiakera + 1))
+            for metodo in metodoak:
+                try:
+                    erantzuna = metodo(url, **kwargs)
+                    if erantzuna and erantzuna.ok:
+                        self._azken_eskaera = time.time()
+                        return erantzuna
+                except Exception as e:
+                    self.logger.debug("%s huts (%d/3): %s — %s",
+                                      metodo.__name__, saiakera + 1, url, e)
+
+            if saiakera < 2:
+                itxaron = 10 * (saiakera + 1)
+                self.logger.warning("Saiakera %d/3 huts, %ds itxaroten: %s",
+                                    saiakera + 1, itxaron, url)
+                time.sleep(itxaron)
+
         self.logger.error("Eskaera guztiz huts: %s", url)
         return None
+
+    def _eskatu_requests(self, url: str, **kwargs):
+        return requests.get(
+            url, headers=self.HEADERS, timeout=self.TIMEOUT, **kwargs
+        )
+
+    def _eskatu_curl(self, url: str, **kwargs) -> _FakeResponse | None:
+        """curl subprocess bidez — requests huts egiten duenean."""
+        try:
+            cmd = [
+                "curl", "--silent", "--fail", "--location",
+                "--max-time", "60",
+                "--connect-timeout", "30",
+                "--compressed",
+                "-H", f"User-Agent: {self.HEADERS['User-Agent']}",
+                "-H", f"Accept-Language: {self.HEADERS['Accept-Language']}",
+                "-H", f"Accept: {self.HEADERS['Accept']}",
+                url,
+            ]
+            emaitza = subprocess.run(
+                cmd, capture_output=True, timeout=70
+            )
+            if emaitza.returncode == 0 and emaitza.stdout:
+                return _FakeResponse(emaitza.stdout, 200)
+            self.logger.debug("curl %d: %s", emaitza.returncode, url)
+            return None
+        except (subprocess.TimeoutExpired, FileNotFoundError) as e:
+            self.logger.debug("curl ezin erabili: %s", e)
+            return None
 
     # ------------------------------------------------------------------
     # Testu-garbiketa (iturri guztietan erabiltzeko)
