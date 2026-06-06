@@ -59,7 +59,7 @@ class EkeScraper(BaseScraper):
         }
         for url in PLONE_API_URLS:
             self.logger.info("EKE API: saiatzen %s", url)
-            erantzuna = self.eskatu(url)
+            erantzuna = self.eskatu(url, curl_lehentasuna=True)
             if not erantzuna:
                 continue
             try:
@@ -93,16 +93,25 @@ class EkeScraper(BaseScraper):
         if not izena:
             return None
 
-        # Datak — Plone ISO formatuan ematen ditu
-        hasiera_str = s.get("start") or s.get("effective") or ""
-        bukaera_str = s.get("end") or s.get("expires") or ""
-        hasiera_data = self._dt_str(hasiera_str)
-        bukaera_data = self._dt_str(bukaera_str)
+        # Datak eta orduak bereizita — Plone ISO formatuan ematen ditu
+        # Batzuetan "start" eremuan "\n" batekin bi data sartzen ditu
+        hasiera_raw = s.get("start") or s.get("effective") or ""
+        bukaera_raw = s.get("end") or s.get("expires") or ""
+
+        # "\n" batekin zatituta badatoz, lehena hasiera eta bigarrena bukaera
+        if "\n" in str(hasiera_raw):
+            zatiak = str(hasiera_raw).strip().split("\n")
+            hasiera_raw = zatiak[0].strip()
+            if len(zatiak) > 1 and not bukaera_raw:
+                bukaera_raw = zatiak[1].strip()
+
+        hasiera_data, hasiera_ordua = self._data_eta_ordua(hasiera_raw)
+        bukaera_data, bukaera_ordua = self._data_eta_ordua(bukaera_raw)
 
         # Iraganekoak baztertu
         if hasiera_data:
             try:
-                if datetime.fromisoformat(hasiera_data[:10]).date() < gaur:
+                if datetime.fromisoformat(hasiera_data).date() < gaur:
                     return None
             except ValueError:
                 pass
@@ -111,22 +120,26 @@ class EkeScraper(BaseScraper):
         leku_str = s.get("location") or ""
         lekua = self._parseatu_lekua_str(leku_str)
 
-        # Azalpena — Plone-k "description" (laburra) eta "text" (HTML osoa) ditu
+        # Azalpena
         azalpena = self.garbitu_testua(s.get("description") or "")
         azalpena = re.sub(r"<[^>]+>", "", azalpena)[:800]
 
         # URL
         url = s.get("@id") or s.get("url") or ""
 
-        # Irudia — Plone image eremu nagusia
+        # Irudia
         irudi_url = ""
         irudi = s.get("image") or {}
         if isinstance(irudi, dict):
-            irudi_url = irudi.get("download") or irudi.get("scales", {}).get("preview", {}).get("download") or ""
+            irudi_url = (
+                irudi.get("download")
+                or irudi.get("scales", {}).get("preview", {}).get("download")
+                or ""
+            )
 
         # Mota
         mota = self.garbitu_testua(
-            s.get("Subject") and ", ".join(s["Subject"])
+            (", ".join(s["Subject"]) if s.get("Subject") else "")
             or s.get("type_title") or ""
         )
 
@@ -136,7 +149,9 @@ class EkeScraper(BaseScraper):
             "mota": mota,
             "hizkuntza": "eu",
             "hasiera_data": hasiera_data,
+            "hasiera_ordua": hasiera_ordua,
             "bukaera_data": bukaera_data,
+            "bukaera_ordua": bukaera_ordua,
             "lekua": lekua,
             "prezioa": {"zenbatekoa": None, "moneta": "EUR", "doan": False},
             "url": url,
@@ -155,7 +170,7 @@ class EkeScraper(BaseScraper):
 
         for url in HTML_URLS:
             self.logger.info("EKE HTML: saiatzen %s", url)
-            erantzuna = self.eskatu(url)
+            erantzuna = self.eskatu(url, curl_lehentasuna=True)
             if not erantzuna:
                 continue
 
@@ -206,8 +221,10 @@ class EkeScraper(BaseScraper):
                     "azalpena": "",
                     "mota": "",
                     "hizkuntza": "eu",
-                    "hasiera_data": self._dt_str(data_str),
+                    "hasiera_data": self._data_eta_ordua(data_str)[0],
+                    "hasiera_ordua": self._data_eta_ordua(data_str)[1],
                     "bukaera_data": "",
+                    "bukaera_ordua": "",
                     "lekua": {"non": "", "herria": "", "herrialdea": "", "koordenatuak": []},
                     "prezioa": {"zenbatekoa": None, "moneta": "EUR", "doan": False},
                     "url": ekitaldi_url,
@@ -229,19 +246,22 @@ class EkeScraper(BaseScraper):
     # ------------------------------------------------------------------
 
     @staticmethod
-    def _dt_str(data_raw) -> str:
+    def _data_eta_ordua(data_raw) -> tuple[str, str]:
+        """Data eta ordua bereizita itzuli: ("YYYY-MM-DD", "HH:MM")"""
         if not data_raw:
-            return ""
+            return "", ""
         data_str = str(data_raw).strip()
         try:
-            return datetime.fromisoformat(data_str).isoformat()
+            dt = datetime.fromisoformat(data_str)
+            data = dt.strftime("%Y-%m-%d")
+            ordua = dt.strftime("%H:%M") if (dt.hour or dt.minute) else ""
+            return data, ordua
         except ValueError:
             pass
-        # dd/mm/yyyy
         m = re.match(r"(\d{2})/(\d{2})/(\d{4})", data_str)
         if m:
-            return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
-        return data_str
+            return f"{m.group(3)}-{m.group(2)}-{m.group(1)}", ""
+        return data_str[:10], ""
 
     @staticmethod
     def _parseatu_lekua_str(leku_str: str) -> dict:
