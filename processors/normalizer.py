@@ -45,11 +45,24 @@ class Normalizatzailea:
             lekua["herria"], lekua.get("herrialdea", "")
         )
         ekitaldia["lekua"] = lekua
+
         mota = self._normalizatu_mota(ekitaldia.get("mota", ""))
         ekitaldia["mota"] = mota
-        # Musika ekitaldien izenburua formateatu (maiuskulak + '+' → 'eta')
+
+        # Musika ekitaldien izenburua formateatu
         if mota == "musika":
             ekitaldia["ekitaldia"] = formateatu_musika_izena(ekitaldia.get("ekitaldia", ""))
+
+        # Prezioa: dict bada → zenbatekoa soilik atera; None bada → None utzi
+        prezio = ekitaldia.get("prezioa")
+        if isinstance(prezio, dict):
+            ekitaldia["prezioa"] = prezio.get("zenbatekoa")
+        # (None eta zenbaki soila onartzen dira)
+
+        # Eremu soberakoak kendu
+        ekitaldia.pop("bukaera_data", None)
+        ekitaldia.pop("bukaera_ordua", None)
+
         ekitaldia["id"] = self._sortu_id(
             ekitaldia.get("iturria", ""),
             ekitaldia.get("url", ""),
