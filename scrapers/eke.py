@@ -89,16 +89,20 @@ class EkeScraper(BaseScraper):
         return []
 
     def _bihurtu_api_sarrera(self, s: dict, gaur: date) -> dict | None:
-        izena = self.garbitu_izenburua(s.get("title") or s.get("id") or "")
+        izena_raw = s.get("title") or s.get("id") or ""
+
+        # '+' → ', eta' konbertsioa izenburuan (musika taldeak)
+        from processors.musika import _normalizatu_taldeak
+        izena_raw = _normalizatu_taldeak(izena_raw)
+
+        izena = self.garbitu_izenburua(izena_raw)
         if not izena:
             return None
 
-        # Datak eta orduak bereizita — Plone ISO formatuan ematen ditu
-        # Batzuetan "start" eremuan "\n" batekin bi data sartzen ditu
+        # Datak eta orduak — "\n" batekin zatituta badatoz, bereiztu
         hasiera_raw = s.get("start") or s.get("effective") or ""
         bukaera_raw = s.get("end") or s.get("expires") or ""
 
-        # "\n" batekin zatituta badatoz, lehena hasiera eta bigarrena bukaera
         if "\n" in str(hasiera_raw):
             zatiak = str(hasiera_raw).strip().split("\n")
             hasiera_raw = zatiak[0].strip()
@@ -106,7 +110,10 @@ class EkeScraper(BaseScraper):
                 bukaera_raw = zatiak[1].strip()
 
         hasiera_data, hasiera_ordua = self._data_eta_ordua(hasiera_raw)
-        bukaera_data, bukaera_ordua = self._data_eta_ordua(bukaera_raw)
+
+        # Hasiera ordua ezezaguna → baztertu
+        if not hasiera_ordua:
+            return None
 
         # Iraganekoak baztertu
         if hasiera_data:
@@ -137,11 +144,14 @@ class EkeScraper(BaseScraper):
                 or ""
             )
 
-        # Mota
-        mota = self.garbitu_testua(
-            (", ".join(s["Subject"]) if s.get("Subject") else "")
-            or s.get("type_title") or ""
-        )
+        # Mota — EKE Subject eremutik atera eta normalizatu
+        # Subject zerrenda bat da: ["Musika", "Kontzertua"] → "Kontzertua" lehentasuna
+        mota_raw = ""
+        if s.get("Subject"):
+            # Zehatzena hartu (zerrenda luzeak sarri ditu orokorrak eta zehatzak)
+            mota_raw = s["Subject"][-1] if isinstance(s["Subject"], list) else str(s["Subject"])
+        mota_raw = mota_raw or s.get("type_title") or ""
+        mota = self.garbitu_testua(mota_raw)
 
         return {
             "ekitaldia": izena,
@@ -150,10 +160,8 @@ class EkeScraper(BaseScraper):
             "hizkuntza": "eu",
             "hasiera_data": hasiera_data,
             "hasiera_ordua": hasiera_ordua,
-            "bukaera_data": bukaera_data,
-            "bukaera_ordua": bukaera_ordua,
             "lekua": lekua,
-            "prezioa": {"zenbatekoa": None, "moneta": "EUR", "doan": False},
+            "prezioa": None,
             "url": url,
             "irudiaren_url": irudi_url,
             "iturria": "eke.eus",
@@ -216,17 +224,19 @@ class EkeScraper(BaseScraper):
                 if not izena:
                     continue
 
+                hasiera_data, hasiera_ordua = self._data_eta_ordua(data_str)
+                if not hasiera_ordua:
+                    continue  # Ordua ezezaguna → baztertu
+
                 ekitaldiak.append({
                     "ekitaldia": izena,
                     "azalpena": "",
                     "mota": "",
                     "hizkuntza": "eu",
-                    "hasiera_data": self._data_eta_ordua(data_str)[0],
-                    "hasiera_ordua": self._data_eta_ordua(data_str)[1],
-                    "bukaera_data": "",
-                    "bukaera_ordua": "",
+                    "hasiera_data": hasiera_data,
+                    "hasiera_ordua": hasiera_ordua,
                     "lekua": {"non": "", "herria": "", "herrialdea": "", "koordenatuak": []},
-                    "prezioa": {"zenbatekoa": None, "moneta": "EUR", "doan": False},
+                    "prezioa": None,
                     "url": ekitaldi_url,
                     "irudiaren_url": "",
                     "iturria": "eke.eus",
