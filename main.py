@@ -2,20 +2,15 @@
 main.py — Euskal Agenda, sarrera-puntu nagusia.
 
 Cron-aren logika:
-  - agenda.json badago: dagoeneko gordeak dauden ekitaldiak MANTENDU
-    (iraganekoak eta oraindik etortzekoak biak)
-  - Iturburuetatik BERRI direnak soilik ekarri (dauden ID-ak ez berriro)
-  - Iraganeko ekitaldiak (3 hilabete baino zaharragoak) EZABATU
-  - Eguneraketa: ID berriak gehitu + dauden eremuak ez ukitu
-
-Horrela:
-  ✓ Prozesua azkar (ekitaldi ezagunak berriz ez bildu)
-  ✓ JSON fitxategia gero eta aberatsagoa
-  ✓ Iraganeko datu zaharrak ez pilatu
+  - agenda.json badago: dauden ekitaldiak MANTENDU
+  - Iturburuetatik BERRI direnak soilik gehitu (dauden ID-ak ez berriro)
+  - (Cancelado) / (Suspendido) dutenak EZABATU (berriak eta dauden zaharrak biak)
+  - Gaztelaniazko eta frantsesezko ekitaldiak BAZTERTU
+  - 3 hilabete baino zaharragoak EZABATU
 """
-
 import json
 import logging
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -23,6 +18,7 @@ from scrapers.kulturklik import KulturklikScraper
 from scrapers.eke import EkeScraper
 from processors.normalizer import Normalizatzailea
 from processors.deduplicator import kendu_bikoiztunak
+from processors.hizkuntza import hizkuntza_iragaztu
 
 logging.basicConfig(
     level=logging.INFO,
@@ -33,16 +29,16 @@ logger = logging.getLogger("main")
 
 DATA_DIR = Path(__file__).parent / "data"
 AGENDA_FITXATEGIA = DATA_DIR / "agenda.json"
-
-# Iraganeko ekitaldiak zenbat hilabetetan gorde (3 = hiru hilabete)
 IRAGANEKO_HILABETEAK = 3
+
+# Ekitaldia bertan behera edo etetea adierazten duten patroiak
+BAZTERTU_PATROIAK = re.compile(
+    r"\((Cancelado|Suspendido|Cancelled|Suspended|Anulado|Atzeratua|Bertan behera)\)",
+    re.IGNORECASE,
+)
 
 
 def kargatu_daudenak() -> dict[str, dict]:
-    """
-    Dauden agenda.json-etik ekitaldiak kargatu.
-    ID → ekitaldia dict gisa itzuli, bilaketa azkarrerako.
-    """
     if not AGENDA_FITXATEGIA.exists():
         return {}
     try:
@@ -54,23 +50,25 @@ def kargatu_daudenak() -> dict[str, dict]:
         return {}
 
 
+def iragazki_bertan_behera(ekitaldiak: list[dict]) -> list[dict]:
+    """Cancelado / Suspendido patroiak dituzten ekitaldiak ezabatu."""
+    garbiak = [
+        e for e in ekitaldiak
+        if not BAZTERTU_PATROIAK.search(e.get("ekitaldia", ""))
+    ]
+    kendu = len(ekitaldiak) - len(garbiak)
+    if kendu:
+        logger.info("Bertan behera / suspenditu ekitaldiak ezabatuta: %d", kendu)
+    return garbiak
+
+
 def iragazki_zaharrak(ekitaldiak: list[dict]) -> list[dict]:
-    """
-    3 hilabete baino lehenagoko ekitaldiak ezabatu.
-    Muga: gaur - IRAGANEKO_HILABETEAK hilabete.
-    """
     muga = datetime.now() - timedelta(days=30 * IRAGANEKO_HILABETEAK)
     muga_str = muga.strftime("%Y-%m-%d")
-
-    garbiak = []
-    for e in ekitaldiak:
-        data = e.get("hasiera_data", "")
-        if not data:
-            garbiak.append(e)  # Datarik ez → utzi
-            continue
-        if data[:10] >= muga_str:
-            garbiak.append(e)
-
+    garbiak = [
+        e for e in ekitaldiak
+        if not e.get("hasiera_data") or e["hasiera_data"][:10] >= muga_str
+    ]
     kendu = len(ekitaldiak) - len(garbiak)
     if kendu:
         logger.info("Iraganeko ekitaldiak ezabatuta: %d", kendu)
@@ -78,7 +76,6 @@ def iragazki_zaharrak(ekitaldiak: list[dict]) -> list[dict]:
 
 
 def egin_scraping() -> list[dict]:
-    """Iturri guztietatik ekitaldiak lortu."""
     ekitaldiak = []
     for iturria in [KulturklikScraper(), EkeScraper()]:
         try:
@@ -91,25 +88,20 @@ def egin_scraping() -> list[dict]:
 
 
 def gorde_agenda(ekitaldiak: list[dict]):
-    """Ekitaldiak JSON formatuan gorde, hasiera dataren arabera ordenatuta."""
     DATA_DIR.mkdir(exist_ok=True)
     ekitaldiak_ordenatua = sorted(
-        ekitaldiak,
-        key=lambda e: e.get("hasiera_data") or "9999"
+        ekitaldiak, key=lambda e: e.get("hasiera_data") or "9999"
     )
-    iturriak = sorted({e.get("iturria", "") for e in ekitaldiak_ordenatua})
-
     agenda = {
         "meta": {
             "noiz_eguneratua": datetime.now(timezone.utc).isoformat(),
             "ekitaldi_kopurua": len(ekitaldiak_ordenatua),
-            "iturriak": iturriak,
+            "iturriak": sorted({e.get("iturria", "") for e in ekitaldiak_ordenatua}),
         },
         "ekitaldiak": ekitaldiak_ordenatua,
     }
     AGENDA_FITXATEGIA.write_text(
-        json.dumps(agenda, ensure_ascii=False, indent=2),
-        encoding="utf-8",
+        json.dumps(agenda, ensure_ascii=False, indent=2), encoding="utf-8"
     )
     logger.info("agenda.json gordea: %d ekitaldi", len(ekitaldiak_ordenatua))
 
@@ -117,37 +109,44 @@ def gorde_agenda(ekitaldiak: list[dict]):
 def main():
     logger.info("=== Euskal Agenda eguneraketa hasitzen ===")
 
-    # 1. Dauden ekitaldiak kargatu (aurrekoak)
+    # 1. Dauden ekitaldiak kargatu
     dauden_ekitaldiak = kargatu_daudenak()
-    logger.info("Dagoeneko gordeak: %d ekitaldi", len(dauden_ekitaldiak))
+    logger.info("Dagoeneko gordeak: %d", len(dauden_ekitaldiak))
 
-    # 2. Iturburuetatik datu berriak lortu
+    # 2. Scraping
     ekitaldiak_gordinak = egin_scraping()
-    logger.info("Iturburuetatik jasoak: %d ekitaldi", len(ekitaldiak_gordinak))
+    logger.info("Iturburuetatik jasoak: %d", len(ekitaldiak_gordinak))
 
     # 3. Normalizatu
     normalizatzailea = Normalizatzailea()
     ekitaldiak_norm = normalizatzailea.normalizatu_guztiak(ekitaldiak_gordinak)
 
-    # 4. ID berriak soilik gehitu (daudenak ez berridatzi)
+    # 4. Hizkuntza iragaztu (euskaraz ez direnak baztertu)
+    ekitaldiak_eu = hizkuntza_iragaztu(ekitaldiak_norm)
+    logger.info("Hizkuntza iragazketa: %d → %d", len(ekitaldiak_norm), len(ekitaldiak_eu))
+
+    # 5. ID berriak soilik gehitu
     berri_kopurua = 0
-    for ekitaldia in ekitaldiak_norm:
+    for ekitaldia in ekitaldiak_eu:
         eid = ekitaldia.get("id")
         if eid and eid not in dauden_ekitaldiak:
             dauden_ekitaldiak[eid] = ekitaldia
             berri_kopurua += 1
     logger.info("Ekitaldi berri gehituta: %d", berri_kopurua)
 
-    # 5. Zerrenda osoa osatu
+    # 6. Zerrenda osoa
     ekitaldi_zerrenda = list(dauden_ekitaldiak.values())
 
-    # 6. Bikoiztunak kendu (ID berdinik ez dagoena, baina izen+data+herri berdina)
+    # 7. Cancelado / Suspendido ezabatu (dauden zaharrak ere bai)
+    ekitaldi_zerrenda = iragazki_bertan_behera(ekitaldi_zerrenda)
+
+    # 8. Bikoiztunak kendu
     ekitaldi_zerrenda = kendu_bikoiztunak(ekitaldi_zerrenda)
 
-    # 7. Iraganeko ekitaldiak ezabatu
+    # 9. Iraganekoak ezabatu
     ekitaldi_zerrenda = iragazki_zaharrak(ekitaldi_zerrenda)
 
-    # 8. Gorde
+    # 10. Gorde
     gorde_agenda(ekitaldi_zerrenda)
     logger.info("=== Eguneraketa bukatua ===")
 
