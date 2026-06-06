@@ -2,12 +2,27 @@
 kulturklik.py
 Kulturklik ekitaldiak Open Data Euskadi JSON deskargatik lortu.
 
-Estrategia:
-  1. JSON deskarga (opendata.euskadi.eus)
-  2. Fallback: HTML scraping (30 egun)
-
-JSON fitxategiko eremu izenak ez dira ezagunak aldez aurretik,
-beraz eremu posible guztiak saiatzen dira (`_atera` metodoa).
+JSON eremu izenak (egiaztatuak):
+  documentName        → ekitaldiaren izena
+  documentDescription → azalpena
+  eventType           → mota
+  eventStartDate      → hasiera data
+  eventEndDate        → bukaera data
+  eventTownName       → herria
+  eventLocationName   → antzokiaren izena
+  eventLocation       → helbidea (alternatibo)
+  eventWhere          → lekuaren deskribapena (alternatibo)
+  eventPrice          → prezioa
+  eventTimeTable      → ordutegiaen deskribapena
+  eventLanguages      → hizkuntza
+  eventImageUrl       → irudiaren URL
+  eventSourceUrl      → jatorrizko URLa
+  friendlyUrl         → URLa (alternatibo)
+  physicalUrl         → URLa (alternatibo)
+  eventStatus         → egoera (cancelado/suspendido detektatzeko)
+  territory           → lurraldea/herrialdea
+  latwgs84            → latitudea
+  lonwgs84            → longitudea
 """
 
 import re
@@ -64,28 +79,30 @@ class KulturklikScraper(BaseScraper):
             self.logger.error("JSON formatua ezezaguna edo hutsa")
             return []
 
-        # DEBUG: lehen sarreraren eremu izenak log egin
-        self.logger.info("JSON eremu izenak: %s", list(datuak[0].keys()))
-
         gaur = datetime.today().date()
         ekitaldiak = []
+        baztertuta = {"erakusketa": 0, "iragana": 0, "bertan_behera": 0}
+
         for sarrera in datuak:
             # Erakusketak baztertu
-            mota_raw = self._atera(sarrera, [
-                "eventType", "eventType_eu", "tipoEvento", "type", "tipo", "category"
-            ])
+            mota_raw = (sarrera.get("eventType") or "").strip()
             if mota_raw.lower() in self.baztertu_kategoriak:
+                baztertuta["erakusketa"] += 1
+                continue
+
+            # Bertan behera / suspendituak baztertu (eventStatus eremua)
+            status = (sarrera.get("eventStatus") or "").lower()
+            if any(h in status for h in ["cancel", "suspend", "anula"]):
+                baztertuta["bertan_behera"] += 1
                 continue
 
             # Iraganeko ekitaldiak baztertu
-            data_str = self._atera(sarrera, [
-                "dateStart", "dateStart_eu", "fechaInicio", "startDate",
-                "date", "fecha", "start", "eventDate"
-            ])
+            data_str = sarrera.get("eventStartDate") or sarrera.get("eventSearchDate1") or ""
             if data_str:
                 try:
                     data = datetime.fromisoformat(str(data_str)[:10]).date()
                     if data < gaur:
+                        baztertuta["iragana"] += 1
                         continue
                 except (ValueError, TypeError):
                     pass
@@ -94,88 +111,80 @@ class KulturklikScraper(BaseScraper):
             if ekitaldia:
                 ekitaldiak.append(ekitaldia)
 
-        self.logger.info("Kulturklik JSON: %d ekitaldi", len(ekitaldiak))
+        self.logger.info(
+            "Kulturklik JSON: %d ekitaldi (baztertuta: %d erakusketa, %d iraganeko, %d bertan behera)",
+            len(ekitaldiak), baztertuta["erakusketa"], baztertuta["iragana"], baztertuta["bertan_behera"]
+        )
         return ekitaldiak
 
     def _bihurtu_sarrera(self, s: dict) -> dict | None:
         # Izenburua
-        izena = self.garbitu_izenburua(self._atera(s, [
-            "documentName_eu", "documentName", "name_eu", "name",
-            "nombre_eu", "nombre", "title_eu", "title", "izena", "summary"
-        ]))
+        izena = self.garbitu_izenburua(s.get("documentName") or "")
         if not izena:
             return None
 
         # Datak
-        hasiera_str = self._atera(s, [
-            "dateStart", "dateStart_eu", "fechaInicio", "startDate",
-            "date", "fecha", "start", "eventDate", "hasiera"
-        ])
-        bukaera_str = self._atera(s, [
-            "dateEnd", "dateEnd_eu", "fechaFin", "endDate",
-            "end", "bukaera", "finDate"
-        ])
-        hasiera_data = self._normalizatu_data(hasiera_str)
-        bukaera_data = self._normalizatu_data(bukaera_str)
+        hasiera_data = self._normalizatu_data(s.get("eventStartDate") or s.get("eventSearchDate1") or "")
+        bukaera_data = self._normalizatu_data(s.get("eventEndDate") or s.get("eventSearchDate2") or "")
 
-        # Lekua
+        # Ordutegian ordu zehatza badago, gehitu datari
+        ordutegia = s.get("eventTimeTable") or ""
+        if hasiera_data and len(hasiera_data) == 10 and ordutegia:
+            ordu = re.search(r"(\d{1,2})[:\.](\d{2})", ordutegia)
+            if ordu:
+                hasiera_data = f"{hasiera_data}T{int(ordu.group(1)):02d}:{ordu.group(2)}:00"
+
+        # Lekua — eremu hierarkia
+        antzoki = self.garbitu_testua(
+            s.get("eventLocationName") or s.get("eventLocation") or s.get("eventWhere") or s.get("placename") or ""
+        )
+        herria = self.garbitu_testua(
+            s.get("eventTownName") or s.get("municipality") or ""
+        )
+        herrialdea = self.garbitu_testua(
+            s.get("eventTerritoryName") or s.get("territory") or ""
+        )
+
+        # Koordenatuak
+        koordenatuak = []
+        try:
+            lat = s.get("latwgs84")
+            lon = s.get("lonwgs84")
+            if lat and lon:
+                koordenatuak = [float(lat), float(lon)]
+        except (ValueError, TypeError):
+            pass
+
         lekua = {
-            "non": self.garbitu_testua(self._atera(s, [
-                "placeName_eu", "placeName", "lugar_eu", "lugar",
-                "venue", "location", "lekua", "place", "sala", "recinto"
-            ])),
-            "herria": self.garbitu_testua(self._atera(s, [
-                "municipalityName_eu", "municipalityName", "municipio_eu",
-                "municipio", "city", "ciudad", "herria", "town", "locality"
-            ])),
-            "herrialdea": self.garbitu_testua(self._atera(s, [
-                "provinceName_eu", "provinceName", "provincia_eu",
-                "provincia", "territory", "herrialdea", "region"
-            ])),
-            "koordenatuak": self._lortu_koordenatuak(s),
+            "non": antzoki,
+            "herria": herria,
+            "herrialdea": herrialdea,
+            "koordenatuak": koordenatuak,
         }
 
         # Prezioa
-        prezio_str = self._atera(s, [
-            "price", "precio", "prix", "prezioa", "cost", "admission"
-        ])
-        prezioa = self.garbitu_prezioa(str(prezio_str) if prezio_str else "")
+        prezioa = self.garbitu_prezioa(str(s.get("eventPrice") or ""))
 
         # Azalpena
-        azalpena = self.garbitu_testua(self._atera(s, [
-            "documentDescription_eu", "documentDescription",
-            "description_eu", "description", "descripcion_eu",
-            "descripcion", "azalpena", "summary", "abstract"
-        ]))
+        azalpena = self.garbitu_testua(s.get("documentDescription") or "")
         azalpena = re.sub(r"<[^>]+>", "", azalpena)[:800]
 
-        # URL
-        url = self._atera(s, [
-            "documentUrl", "url", "enlace", "link", "href", "eventUrl"
-        ])
+        # URL — hurrenkera: eventSourceUrl > friendlyUrl > physicalUrl
+        url = (
+            s.get("eventSourceUrl")
+            or s.get("friendlyUrl")
+            or s.get("physicalUrl")
+            or ""
+        )
 
         # Irudia
-        irudi_url = self._atera(s, [
-            "imageUrl", "imagen", "image", "photo", "thumbnail",
-            "irudia", "img", "picture", "foto"
-        ])
+        irudi_url = s.get("eventImageUrl") or ""
 
-        # Hizkuntza
-        hizkuntza_raw = self._atera(s, [
-            "documentLanguage", "idioma", "language", "lang", "hizkuntza"
-        ]).lower()
-        if hizkuntza_raw in ("eu", "euskera", "euskara", "basque"):
-            hizkuntza = "eu"
-        elif hizkuntza_raw in ("es", "castellano", "español", "spanish"):
-            hizkuntza = "es"
-        else:
-            hizkuntza = hizkuntza_raw
+        # Hizkuntza — eventLanguages eremua
+        hizkuntza = self._normalizatu_hizkuntza(s.get("eventLanguages") or "")
 
         # Mota
-        mota = self.garbitu_testua(self._atera(s, [
-            "eventType_eu", "eventType", "tipoEvento_eu", "tipoEvento",
-            "type", "tipo", "category", "categoria", "mota"
-        ]))
+        mota = self.garbitu_testua(s.get("eventType") or "")
 
         return {
             "ekitaldia": izena,
@@ -224,7 +233,6 @@ class KulturklikScraper(BaseScraper):
                 if not ekitaldi_url.startswith("http"):
                     ekitaldi_url = self.BASE_HTML + ekitaldi_url
                 ikusi_urlak.add(ekitaldi_url)
-
                 ekitaldia = self._xehetasunak_html(ekitaldi_url, egun)
                 if ekitaldia:
                     ekitaldiak.append(ekitaldia)
@@ -237,17 +245,14 @@ class KulturklikScraper(BaseScraper):
         if not erantzuna:
             return None
         soup = BeautifulSoup(erantzuna.text, "lxml")
-
         h2 = soup.select_one("h2")
         izena = self.garbitu_izenburua(h2.get_text() if h2 else "")
         if not izena:
             return None
-
         mota_el = soup.select_one(".event-type")
         mota = self.garbitu_testua(mota_el.get_text() if mota_el else "")
         if mota.lower() in self.baztertu_kategoriak:
             return None
-
         hasiera_data = egun.strftime("%Y-%m-%d")
         ordu_el = soup.find(string=re.compile(r"Ordutegia|Horario", re.I))
         if ordu_el and ordu_el.parent:
@@ -259,7 +264,6 @@ class KulturklikScraper(BaseScraper):
                         hour=int(m.group(1)), minute=int(m.group(2)),
                         second=0, microsecond=0
                     ).isoformat()
-
         leku_el = soup.find(string=re.compile(r"^Lekua$|^Lugar$", re.I))
         antzoki, herria = "", ""
         if leku_el and leku_el.parent:
@@ -272,21 +276,18 @@ class KulturklikScraper(BaseScraper):
                     if re.search(r"[A-ZÁÉÍÓÚ]", l):
                         herria = self.garbitu_testua(l)
                         break
-
         prezio_el = soup.find(string=re.compile(r"Zenbatekoa|Precio", re.I))
         prezio_str = ""
         if prezio_el and prezio_el.parent:
             p = prezio_el.parent.find_next_sibling()
             if p:
                 prezio_str = p.get_text()
-
         azalpen_el = soup.select_one("article p")
         azalpena = self.garbitu_testua(azalpen_el.get_text() if azalpen_el else "")[:800]
         irudi_el = soup.select_one("article img")
         irudi_url = irudi_el.get("src", "") if irudi_el else ""
         if irudi_url and not irudi_url.startswith("http"):
             irudi_url = self.BASE_HTML + irudi_url
-
         return {
             "ekitaldia": izena,
             "azalpena": azalpena,
@@ -308,13 +309,23 @@ class KulturklikScraper(BaseScraper):
     # ------------------------------------------------------------------
 
     @staticmethod
-    def _atera(sarrera: dict, gakoak: list[str]) -> str:
-        """Eremu posible askoren artetik lehena itzuli."""
-        for gako in gakoak:
-            balioa = sarrera.get(gako)
-            if balioa is not None and str(balioa).strip():
-                return str(balioa).strip()
-        return ""
+    def _normalizatu_hizkuntza(hizkuntza_raw: str) -> str:
+        """eventLanguages eremua → 'eu' | 'es' | 'fr' | ''"""
+        h = hizkuntza_raw.strip().lower()
+        if not h:
+            return ""
+        # Eremu honek hizkuntza-zerrenda izan dezake: "Euskera, Castellano"
+        zatiak = re.split(r"[,;/\s]+", h)
+        du_eu = any(z in {"eu", "eus", "euskera", "euskara", "basque", "vasco"} for z in zatiak)
+        du_es = any(z in {"es", "spa", "castellano", "español", "spanish"} for z in zatiak)
+        du_fr = any(z in {"fr", "fra", "français", "frances", "french"} for z in zatiak)
+        if du_eu:
+            return "eu"
+        if du_es:
+            return "es"
+        if du_fr:
+            return "fr"
+        return h[:5]  # Ezezaguna: lehen 5 karaktere gorde
 
     @staticmethod
     def _normalizatu_data(data_str: str) -> str:
@@ -328,16 +339,8 @@ class KulturklikScraper(BaseScraper):
         m = re.match(r"(\d{2})/(\d{2})/(\d{4})", data_str)
         if m:
             return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+        # dd-mm-yyyy
+        m = re.match(r"(\d{2})-(\d{2})-(\d{4})", data_str)
+        if m:
+            return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
         return data_str
-
-    @staticmethod
-    def _lortu_koordenatuak(s: dict) -> list:
-        for lat_key, lon_key in [("latitude", "longitude"), ("lat", "lon"), ("latitud", "longitud")]:
-            lat = s.get(lat_key)
-            lon = s.get(lon_key)
-            if lat and lon:
-                try:
-                    return [float(lat), float(lon)]
-                except (ValueError, TypeError):
-                    pass
-        return []
