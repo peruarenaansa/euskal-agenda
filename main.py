@@ -89,9 +89,13 @@ def egin_scraping() -> list[dict]:
 
 def gorde_agenda(ekitaldiak: list[dict]):
     DATA_DIR.mkdir(exist_ok=True)
-    ekitaldiak_ordenatua = sorted(
-        ekitaldiak, key=lambda e: e.get("hasiera_data") or "9999"
-    )
+
+    def ordenatzeko_gakoa(e):
+        data = e.get("hasiera_data") or "9999-12-31"
+        ordua = e.get("hasiera_ordua") or "00:00"
+        return f"{data}T{ordua}"
+
+    ekitaldiak_ordenatua = sorted(ekitaldiak, key=ordenatzeko_gakoa)
     agenda = {
         "meta": {
             "noiz_eguneratua": datetime.now(timezone.utc).isoformat(),
