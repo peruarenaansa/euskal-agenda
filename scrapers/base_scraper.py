@@ -146,11 +146,26 @@ class BaseScraper(ABC):
         if not izena:
             return ""
         izena = BaseScraper.garbitu_testua(izena)
+
+        # "Entradas" hitza kendu hasieran
+        izena = re.sub(r'^entradas\s*["\u201c]?\s*', '', izena, flags=re.IGNORECASE).strip()
+
+        # "Programa" hitza kendu hasieran
+        izena = re.sub(r'^programa\s+', '', izena, flags=re.IGNORECASE).strip()
+
+        # DENA MAIUSKULAZ → Title Case (+ konbertsioa baino lehen)
         if izena == izena.upper() and len(izena) > 3:
             izena = izena.title()
+
+        # '+' bidezko talde-izenak bateratu
+        from processors.musika import _normalizatu_taldeak
+        izena = _normalizatu_taldeak(izena)
+
+        # Urtea kendu amaieran (2020-2099)
+        izena = re.sub(r'\s+20[2-9]\d\s*$', '', izena).strip()
+
         izena = izena.rstrip(".,;:")
         izena = re.sub(r'^["\'](.+)["\']$', r"\1", izena)
-        # Elebiko tituluak garbitu eta parentesi soberakinak kendu
         izena = BaseScraper._garbitu_izenburu_elebitua(izena)
         return izena
 
