@@ -118,19 +118,27 @@ class KulturklikScraper(BaseScraper):
         return ekitaldiak
 
     # Telebistako kanalak — non eremuan agertzen badira, baztertu
-    TELEBISTA_KANALAK = {"primeran", "makusi"}
+    TELEBISTA_KANALAK = {"primeran", "makusi", "prime video"}
+
+    # Zine aretoak — non eremuan agertzen badira, baztertu
+    ZINE_ARETOAK = re.compile(r"\bcine\b", re.IGNORECASE)
+
+    # Bisita-ekitaldiak — izenburuan agertzen badira, baztertu
+    BISITA_HITZAK = re.compile(r"\bvisita[s]?\b", re.IGNORECASE)
 
     # Herri anitzen adierazleak — baztertu
-    HERRI_ANITZ = re.compile(
-        r"\b(eta|y|,|/)\b.*\b(eta|y|,|/)\b"  # "Bilbo eta Donostia eta..."
-        r"|,",                                  # koma bat = zerrenda
-        re.IGNORECASE,
-    )
+    HERRI_ANITZ = re.compile(r",", re.IGNORECASE)
 
     def _bihurtu_sarrera(self, s: dict) -> dict | None:
-        # Izenburua
-        izena = self.garbitu_izenburua(s.get("documentName") or "")
+        # Izenburua — _eu eremua lehenik (euskarazkoa), gero generikoa
+        izena = self.garbitu_izenburua(
+            s.get("documentName_eu") or s.get("documentName") or ""
+        )
         if not izena:
+            return None
+
+        # Bisita-ekitaldiak baztertu
+        if self.BISITA_HITZAK.search(izena):
             return None
 
         # Datak eta ordua bereizita
@@ -138,35 +146,44 @@ class KulturklikScraper(BaseScraper):
             s.get("eventStartDate") or s.get("eventSearchDate1") or "",
             s.get("eventTimeTable") or ""
         )
-        bukaera_data, bukaera_ordua = self._data_eta_ordua(
-            s.get("eventEndDate") or s.get("eventSearchDate2") or "",
-            ""
-        )
 
-        # Lekua
+        # [6] Hasiera ordua ezezaguna → baztertu
+        if not hasiera_ordua:
+            return None
+
+        # Lekua — _eu eremuak lehenik
         antzoki = self.garbitu_testua(
-            s.get("eventLocationName") or s.get("eventLocation")
-            or s.get("eventWhere") or s.get("placename") or ""
+            s.get("eventLocationName_eu") or s.get("eventLocationName")
+            or s.get("eventLocation") or s.get("eventWhere")
+            or s.get("placename") or ""
         )
 
-        # [8] Telebistako kanalak baztertu
+        # Telebistako kanalak baztertu
         if antzoki.strip().lower() in self.TELEBISTA_KANALAK:
             return None
 
-        # [4] non eremua hutsik → baztertu
+        # Zine aretoak baztertu
+        if self.ZINE_ARETOAK.search(antzoki):
+            return None
+
+        # non eremua hutsik → baztertu
         if not antzoki.strip():
             return None
 
+        # Herria — _eu eremua lehenik
         herria = self.garbitu_testua(
-            s.get("eventTownName") or s.get("municipality") or ""
+            s.get("eventTownName_eu") or s.get("eventTownName")
+            or s.get("municipality") or ""
         )
 
-        # [7] Herri anitz → baztertu (koma, zerrenda...)
-        if herria and ("," in herria or " / " in herria):
+        # Herri anitz → baztertu
+        if herria and "," in herria:
             return None
 
+        # Herrialdea — _eu eremua lehenik
         herrialdea = self.garbitu_testua(
-            s.get("eventTerritoryName") or s.get("territory") or ""
+            s.get("eventTerritoryName_eu") or s.get("eventTerritoryName")
+            or s.get("territory") or ""
         )
 
         # Koordenatuak
@@ -186,11 +203,14 @@ class KulturklikScraper(BaseScraper):
             "koordenatuak": koordenatuak,
         }
 
-        # Prezioa
-        prezioa = self.garbitu_prezioa(str(s.get("eventPrice") or ""))
+        # Prezioa — [8] moneta eta doan kendu
+        prezio_raw = self.garbitu_prezioa(str(s.get("eventPrice") or ""))
+        prezioa = prezio_raw.get("zenbatekoa")
 
-        # Azalpena
-        azalpena = self.garbitu_testua(s.get("documentDescription") or "")
+        # Azalpena — _eu eremua lehenik
+        azalpena = self.garbitu_testua(
+            s.get("documentDescription_eu") or s.get("documentDescription") or ""
+        )
         azalpena = re.sub(r"<[^>]+>", "", azalpena)[:800]
 
         # URL
@@ -207,8 +227,10 @@ class KulturklikScraper(BaseScraper):
         # Hizkuntza
         hizkuntza = self._normalizatu_hizkuntza(s.get("eventLanguages") or "")
 
-        # Mota
-        mota = self.garbitu_testua(s.get("eventType") or "")
+        # Mota — _eu eremua lehenik
+        mota = self.garbitu_testua(
+            s.get("eventType_eu") or s.get("eventType") or ""
+        )
 
         return {
             "ekitaldia": izena,
@@ -217,8 +239,6 @@ class KulturklikScraper(BaseScraper):
             "hizkuntza": hizkuntza,
             "hasiera_data": hasiera_data,
             "hasiera_ordua": hasiera_ordua,
-            "bukaera_data": bukaera_data,
-            "bukaera_ordua": bukaera_ordua,
             "lekua": lekua,
             "prezioa": prezioa,
             "url": url,
