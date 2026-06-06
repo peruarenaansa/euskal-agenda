@@ -1,7 +1,7 @@
 """
 eke.py
 EKE (Euskal Kultur Erakundea) agendako ekitaldiak iCal formatuan lortu.
-URL: https://www.eke.eus/events/aggregator/@@event_listing_ical?mode=future
+URL alternatiboak saiatzen dira, Plone CMS erabiltzen baitu EKE-k.
 """
 import re
 import yaml
@@ -14,6 +14,16 @@ from scrapers.base_scraper import BaseScraper
 
 CONFIG_PATH = Path(__file__).parent.parent / "config" / "iturriak.yml"
 
+# Plone CMS iCal URL formatuak, probatu ordenan
+ICAL_URLS = [
+    "https://www.eke.eus/events/aggregator/@@event_listing_ical?mode=future",
+    "https://www.eke.eus/eu/agenda/@@event_listing_ical?mode=future",
+    "https://www.eke.eus/eu/agenda/@@eventsfolder_ical_view",
+    "https://www.eke.eus/eu/agenda/@@icalendar_view",
+    "https://www.eke.eus/eu/kulturaren-berri/agenda/@@event_listing_ical?mode=future",
+    "https://www.eke.eus/@@event_listing_ical?mode=future",
+]
+
 
 class EkeScraper(BaseScraper):
     def __init__(self):
@@ -22,26 +32,39 @@ class EkeScraper(BaseScraper):
         self.ical_url = cfg["ical_url"]
 
     def lortu_ekitaldiak(self) -> list[dict]:
-        self.logger.info("EKE: iCal fitxategia deskargatzen...")
-        erantzuna = self.eskatu(self.ical_url)
-        if not erantzuna:
-            return []
-        try:
-            egutegi = Calendar.from_ical(erantzuna.content)
-        except Exception as e:
-            self.logger.error("iCal parseaketa huts: %s", e)
-            return []
+        # Config-ko URLa lehenik, gero alternatiboak
+        urls = [self.ical_url] + [u for u in ICAL_URLS if u != self.ical_url]
 
-        ekitaldiak = []
-        for osagaia in egutegi.walk():
-            if osagaia.name != "VEVENT":
+        for url in urls:
+            self.logger.info("EKE: saiatzen %s", url)
+            erantzuna = self.eskatu(url)
+            if not erantzuna:
                 continue
-            ekitaldia = self._parseatu_vevent(osagaia)
-            if ekitaldia:
-                ekitaldiak.append(ekitaldia)
+            # iCal formatua egiaztatu
+            if b"BEGIN:VCALENDAR" not in erantzuna.content[:100]:
+                self.logger.warning("EKE: %s ez da iCal formatua", url)
+                continue
+            try:
+                egutegi = Calendar.from_ical(erantzuna.content)
+            except Exception as e:
+                self.logger.error("iCal parseaketa huts: %s", e)
+                continue
 
-        self.logger.info("EKE: %d ekitaldi lortu", len(ekitaldiak))
-        return ekitaldiak
+            ekitaldiak = []
+            for osagaia in egutegi.walk():
+                if osagaia.name != "VEVENT":
+                    continue
+                ekitaldia = self._parseatu_vevent(osagaia)
+                if ekitaldia:
+                    ekitaldiak.append(ekitaldia)
+
+            if ekitaldiak:
+                self.logger.info("EKE: %d ekitaldi lortu (%s)", len(ekitaldiak), url)
+                return ekitaldiak
+            self.logger.warning("EKE: %s-tik 0 ekitaldi", url)
+
+        self.logger.error("EKE: URL guztiak huts egin dute")
+        return []
 
     def _parseatu_vevent(self, gertakaria) -> dict | None:
         def prop(gakoa):
