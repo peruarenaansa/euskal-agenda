@@ -150,6 +150,67 @@ class BaseScraper(ABC):
             izena = izena.title()
         izena = izena.rstrip(".,;:")
         izena = re.sub(r'^["\'](.+)["\']$', r"\1", izena)
+        # Elebiko tituluak garbitu eta parentesi soberakinak kendu
+        izena = BaseScraper._garbitu_izenburu_elebitua(izena)
+        return izena
+
+    @staticmethod
+    def _garbitu_izenburu_elebitua(izena: str) -> str:
+        """
+        Elebiko edo soberakiko tituluetatik euskarazko zatia atera.
+
+        Kasuak:
+          'Ciclo "Compartir Saberes / Ezagutzak Partekatuz" 2026'
+              → 'Ezagutzak Partekatuz 2026'
+          'Ciclo de conferencias "Mirande, hasiera berri bat"'
+              → 'Mirande, hasiera berri bat'
+          '"Gazte Artea Ezkerraldean 2026" (Santurtzi)'
+              → 'Gazte Artea Ezkerraldean 2026'
+          'Certamen de Poesía Ernestina de Champourcín 2026'
+              → '' (gaztelaniaz soilik → hizkuntza.py-k baztertuko du)
+        """
+        # Gaztelaniako hitz adierazgarriak (izenburu hasieran agertzen direnak)
+        GAZT_HASIERA = re.compile(
+            r"^(ciclo|certamen|concurso|jornada[s]?|curso|encuentro|"
+            r"festival|feria|semana|muestra|exposici[oó]n|concierto|"
+            r"conferencia|taller|programa|proyecto|convocatoria|concurs)\b",
+            re.IGNORECASE,
+        )
+
+        # 1. " / " batekin bereizitako bi aldeak: bigarrena hartu
+        if " / " in izena:
+            zatiak = [z.strip() for z in izena.split(" / ")]
+            if len(zatiak) == 2:
+                urtea_m = re.search(r'\b(20\d{2})\b', izena)
+                bigarrena = zatiak[1].strip()
+                # Komatxo mota guztiak kendu (hasieran, amaieran, eta urtearen aurretik)
+                bigarrena = re.sub(r'["\'\\\u201c\u201d\u00ab\u00bb]', '', bigarrena).strip()
+                if bigarrena:
+                    izena = bigarrena
+                    if urtea_m and urtea_m.group() not in izena:
+                        izena = f"{izena} {urtea_m.group()}"
+
+        # 2. Gaztelaniazko testuinguruan komatxo arteko zatia hartu
+        #    'Ciclo de conferencias "Mirande, hasiera berri bat"' → 'Mirande...'
+        if GAZT_HASIERA.match(izena):
+            komatxoak = re.findall(r'["\u201c\u00ab]([^"\u201d\u00bb]{4,})["\u201d\u00bb]', izena)
+            if komatxoak:
+                urtea = re.search(r'\b(20\d{2})\b', izena)
+                izena = komatxoak[-1].strip()  # Azken komatxo-zatia (normalean euskarazkoa)
+                if urtea and urtea.group() not in izena:
+                    izena = f"{izena} {urtea.group()}"
+
+        # 3. Parentesi arteko herri-izenak kendu amaieran
+        #    "(Santurtzi)", "(Bilbao)"... → kendu
+        izena = re.sub(
+            r'\s*\([A-ZÁÉÍÓÚÑ][a-záéíóúñA-ZÁÉÍÓÚÑ\s\-]{2,30}\)\s*$',
+            '',
+            izena,
+        ).strip()
+
+        # 4. Komatxo eta kontraslash soberakinak kendu hasieran/amaieran
+        izena = re.sub(r'^[\s"\'\\]+|[\s"\'\\]+$', '', izena).strip()
+
         return izena
 
     @staticmethod
