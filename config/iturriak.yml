@@ -18,7 +18,13 @@ iturriak:
       - "Arte Bisualak"
       - "Artes Visuales"
 
-  eke:
+  musikazuzenean:
+    izena: "Musika Zuzenean"
+    url_nagusia: "https://musikazuzenean.eus"
+    api_url: "https://musikazuzenean.eus/wp-json/wp/v2/ekitaldia"
+    metodoa: "wp_api_eta_html"
+    eremua: "EH"
+    eskaera_tartea: 1.5
     izena: "EKE - Euskal Kultur Erakundea"
     ical_url: "https://www.eke.eus/events/aggregator/@@event_listing_ical?mode=future"
     metodoa: "ical"
