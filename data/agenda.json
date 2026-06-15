@@ -1,7 +1,7 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-06-14T09:27:27.345094+00:00",
-    "ekitaldi_kopurua": 1179,
+    "noiz_eguneratua": "2026-06-15T11:56:01.835665+00:00",
+    "ekitaldi_kopurua": 1180,
     "iturriak": [
       "kulturklik.eus"
     ]
@@ -5979,6 +5979,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "833d1269"
+    },
+    {
+      "ekitaldia": "Silitia (breve concierto y tertulia)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-06-16",
+      "hasiera_ordua": "16:15",
+      "lekua": {
+        "non": "Bilboko kafe antzokia",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2637844046885,
+          -2.92798519134521
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kafeantzokia.eus/es/agenda/silitia-ekaina2026-kafeantzokia-bilbo",
+      "irudiaren_url": "/contenidos/evento/2026042115291453/es_def/images/47.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "29a2a9b5"
     },
     {
       "ekitaldia": "Club de lectura: \"Barne zerbitzuak",
