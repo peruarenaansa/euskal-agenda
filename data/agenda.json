@@ -1,7 +1,7 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-07-03T08:57:21.359501+00:00",
-    "ekitaldi_kopurua": 1925,
+    "noiz_eguneratua": "2026-07-04T08:32:08.060921+00:00",
+    "ekitaldi_kopurua": 1977,
     "iturriak": [
       "kulturklik.eus"
     ]
@@ -16085,6 +16085,30 @@
       "id": "21858ce0"
     },
     {
+      "ekitaldia": "Cine de Verano: \"Dragoi-jagolea",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-06-26",
+      "hasiera_ordua": "22:00",
+      "lekua": {
+        "non": "Plaza Traña",
+        "herria": "Abadiño",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.170352,
+          -2.607099
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DZ4pwCTDvhj",
+      "irudiaren_url": "/contenidos/evento/2026070309014207/es_def/images/maxresdefault.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b04303f1"
+    },
+    {
       "ekitaldia": "Fiestas de San Pedro 2026 en Sopela: Albina & Divina",
       "azalpena": "",
       "mota": "musika",
@@ -22061,6 +22085,30 @@
       "id": "6fce1531"
     },
     {
+      "ekitaldia": "Fito Skins eta Sukena",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Mitarte Kalean, Iosu aurrean",
+        "herria": "Aretxabaleta",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.036248,
+          -2.504542
+        ]
+      },
+      "prezioa": null,
+      "url": "https://musikazuzenean.eus/ekitaldia/fito-skins-sukena",
+      "irudiaren_url": "/contenidos/evento/2026070314430154/es_def/images/SUKENA.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ae740f50"
+    },
+    {
       "ekitaldia": "Fiesta de la Ermita 2026 en Abadiño: Bertso saioa: Aitor Bizkarra, Onintza Enbeita",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -22445,6 +22493,30 @@
       "id": "2f994e4a"
     },
     {
+      "ekitaldia": "Fiestas de Amaña 2026 en Eibar: Pirritx, Porrotx eta Marimotots",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "17:45",
+      "lekua": {
+        "non": "Barrio Amaña",
+        "herria": "Eibar",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.18418,
+          -2.473289
+        ]
+      },
+      "prezioa": null,
+      "url": "https://eibarkultura.eus/es/eventos/fiestas-de-amana",
+      "irudiaren_url": "/contenidos/evento/2026070313192990/es_def/images/images4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d041b5c0"
+    },
+    {
       "ekitaldia": "Bilboko Kalealdia 2026: \"Dis_order",
       "azalpena": "",
       "mota": "antzerkia",
@@ -22685,6 +22757,54 @@
       "id": "7457f888"
     },
     {
+      "ekitaldia": "Peter Hujar?s Day\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/peter-hujars-day-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308043100/es_def/images/88.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "dbde459d"
+    },
+    {
+      "ekitaldia": "Coro Sinfónico de Álava: \"Romanticismo alemán",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Conservatorio de Música Jesús Guridi",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8561791440269,
+          -2.67860412597656
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://www.instagram.com/corosinfonicodealava",
+      "irudiaren_url": "/contenidos/evento/2026070311212511/es_def/images/96.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a9a65098"
+    },
+    {
       "ekitaldia": "Bilboko Kalealdia 2026: \"Transh-Humante(s)",
       "azalpena": "",
       "mota": "antzerkia",
@@ -22875,6 +22995,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "040893d9"
+    },
+    {
+      "ekitaldia": "Mario Telez 4tet",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Altxerri Jazz Club",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.322711275052,
+          -1.98122978210449
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://www.instagram.com/p/DaLN5JCI_1V",
+      "irudiaren_url": "/contenidos/evento/2026070314232266/es_def/images/Musika8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1dcd716a"
+    },
+    {
+      "ekitaldia": "Arabako Plazetan 2026: \"ARTifizIAla",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-04",
+      "hasiera_ordua": "20:15",
+      "lekua": {
+        "non": "Salinas de Añana (Plaza)",
+        "herria": "Añana",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.802352,
+          -2.982607
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kulturaraba.eus/es/-/arabako-plazetan",
+      "irudiaren_url": "/contenidos/evento/2026052514582030/es_def/images/21.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "60e5e521"
     },
     {
       "ekitaldia": "Fiestas de Rekalde 2026: Ziraun, Rat-Zinger eta Modus Operandi",
@@ -23525,6 +23693,30 @@
       "id": "3c590be2"
     },
     {
+      "ekitaldia": "Gaztelu Zahar",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-05",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Iglesia",
+        "herria": "Biriatou",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.3332630395,
+          -1.74214839935
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.eke.eus/eu/agenda/gaztelu-zahar-2",
+      "irudiaren_url": "/contenidos/evento/2026070305002691/es_def/images/69.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "570559cb"
+    },
+    {
       "ekitaldia": "POTXO TORENA Rafa Luke en directo",
       "azalpena": "",
       "mota": "musika",
@@ -24099,6 +24291,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "ed8c9da8"
+    },
+    {
+      "ekitaldia": "Ziku zaku: Gaztetxoenentzako tarte fresko eta sortzailea",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-07",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/eu/agenda-kulturala-donostia?categoria=66",
+      "irudiaren_url": "/contenidos/evento/2026070310462756/es_def/images/91.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1689986a"
+    },
+    {
+      "ekitaldia": "Ziku Zaku - Un espacio fresco y creativo para los más jóvenes",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-07",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/07/07/un-espacio-fresco-y-creativo-para-los-mas-jovenes-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026070310522289/es_def/images/91.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "110009ff"
     },
     {
       "ekitaldia": "Mago Marsel",
@@ -24771,6 +25011,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "28db898c"
+    },
+    {
+      "ekitaldia": "Gau Giro Portalekuan 2026: Quitapenas Kolektiva",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-09",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Portalekua",
+        "herria": "Elorrio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.130386,
+          -2.542155
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DZ8HUq3KmRV",
+      "irudiaren_url": "/contenidos/evento/2026070312440490/es_def/images/62.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b0468197"
     },
     {
       "ekitaldia": "Errepika eta Denbora Pasa",
@@ -25539,6 +25803,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "5ae9e40d"
+    },
+    {
+      "ekitaldia": "Passages\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-11",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/passages-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308044543/es_def/images/86.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "77635789"
     },
     {
       "ekitaldia": "Urdaibaiko Organoak 2026: Patxi García & Mikel Ansola",
@@ -27293,6 +27581,30 @@
       "id": "cb022f1e"
     },
     {
+      "ekitaldia": "Eraitsi SL",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-16",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Plaza Nagusia",
+        "herria": "Idiazabal",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.011782,
+          -2.234214
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/07/16/eraitsi-sl-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026070313414012/es_def/images/2026070313414012EraitsiSL01817830789002946159364.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b97bc2c6"
+    },
+    {
       "ekitaldia": "Itxas Soinua 2026: Chiara Pelloni & Irati Bilbao",
       "azalpena": "",
       "mota": "musika",
@@ -27387,6 +27699,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1e9d5ea3"
+    },
+    {
+      "ekitaldia": "Gau Giro Portalekuan 2026: Imanol Ituiño (magia ikuskizuna)",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-16",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Portalekua",
+        "herria": "Elorrio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.130386,
+          -2.542155
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DZ8HUq3KmRV",
+      "irudiaren_url": "/contenidos/evento/2026070312462915/es_def/images/62.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1f5cf3fa"
     },
     {
       "ekitaldia": "The Covids",
@@ -27507,6 +27843,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d3e9ff02"
+    },
+    {
+      "ekitaldia": "HU - Bailad como si nadie os viera",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-17",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/huhu-bailad-como-si-nadie-os-viera",
+      "irudiaren_url": "/contenidos/evento/2026070308045944/es_def/images/90.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cbf673ac"
     },
     {
       "ekitaldia": "Bertso saioa: Xabier Amuriza, Irune Basagoiti",
@@ -27941,6 +28301,30 @@
       "id": "88f099c1"
     },
     {
+      "ekitaldia": "Kameleoiak gara!: \"Taller de arte. KOOPERATIBA",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-18",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/kameleoiak-gara-taller-de-arte-kooperatiba",
+      "irudiaren_url": "/contenidos/evento/2026070308063389/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "44ff6289"
+    },
+    {
       "ekitaldia": "Fiestas de Larrabasterra 2026 (El Carmen): \"Tavole",
       "azalpena": "",
       "mota": "antzerkia",
@@ -28155,6 +28539,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "01078ee4"
+    },
+    {
+      "ekitaldia": "Frankie\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-18",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/frankie-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308043854/es_def/images/87.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "15cf692a"
     },
     {
       "ekitaldia": "Rataplan 2026: \"El último que apague la luz",
@@ -30077,6 +30485,30 @@
       "id": "bdd1614d"
     },
     {
+      "ekitaldia": "Gau Giro Portalekuan 2026: Ander Zubillaga",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-23",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Portalekua",
+        "herria": "Elorrio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.130386,
+          -2.542155
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DZ8HUq3KmRV",
+      "irudiaren_url": "/contenidos/evento/2026070312482069/es_def/images/62.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "457b2cd7"
+    },
+    {
       "ekitaldia": "Jazzaldia 2026: David Murray eta Joe Lovano & Julian Lage",
       "azalpena": "",
       "mota": "musika",
@@ -31299,6 +31731,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "68821760"
+    },
+    {
+      "ekitaldia": "Little men\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-25",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/little-men-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308045256/es_def/images/85.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "4cafd892"
     },
     {
       "ekitaldia": "Enric Peidro & Federico Mazzanti Duo",
@@ -32957,6 +33413,30 @@
       "id": "7b589604"
     },
     {
+      "ekitaldia": "Gau Giro Portalekuan 2026: KAK!",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-07-30",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Portalekua",
+        "herria": "Elorrio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.130386,
+          -2.542155
+        ]
+      },
+      "prezioa": null,
+      "url": "https://musikazuzenean.eus/ekitaldia/kak-11",
+      "irudiaren_url": "/contenidos/evento/2026070312500481/es_def/images/62.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7e211919"
+    },
+    {
       "ekitaldia": "Zinema Beach Baluarte 2026: \"Los Cazafantasmas",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -33245,6 +33725,30 @@
       "id": "a55a430d"
     },
     {
+      "ekitaldia": "Bertso saioa: Arkaitz Estiballes, Etxahun Lekue",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-01",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Arbolantza auzoa",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2572,
+          -2.92376
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-01-bilbo-plaza-librea",
+      "irudiaren_url": "/contenidos/evento/2026070305015896/es_def/images/arkaitzestiballes.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5229d423"
+    },
+    {
       "ekitaldia": "Uda Giro 2026: \"Anónima",
       "azalpena": "",
       "mota": "antzerkia",
@@ -33267,6 +33771,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "547c8ca2"
+    },
+    {
+      "ekitaldia": "Love is strange\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-01",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/love-strange-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308061100/es_def/images/79.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bf1f5e70"
     },
     {
       "ekitaldia": "Urdaibaiko Organoak 2026: Victor Cruz & Fabio Frigato",
@@ -33483,6 +34011,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "34516331"
+    },
+    {
+      "ekitaldia": "Oihal laukia (70x70cm): Pañuelo/Bandera. Supervivencias y resistencia",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-04",
+      "hasiera_ordua": "10:30",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.0,
+      "url": "https://www.tabakalera.eus/es/oihal-laukia-70x70cm-panuelobandera-supervivencias-y-resistencia",
+      "irudiaren_url": "/contenidos/evento/2026070308074524/es_def/images/103.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "48b4708c"
     },
     {
       "ekitaldia": "Frankie and The Witch Fingers eta Psycho Rebel Front",
@@ -33941,6 +34493,30 @@
       "id": "006583bd"
     },
     {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: \"Zomozorroak\" (estreno)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-07",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 6.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-zomozorroak",
+      "irudiaren_url": "/contenidos/evento/2026070308055534/es_def/images/94.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c949a0e7"
+    },
+    {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: \"La Real Cámara",
       "azalpena": "",
       "mota": "musika",
@@ -34059,6 +34635,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "afa5eb5b"
+    },
+    {
+      "ekitaldia": "Keep the Lights On\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-08",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/keep-lights-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308072389/es_def/images/78.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b6e653df"
     },
     {
       "ekitaldia": "Urdaibaiko Organoak 2026: Ruth Rosique & Susana G. Lastra",
@@ -34349,6 +34949,54 @@
       "id": "07f6c518"
     },
     {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: Ion Munduate \"Hafuura",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-11",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-ion-munduate-hafuura",
+      "irudiaren_url": "/contenidos/evento/2026070308051535/es_def/images/97.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b049dbf4"
+    },
+    {
+      "ekitaldia": "Composing Speech\", Hannah Silva",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-12",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/composing-speech-hannah-silva",
+      "irudiaren_url": "/contenidos/evento/2026070308125257/es_def/images/84.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b3bc0ad3"
+    },
+    {
       "ekitaldia": "Jazzinema 2026: \"The Connection (La conexión)",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -34467,6 +35115,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "2c387193"
+    },
+    {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: Paula Quintana \"Atlas de anatomía",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-13",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-paula-quintana-atlas-de-anatomia",
+      "irudiaren_url": "/contenidos/evento/2026070308053321/es_def/images/99.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "87ce643a"
     },
     {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: Grigory Sokolov",
@@ -34613,6 +35285,54 @@
       "id": "a6f11046"
     },
     {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: Lorena Nogal \"PICASSa",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-14",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Kutxa Fundazioa Plaza",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.317145,
+          -1.97587
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-lorena-nogal-picassa",
+      "irudiaren_url": "/contenidos/evento/2026070308050751/es_def/images/93.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ee2d6362"
+    },
+    {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: Quatuor Béla",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-14",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-quatuor-bela",
+      "irudiaren_url": "/contenidos/evento/2026070308054831/es_def/images/95.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7de077fe"
+    },
+    {
       "ekitaldia": "Centro Da Terra",
       "azalpena": "",
       "mota": "musika",
@@ -34659,6 +35379,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "dbc991c0"
+    },
+    {
+      "ekitaldia": "Married Life\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-15",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/married-life-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308115871/es_def/images/75.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "42702f1a"
     },
     {
       "ekitaldia": "Urdaibaiko Organoak 2026: órgano, txistu y baile",
@@ -34755,6 +35499,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "bd51bfd9"
+    },
+    {
+      "ekitaldia": "Quincena Musical de San Sebastián 2026: Dúo Cassadó",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-16",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.tabakalera.eus/es/87a-quincena-musical-de-san-sebastian-duo-cassado",
+      "irudiaren_url": "/contenidos/evento/2026070308052520/es_def/images/100.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0c57d8e6"
     },
     {
       "ekitaldia": "Ryan Davis & The Roadhouse Band",
@@ -35021,6 +35789,30 @@
       "id": "8995f50a"
     },
     {
+      "ekitaldia": "Forty Shades of Blue\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-22",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/forty-shades-blue-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308114923/es_def/images/76.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "95f25235"
+    },
+    {
       "ekitaldia": "Bastidako Kale Antzerkia 2026: \"DENBORAREN LAPURRAK",
       "azalpena": "",
       "mota": "antzerkia",
@@ -35093,6 +35885,30 @@
       "id": "6ea7baf3"
     },
     {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Musbika Ensemble (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-22",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070313333129/es_def/images/111.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7fae5c23"
+    },
+    {
       "ekitaldia": "Aste Nagusia de Bilbao 2026: : HAYLEN (Kafe Antzokia)",
       "azalpena": "",
       "mota": "musika",
@@ -35115,6 +35931,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "c45a8b8b"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026: Zea Mays",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-22",
+      "hasiera_ordua": "23:30",
+      "lekua": {
+        "non": "Museo Guggenheim Bilbao",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2685031553625,
+          -2.93442249298095
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DaCrsBtuYUM",
+      "irudiaren_url": "/contenidos/evento/2026062612160547/es_def/images/zeamays1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d34addfe"
     },
     {
       "ekitaldia": "Aste Nagusia de Bilbao 2026 : Darkold eta Mandarinas Al Sol (Muestra Metal, Pop-Rock)",
@@ -35213,6 +36053,54 @@
       "id": "e560e055"
     },
     {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Tatiana Samouil y Josu Okiñena (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-24",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070313353167/es_def/images/113.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "eb77e61b"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026: Mirua",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-24",
+      "hasiera_ordua": "23:30",
+      "lekua": {
+        "non": "Museo Guggenheim Bilbao",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2685031553625,
+          -2.93442249298095
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DaN3-AmvTX7",
+      "irudiaren_url": "/contenidos/evento/2026070108030668/es_def/images/MIRUA.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e1acdadc"
+    },
+    {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: Seoul Philharmonic Orchestra",
       "azalpena": "",
       "mota": "musika",
@@ -35259,6 +36147,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "47b0bc30"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Dúo Boreal (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-25",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070313481892/es_def/images/114.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bd46ab2e"
     },
     {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: Seoul Philharmonic Orchestra, Easo Abesbatza",
@@ -35333,6 +36245,54 @@
       "id": "949706c7"
     },
     {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Ecco Quintet Musikene (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-26",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070313492928/es_def/images/115.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "136c2307"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026: Urtz & BOS",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-26",
+      "hasiera_ordua": "23:30",
+      "lekua": {
+        "non": "Museo Guggenheim Bilbao",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2685031553625,
+          -2.93442249298095
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DZ7LY9fu25T",
+      "irudiaren_url": "/contenidos/evento/2026070308372075/es_def/images/71.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "8cc58a6e"
+    },
+    {
       "ekitaldia": "Welcome & Sorry",
       "azalpena": "",
       "mota": "antzerkia",
@@ -35379,6 +36339,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "8c0e1f9a"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Osimun Quartet (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-27",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070314155670/es_def/images/Musika4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d2e61c14"
     },
     {
       "ekitaldia": "Milagros & Valentina",
@@ -35429,6 +36413,30 @@
       "id": "43ace9db"
     },
     {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Rossini Abestatza (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-28",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070314180206/es_def/images/Musika4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "751911dc"
+    },
+    {
       "ekitaldia": "Blue Wax",
       "azalpena": "",
       "mota": "musika",
@@ -35475,6 +36483,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4ee5b853"
+    },
+    {
+      "ekitaldia": "Kameleoiak gara!: \"Taller de arte. KOOPERATIBA",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-29",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/kameleoiak-gara-taller-de-arte-kooperatiba#c402988",
+      "irudiaren_url": "/contenidos/evento/2026070308064083/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "53dcf3f9"
+    },
+    {
+      "ekitaldia": "The Delta\", Ira Sachs",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-08-29",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/delta-ira-sachs",
+      "irudiaren_url": "/contenidos/evento/2026070308114170/es_def/images/74.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "4a04ee52"
     },
     {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: Orquesta Filarmónica de la Scala de Milán",
@@ -35547,6 +36603,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "bee46da2"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Adolfo Gutiérrez Arenas (Iglesia de la Encarnación)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-29",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26060527595661,
+          -2.9234168841389105
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
+      "irudiaren_url": "/contenidos/evento/2026070314200515/es_def/images/117.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b514009b"
     },
     {
       "ekitaldia": "Quincena Musical de San Sebastián 2026: Orquesta Filarmónica de la Scala de Milán, Orfeón Donostiarra",
@@ -36267,6 +37347,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "31778e1e"
+    },
+    {
+      "ekitaldia": "Kameleoiak gara!: \"Taller de arte. KOOPERATIBA",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-12",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/kameleoiak-gara-taller-de-arte-kooperatiba#c402989",
+      "irudiaren_url": "/contenidos/evento/2026070308064853/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b5b6a676"
     },
     {
       "ekitaldia": "MAKILhotsak",
@@ -37613,6 +38717,30 @@
       "id": "ab0b36fc"
     },
     {
+      "ekitaldia": "Sarasate Flamenco Sinfónico",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Los Llanos",
+        "herria": "Estella-Lizarra",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.6708877452487,
+          -2.03414440155029
+        ]
+      },
+      "prezioa": 15.75,
+      "url": "https://estella/-lizarra.sacatuentrada.es/es/productos/descripcion/sarasate-flamenco-sinfonico",
+      "irudiaren_url": "/contenidos/evento/2026070311445391/es_def/images/sddefault.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a44caa46"
+    },
+    {
       "ekitaldia": "Tchotchke",
       "azalpena": "",
       "mota": "musika",
@@ -38883,6 +40011,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "9c6618c4"
+    },
+    {
+      "ekitaldia": "La maja y la mona (o viceversa)",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Los Llanos",
+        "herria": "Estella-Lizarra",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.6708877452487,
+          -2.03414440155029
+        ]
+      },
+      "prezioa": 8.4,
+      "url": "https://estella/-lizarra.sacatuentrada.es/es/entradas/la-maja-y-la-mona-o-viceversa-",
+      "irudiaren_url": "/contenidos/evento/2026070312035589/es_def/images/maxresdefault1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b7a6cee2"
     },
     {
       "ekitaldia": "BBK Music Legends 2026: The Screamin? Cheetah Wheelies",
@@ -40949,6 +42101,30 @@
       "id": "3c77c245"
     },
     {
+      "ekitaldia": "Las bodas de Fígaro",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-07",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Amaia KZ",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3388503616367,
+          -1.79662942886352
+        ]
+      },
+      "prezioa": 27.0,
+      "url": "https://amaiakz.sacatuentrada.es/eu/productos/descripcion/opera-las-bodas-de-figaro",
+      "irudiaren_url": "/contenidos/evento/2026070309453973/es_def/images/83.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7857ed4a"
+    },
+    {
       "ekitaldia": "Sepulnation eta Kaizoku",
       "azalpena": "",
       "mota": "musika",
@@ -42029,6 +43205,30 @@
       "id": "3f943a1b"
     },
     {
+      "ekitaldia": "Catherine Russell",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-11-21",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Kursaal",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.324116201533,
+          -1.9789981842041
+        ]
+      },
+      "prezioa": 50.0,
+      "url": "https://www.kursaal.eus/es/agenda/catherine-russell-clasicos-del-jazz",
+      "irudiaren_url": "/contenidos/evento/2026070313074808/es_def/images/cr.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3ec3d9d1"
+    },
+    {
       "ekitaldia": "Gbh, Larsen, Deaf Devils eta The Capaces",
       "azalpena": "",
       "mota": "musika",
@@ -42267,6 +43467,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a3881f0b"
+    },
+    {
+      "ekitaldia": "Arte makina. KOOPERATIBA",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-26",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/arte-makina-kooperatiba#c403018",
+      "irudiaren_url": "/contenidos/evento/2026070308121775/es_def/images/89.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0c289898"
     },
     {
       "ekitaldia": "Orquesta Sinfónica de Navarra 2026/27: \"En la tierra",
@@ -43011,6 +44235,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "cbd828da"
+    },
+    {
+      "ekitaldia": "Soweto Gospel Choir",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-09",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Auditorio Baluarte",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.8148587900543,
+          -1.64674758911132
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://www.baluarte.com/es/agenda/evento/soweto-gospel-choir-joy-9-diciembre-2026",
+      "irudiaren_url": "/contenidos/evento/2026070313031823/es_def/images/sgc.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "479d2aff"
     },
     {
       "ekitaldia": "Peiremans eta (10 y 11 de diciembre - Azpeitia)",
