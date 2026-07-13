@@ -1,7 +1,7 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-07-12T08:10:03.213088+00:00",
-    "ekitaldi_kopurua": 2280,
+    "noiz_eguneratua": "2026-07-13T08:59:19.487591+00:00",
+    "ekitaldi_kopurua": 2281,
     "iturriak": [
       "kulturklik.eus"
     ]
@@ -28587,6 +28587,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "db3722a6"
+    },
+    {
+      "ekitaldia": "San Fermín 2026: Bengo eta Ziris",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-07-13",
+      "hasiera_ordua": "22:00",
+      "lekua": {
+        "non": "Calle Carmen",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": null,
+      "url": "https://musikazuzenean.eus/ekitaldia/bengo-ziris-fifi-eta-fefa-elektrozarata-mortx-dj-barbarie",
+      "irudiaren_url": "/contenidos/evento/2026071012554456/es_def/images/BENGO2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "449e38f7"
     },
     {
       "ekitaldia": "San Fermín 2026: Hofe eta Jarfaiter",
