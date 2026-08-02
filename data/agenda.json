@@ -1,36 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-08-01T08:12:22.745472+00:00",
-    "ekitaldi_kopurua": 3208,
+    "noiz_eguneratua": "2026-08-02T08:13:30.571682+00:00",
+    "ekitaldi_kopurua": 3214,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Quiosco de Cristal",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-05-03",
-      "hasiera_ordua": "13:30",
-      "lekua": {
-        "non": "Muxikebarri - Centro de Arte, Cultura y Congresos de Getxo",
-        "herria": "Getxo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.351504,
-          -3.013059
-        ]
-      },
-      "prezioa": null,
-      "url": "https://getxo/-kultura.eus/es/quiosco-de-cristal-2026",
-      "irudiaren_url": "/contenidos/evento/2026033105012689/es_def/images/103.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0f52231b"
-    },
     {
       "ekitaldia": "Encuentros de Teatro Infantil de Arratia",
       "azalpena": "",
@@ -45413,6 +45389,30 @@
       "id": "a7dbac50"
     },
     {
+      "ekitaldia": "Pregón de Fiestas en Honor a la Virgen Blanca 2026: Iñigo Etxezarreta (ETS) eta actuación de Oreka TX",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-02",
+      "hasiera_ordua": "21:30",
+      "lekua": {
+        "non": "Plaza de España",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846422,
+          -2.67248
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__1139",
+      "irudiaren_url": "/contenidos/evento/2026070905115831/es_def/images/1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f7bdae3d"
+    },
+    {
       "ekitaldia": "Kopraixak 2026: Tapia eta Leturia",
       "azalpena": "",
       "mota": "musika",
@@ -45435,6 +45435,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "0316d315"
+    },
+    {
+      "ekitaldia": "Fiestas de Oiartzun 2026: Bele eta Burutik",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-02",
+      "hasiera_ordua": "23:30",
+      "lekua": {
+        "non": "Txosnagunea",
+        "herria": "Oiartzun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.299282,
+          -1.857874
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
+      "irudiaren_url": "/contenidos/evento/2026080109341224/es_def/images/BELE.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "18e6acdb"
     },
     {
       "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz : Akerbeltz (prefiestas)",
@@ -45507,6 +45531,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4931376a"
+    },
+    {
+      "ekitaldia": "Fiestas de Bera 2026: Joseba B. Lenoir Gang",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-03",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Kataku ostatua",
+        "herria": "Bera",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.286434,
+          -1.675383
+        ]
+      },
+      "prezioa": null,
+      "url": "https://musikazuzenean.eus/ekitaldia/joseba-b-lenoir-gang-4",
+      "irudiaren_url": "/contenidos/evento/2026080109451710/es_def/images/3432.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1e458432"
     },
     {
       "ekitaldia": "Urgullen kontu-kontari",
@@ -46205,6 +46253,30 @@
       "id": "3e9cd4e1"
     },
     {
+      "ekitaldia": "Fiestas de Oiartzun 2026: ASTELEHEN GOIZAK eta LORAZE",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-04",
+      "hasiera_ordua": "23:00",
+      "lekua": {
+        "non": "Txosnagunea",
+        "herria": "Oiartzun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.299282,
+          -1.857874
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
+      "irudiaren_url": "/contenidos/evento/2026080109375002/es_def/images/ProgramaFiestasSantaAna2026enLasArenasGetxo.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a96d4067"
+    },
+    {
       "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: ETZAKIT",
       "azalpena": "",
       "mota": "musika",
@@ -46371,6 +46443,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "96ce6acf"
+    },
+    {
+      "ekitaldia": "Fiestas de Oiartzun 2026: ARIN-ARIN ETA FANDANGO TXAPELKETA",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-05",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Landetxe Kultur Aretoa",
+        "herria": "Oiartzun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.30000057513137,
+          -1.8612074439517128
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
+      "irudiaren_url": "/contenidos/evento/2026080109400391/es_def/images/ProgramaFiestasSanPrudencioyNuestraSenoradeEstibaliz2026FIESTASDEALAVA2026.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0c102acb"
     },
     {
       "ekitaldia": "JANINO BASKONE \"Con orgullo\" playback kabaret show",
@@ -47403,6 +47499,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1004f0d4"
+    },
+    {
+      "ekitaldia": "Semana Grande de Donostia 2026: Puro Relajo",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-06",
+      "hasiera_ordua": "23:00",
+      "lekua": {
+        "non": "Done Eztebe plaza",
+        "herria": "Oiartzun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.299282,
+          -1.857874
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
+      "irudiaren_url": "/contenidos/evento/2026080109415613/es_def/images/PURORELAJO.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "033ecdc2"
     },
     {
       "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: Joselu Anayak",
@@ -58515,6 +58635,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "c0575655"
+    },
+    {
+      "ekitaldia": "Bertso jaialdia: Etxahun Lekue, Maialen Lujanbio, Jon Maia, Maddi Ane Txoperena",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-30",
+      "hasiera_ordua": "13:00",
+      "lekua": {
+        "non": "Santiago Plaza",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2572,
+          -2.92376
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-30-bilbo-jaialdia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "45501534"
     },
     {
       "ekitaldia": "Fiestas San Agustín 2026 en Altzaga : Los Cinco Bilbainos (Erandio)",
