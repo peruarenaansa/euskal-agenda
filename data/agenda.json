@@ -1,7 +1,7 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-08-20T06:36:00.086640+00:00",
-    "ekitaldi_kopurua": 6951,
+    "noiz_eguneratua": "2026-08-21T06:36:27.009012+00:00",
+    "ekitaldi_kopurua": 7022,
     "iturriak": [
       "kulturklik.eus"
     ]
@@ -51586,6 +51586,30 @@
       "mota": "bestelakoak",
       "hizkuntza": "eu",
       "hasiera_data": "2026-08-12",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Cines Niessen",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.314342,
+          -1.900704
+        ]
+      },
+      "prezioa": 4.8,
+      "url": "https://www.reservaentradas.com/sesiones/guipuzcoa/cinesniessen/marsupilami/1654?proximamente=true",
+      "irudiaren_url": "/contenidos/evento/2026081111071510/es_def/images/342432.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "033d8a40"
+    },
+    {
+      "ekitaldia": "Marsupilami",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-12",
       "hasiera_ordua": "17:15",
       "lekua": {
         "non": "Golem La Morea",
@@ -57941,6 +57965,30 @@
       "id": "cce57cba"
     },
     {
+      "ekitaldia": "Marsupilami",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-21",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Cines Florida",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8439401219717,
+          -2.67109394073486
+        ]
+      },
+      "prezioa": 8.0,
+      "url": "https://www.cinesflorida.com/peliculas/pelicula?id=2969",
+      "irudiaren_url": "/contenidos/evento/2026081910162748/es_def/images/342432.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b6e0e876"
+    },
+    {
       "ekitaldia": "SIR EL TOM - El mejor Tributo a Elton John del Mundo",
       "azalpena": "",
       "mota": "musika",
@@ -61875,6 +61923,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "523d08e1"
+    },
+    {
+      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Tukanon (Euskalgunea)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-08-27",
+      "hasiera_ordua": "13:30",
+      "lekua": {
+        "non": "Euskalgunea (Txosnagunea)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26164675593898,
+          -2.9234704947915535
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/27/aste-nagusia-de-bilbao-2026-euskalgunea-tukanon/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026081813213627/es_def/images/Musika8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cbc75036"
     },
     {
       "ekitaldia": "Aste Nagusia de Bilbao 2026 : KAK! eta Zeatikez (Triangune)",
@@ -71705,6 +71777,30 @@
       "id": "045a6341"
     },
     {
+      "ekitaldia": "Fiestas de Bakio 2026: Moonshine Wagon eta Unholy Covers",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-29",
+      "hasiera_ordua": "22:30",
+      "lekua": {
+        "non": "Zubiaurrealde",
+        "herria": "Bakio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.427864,
+          -2.811455
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bakio.eus/es-ES/Noticias/Documents/20260819-bakioko-jaiak-programa.pdf",
+      "irudiaren_url": "/contenidos/evento/2026081912151330/es_def/images/MOONSHINEWAGON.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fc660086"
+    },
+    {
       "ekitaldia": "Fiestas San Bartolomé de Elgoibar 2026: ETS",
       "azalpena": "",
       "mota": "musika",
@@ -79071,6 +79167,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "2f95500f"
+    },
+    {
+      "ekitaldia": "Fiestas de Bakio2026: Zopilotes Txirriaos eta Malakias",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-08-30",
+      "hasiera_ordua": "22:00",
+      "lekua": {
+        "non": "Zubiaurrealde",
+        "herria": "Bakio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.427864,
+          -2.811455
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.bakio.eus/es-ES/Noticias/Documents/20260819-bakioko-jaiak-programa.pdf",
+      "irudiaren_url": "/contenidos/evento/2026081912183929/es_def/images/LOSZOPILOTESTXIRRIAOS.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cf0b583c"
     },
     {
       "ekitaldia": "ARGIAREN BASOA",
@@ -101797,6 +101917,30 @@
       "id": "f1d88c45"
     },
     {
+      "ekitaldia": "Cuentacuentos: \"Printze giltzapetuta",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-03",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Biblioteca Municipal Aldakonea",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.312752,
+          -1.899633
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/cuentacuentos-printze-giltzapetuta-0ws6wg",
+      "irudiaren_url": "/contenidos/evento/2026081913181587/es_def/images/43.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a9c72500"
+    },
+    {
       "ekitaldia": "Trapagarango Jaiak 2026: Porrotx, Marimotots, Pupu eta Lore: \"Zerua lapurtu dute",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -109097,6 +109241,30 @@
       "id": "955a7d24"
     },
     {
+      "ekitaldia": "Cuatro Pesos de Propina eta Besarka",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-04",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 25.0,
+      "url": "https://azkena.eus/4-de-septiembre-cuatro-pesos-de-propina-besarka",
+      "irudiaren_url": "/contenidos/evento/2026081910290695/es_def/images/20.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7ea60c15"
+    },
+    {
       "ekitaldia": "Berto Romero: \"Lo nunca visto",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -115851,6 +116019,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "124afd33"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-05",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://feverup.com/m/610544",
+      "irudiaren_url": "/contenidos/evento/2026081908341329/es_def/images/19.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bcc22ac2"
     },
     {
       "ekitaldia": "CANDLELIGHT Donostia: \"Las Cuatro Estaciones de Vivaldi",
@@ -134825,6 +135017,30 @@
       "id": "be4d99f3"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-12",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 18.0,
+      "url": "https://feverup.com/m/156209",
+      "irudiaren_url": "/contenidos/evento/2026081908013075/es_def/images/63.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3c01fbb2"
+    },
+    {
       "ekitaldia": "Flavio Sala: \"El silencio entre los sonidos",
       "azalpena": "",
       "mota": "musika",
@@ -135015,6 +135231,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4a7d334b"
+    },
+    {
+      "ekitaldia": "The Northem Straits",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-09-12",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 12.0,
+      "url": "https://azkena.eus/12-de-septiembre-the-northern-straits",
+      "irudiaren_url": "/contenidos/evento/2026081910492318/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ab8703c9"
     },
     {
       "ekitaldia": "Getxo Folk 2026: ETS - En Tol Sarmiento",
@@ -135449,6 +135689,30 @@
       "id": "a7f64119"
     },
     {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-13",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 18.5,
+      "url": "https://feverup.com/m/254592",
+      "irudiaren_url": "/contenidos/evento/2026081908504646/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fe35c118"
+    },
+    {
       "ekitaldia": "Fiestas de Elorrio 2026 (Ferixa Nausikoak 2026): \"IOI",
       "azalpena": "",
       "mota": "dantza",
@@ -135567,6 +135831,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "89678bf4"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Lo mejor de Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-13",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 13.5,
+      "url": "https://feverup.com/m/129318",
+      "irudiaren_url": "/contenidos/evento/2026081909272654/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b92574f4"
     },
     {
       "ekitaldia": "Tertulias literarias: \"Yesteryear",
@@ -135953,6 +136241,30 @@
       "id": "7238fed9"
     },
     {
+      "ekitaldia": "Ozzinema: \"La misteriosa mirada del flamenco",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-17",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Cines Niessen",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.314342,
+          -1.900704
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/ozzinema-la-misteriosa-mirada-del-flamenco-u0ixf",
+      "irudiaren_url": "/contenidos/evento/2026081913204423/es_def/images/27.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c56a60f2"
+    },
+    {
       "ekitaldia": "Ithaka, Anari eta Ke Lepo",
       "azalpena": "",
       "mota": "musika",
@@ -136313,6 +136625,30 @@
       "id": "ba361c43"
     },
     {
+      "ekitaldia": "Ane Han: \"Itzulerak",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-18",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://azkena.eus/18-de-septiembre-ane-han",
+      "irudiaren_url": "/contenidos/evento/2026081910595562/es_def/images/24.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "4fe8d156"
+    },
+    {
       "ekitaldia": "Brigade Loco, Uda eta Altxaporru",
       "azalpena": "",
       "mota": "musika",
@@ -136551,6 +136887,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "106b45df"
+    },
+    {
+      "ekitaldia": "Seek 'Em All",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-09-19",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://azkena.eus/19-de-septiembre-seek-em-all",
+      "irudiaren_url": "/contenidos/evento/2026081911024123/es_def/images/25.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "9677022d"
     },
     {
       "ekitaldia": "Kate Clover",
@@ -137681,6 +138041,30 @@
       "id": "94aa7e0d"
     },
     {
+      "ekitaldia": "Periferia eta Painapple",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-09-25",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 18.0,
+      "url": "https://azkena.eus/25-de-septiembre-periferia-painapple",
+      "irudiaren_url": "/contenidos/evento/2026081911101968/es_def/images/26.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0b03aa16"
+    },
+    {
       "ekitaldia": "Odolkiak Ordainetan, Ajou! eta Ateri",
       "azalpena": "",
       "mota": "musika",
@@ -137993,6 +138377,30 @@
       "id": "126b3725"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 16.5,
+      "url": "https://feverup.com/m/584765",
+      "irudiaren_url": "/contenidos/evento/2026081908072259/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "4c8d87df"
+    },
+    {
       "ekitaldia": "Esto No Es Rock Radical Vasco 2026",
       "azalpena": "",
       "mota": "musika",
@@ -138183,6 +138591,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "7146e7e3"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-26",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://feverup.com/m/126513",
+      "irudiaren_url": "/contenidos/evento/2026081908063088/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "8775c10d"
     },
     {
       "ekitaldia": "Hoodoo Gurus",
@@ -138377,6 +138809,30 @@
       "id": "51a79b58"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Queen vs. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/259135",
+      "irudiaren_url": "/contenidos/evento/2026081908154574/es_def/images/1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2750a312"
+    },
+    {
       "ekitaldia": "Maite Larburu: \"Maizter",
       "azalpena": "",
       "mota": "musika",
@@ -138425,6 +138881,30 @@
       "id": "a44caa46"
     },
     {
+      "ekitaldia": "Maite Larburu eta Jurgi Ekiza",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Gurea antzokia",
+        "herria": "Villabona",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1865919037657,
+          -2.05337047576904
+        ]
+      },
+      "prezioa": 8.0,
+      "url": "https://gureantzokia.sacatuentrada.es/es/productos/descripcion/maite-larburu-jurgi-ekiza",
+      "irudiaren_url": "/contenidos/evento/2026081910070113/es_def/images/19.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c2e6f1cc"
+    },
+    {
       "ekitaldia": "Tchotchke",
       "azalpena": "",
       "mota": "musika",
@@ -138447,6 +138927,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "3180f615"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Tributo a Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Palacio De Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/259115",
+      "irudiaren_url": "/contenidos/evento/2026081908165719/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "9a9b3dd3"
     },
     {
       "ekitaldia": "Porrotx, Marimotots, Pupu eta Lore: \"Zerua lapurtu dute",
@@ -139649,6 +140153,54 @@
       "id": "df415a51"
     },
     {
+      "ekitaldia": "Tertulias literarias: \"It Can't Happen Here",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-10-05",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Biblioteca Central - Sala de actividades (San Jerónimo)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3223366225032,
+          -1.9848883152008
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/cant-happen-here-lewis",
+      "irudiaren_url": "/contenidos/evento/2026081905021523/es_def/images/5.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "956a970c"
+    },
+    {
+      "ekitaldia": "Tertulias literarias: \"Erbeste",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-06",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Biblioteca Central - Sala de actividades (San Jerónimo)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3223366225032,
+          -1.9848883152008
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/erbeste-juan-garzia-encuentro",
+      "irudiaren_url": "/contenidos/evento/2026081905022215/es_def/images/Liburuak.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e900d32c"
+    },
+    {
       "ekitaldia": "TAO Dance Theater: \"13 & 14",
       "azalpena": "",
       "mota": "dantza",
@@ -140297,6 +140849,30 @@
       "id": "f3b081ed"
     },
     {
+      "ekitaldia": "Oin Txiki",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Centro Cultural Aiete",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.305863,
+          -1.991954
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/smallfoot-es",
+      "irudiaren_url": "/contenidos/evento/2026081905023073/es_def/images/6.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bfa4ac0d"
+    },
+    {
       "ekitaldia": "Nafarroa 1512, Sembrando Kaos eta Ostikoka",
       "azalpena": "",
       "mota": "musika",
@@ -140631,6 +141207,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "ab7e6f1f"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-11",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/150495",
+      "irudiaren_url": "/contenidos/evento/2026081909293788/es_def/images/31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d0bbb602"
     },
     {
       "ekitaldia": "Teenage Fanclub",
@@ -141209,6 +141809,30 @@
       "id": "40840d67"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/259136",
+      "irudiaren_url": "/contenidos/evento/2026081908173933/es_def/images/31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3e35302a"
+    },
+    {
       "ekitaldia": "Amorante",
       "azalpena": "",
       "mota": "musika",
@@ -141377,6 +142001,30 @@
       "id": "f71189d7"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/671997",
+      "irudiaren_url": "/contenidos/evento/2026081908194661/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "14d46d81"
+    },
+    {
       "ekitaldia": "The Nu Metal Resurrection 2026",
       "azalpena": "",
       "mota": "musika",
@@ -141447,6 +142095,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "971c8071"
+    },
+    {
+      "ekitaldia": "Planet 51",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-17",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Centro Cultural Aiete",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.305863,
+          -1.991954
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/planet",
+      "irudiaren_url": "/contenidos/evento/2026081905023863/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "8d216d02"
     },
     {
       "ekitaldia": "Petit Break",
@@ -142145,6 +142817,30 @@
       "id": "6b937e0a"
     },
     {
+      "ekitaldia": "Tertulias literarias: \"Un soir d'été",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "franc",
+      "hasiera_data": "2026-10-19",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Biblioteca Central - Sala de actividades (San Jerónimo)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3223366225032,
+          -1.9848883152008
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/soir-dete-besson",
+      "irudiaren_url": "/contenidos/evento/2026051205062361/es_def/images/6.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bf922e8f"
+    },
+    {
       "ekitaldia": "Presentación de libro: 'Tretatxu",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -142503,6 +143199,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d281b92a"
+    },
+    {
+      "ekitaldia": "Cine infantil: \"Das kleine Gespenst",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-23",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Centro Cultural Aiete",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.305863,
+          -1.991954
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/das-kleine-gespenst",
+      "irudiaren_url": "/contenidos/evento/2026081905030164/es_def/images/8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2c648966"
     },
     {
       "ekitaldia": "Abentura kuantikoa",
@@ -143081,6 +143801,30 @@
       "id": "e86599a1"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-24",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.5,
+      "url": "https://feverup.com/m/156209",
+      "irudiaren_url": "/contenidos/evento/2026081908021142/es_def/images/63.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "296e500b"
+    },
+    {
       "ekitaldia": "Ciclo de Cámara de Vitoria-Gasteiz 2026: Alicia Amo - Andoni Mercero",
       "azalpena": "",
       "mota": "musika",
@@ -143297,6 +144041,30 @@
       "id": "1e4ea52c"
     },
     {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Lo mejor de The Beatles",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-25",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 13.0,
+      "url": "https://feverup.com/m/132377",
+      "irudiaren_url": "/contenidos/evento/2026081909315255/es_def/images/16.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1f2beb1f"
+    },
+    {
       "ekitaldia": "Anastacia (25 de octubre - Pamplona)",
       "azalpena": "",
       "mota": "musika",
@@ -143319,6 +144087,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "18b93dfb"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-25",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 13.5,
+      "url": "https://feverup.com/m/642350",
+      "irudiaren_url": "/contenidos/evento/2026081909333504/es_def/images/17.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1b62f623"
     },
     {
       "ekitaldia": "Piotr Anderszewski",
@@ -144065,6 +144857,30 @@
       "id": "b5d0821b"
     },
     {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Lo mejor de Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-01",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/129318",
+      "irudiaren_url": "/contenidos/evento/2026081909281451/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fb9bbbfe"
+    },
+    {
       "ekitaldia": "Cinema Stereo",
       "azalpena": "",
       "mota": "musika",
@@ -144087,6 +144903,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "94c72eb1"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Las Cuatro Estaciones de Vivaldi",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-01",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/126903",
+      "irudiaren_url": "/contenidos/evento/2026081909370826/es_def/images/13.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "134742a4"
     },
     {
       "ekitaldia": "Antzerki Aroa 2026: \"Sidari",
@@ -144567,6 +145407,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "7857ed4a"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-07",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 17.0,
+      "url": "https://feverup.com/m/156209",
+      "irudiaren_url": "/contenidos/evento/2026081908031627/es_def/images/63.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c91c2382"
     },
     {
       "ekitaldia": "Euskadiko Orkestra 2026/27: \"Aita Donostia: La vie profonde de Saint François d'Assise",
@@ -146417,6 +147281,30 @@
       "id": "27cff016"
     },
     {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-21",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/656240",
+      "irudiaren_url": "/contenidos/evento/2026081908374064/es_def/images/13.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "db66f1d9"
+    },
+    {
       "ekitaldia": "Gbh, Larsen, Deaf Devils eta The Capaces",
       "azalpena": "",
       "mota": "musika",
@@ -147185,6 +148073,30 @@
       "id": "41c59c3c"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Queen vs. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/670404",
+      "irudiaren_url": "/contenidos/evento/2026081908220030/es_def/images/10.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "560fd3a8"
+    },
+    {
       "ekitaldia": "Epa Txiki!",
       "azalpena": "",
       "mota": "antzerkia",
@@ -147255,6 +148167,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "25392643"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Lo mejor de Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/671996",
+      "irudiaren_url": "/contenidos/evento/2026081908243890/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "92d35815"
     },
     {
       "ekitaldia": "Ensemble Les Surprises eta Veronique Gens",
@@ -147495,6 +148431,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a07851ec"
+    },
+    {
+      "ekitaldia": "Josetxu Piperrak eta Arpaviejas",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Lekuona Fabrika",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.312752,
+          -1.899633
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/josetxu-piperrak-arpaviejas-cgt8iq",
+      "irudiaren_url": "/contenidos/evento/2026081913264991/es_def/images/45.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "354326e7"
     },
     {
       "ekitaldia": "BAND JOVI: Tributo a Bon Jovi: \"10º aniversario",
@@ -148097,6 +149057,30 @@
       "id": "8f3c9959"
     },
     {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Las Cuatro Estaciones de Vivaldi",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-05",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://feverup.com/m/583052",
+      "irudiaren_url": "/contenidos/evento/2026040710013947/es_def/images/20.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bfaaf908"
+    },
+    {
       "ekitaldia": "WE, nosotros y los tiempos",
       "azalpena": "",
       "mota": "dantza",
@@ -148167,6 +149151,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "e1b112b0"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-05",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.5,
+      "url": "https://feverup.com/m/156209",
+      "irudiaren_url": "/contenidos/evento/2026081908040285/es_def/images/63.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "718e1074"
     },
     {
       "ekitaldia": "Sesamo, ireki zaitez!",
@@ -148671,6 +149679,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "578b8657"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Clásicos de Navidad",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/656276",
+      "irudiaren_url": "/contenidos/evento/2026081908415901/es_def/images/43.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "201b50bf"
     },
     {
       "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Queen y The Beatles",
@@ -149297,6 +150329,30 @@
       "id": "90eae189"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-18",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/671997",
+      "irudiaren_url": "/contenidos/evento/2026081908201057/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c849036d"
+    },
+    {
       "ekitaldia": "Jone, batzuetan\" (Proyección y tertulia con Sara Fantova)",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -149369,6 +150425,30 @@
       "id": "0c1a2cec"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-18",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/259136",
+      "irudiaren_url": "/contenidos/evento/2026081908180737/es_def/images/31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ee4c80e6"
+    },
+    {
       "ekitaldia": "Cine infantil: \"Surfak zoratuta",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -149439,6 +150519,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d15a9ace"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Navidad: Cascanueces y clásicos navideños a la luz de las velas",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-19",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://feverup.com/m/106185",
+      "irudiaren_url": "/contenidos/evento/2026081908113210/es_def/images/9.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d07fca1a"
     },
     {
       "ekitaldia": "Afines",
@@ -150041,6 +151145,30 @@
       "id": "befe1f2b"
     },
     {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Clásicos Navideños",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-26",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/672086",
+      "irudiaren_url": "/contenidos/evento/2026081908281358/es_def/images/11.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "6ba9fe60"
+    },
+    {
       "ekitaldia": "Janus Lester (26 de diciembre - Donostia)",
       "azalpena": "",
       "mota": "musika",
@@ -150135,6 +151263,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "0dcf653e"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Bandas Sonoras de Películas Navideñas",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-26",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/672087",
+      "irudiaren_url": "/contenidos/evento/2026081908291850/es_def/images/16.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b4d0fa1c"
     },
     {
       "ekitaldia": "Mikel Urdangarin",
@@ -150953,6 +152105,54 @@
       "id": "cd1061f0"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-16",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 17.0,
+      "url": "https://feverup.com/m/156209",
+      "irudiaren_url": "/contenidos/evento/2026081908042074/es_def/images/63.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "97bf39ec"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-16",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Palacio de Elorriaga",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://feverup.com/m/259136",
+      "irudiaren_url": "/contenidos/evento/2026081908183340/es_def/images/31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3d411b6c"
+    },
+    {
       "ekitaldia": "Josetxu Piperrak, Manifa eta Shock",
       "azalpena": "",
       "mota": "musika",
@@ -151049,6 +152249,30 @@
       "id": "d34cd39c"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Ed Sheeran Meets Coldplay",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-23",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 21.5,
+      "url": "https://feverup.com/m/705017",
+      "irudiaren_url": "/contenidos/evento/2026081908442586/es_def/images/12.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "721e6cd0"
+    },
+    {
       "ekitaldia": "ABAO Bilbao Opera: \"Die Walküre",
       "azalpena": "",
       "mota": "antzerkia",
@@ -151071,6 +152295,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4dc186d1"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Queen vs. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-23",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/670404",
+      "irudiaren_url": "/contenidos/evento/2026081908222990/es_def/images/10.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0c119212"
     },
     {
       "ekitaldia": "Concierto Izaro (23 de enero 2027 - Irun)",
@@ -151265,6 +152513,30 @@
       "id": "1f7759ed"
     },
     {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Tributo a Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-30",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/406750",
+      "irudiaren_url": "/contenidos/evento/2026081908325198/es_def/images/42.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "81ae9808"
+    },
+    {
       "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Queen y The Beatles",
       "azalpena": "",
       "mota": "musika",
@@ -151287,6 +152559,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4f8755d8"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Queen VS. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-30",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/610544",
+      "irudiaren_url": "/contenidos/evento/2026081908345375/es_def/images/19.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "de64e0b5"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-30",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/150495",
+      "irudiaren_url": "/contenidos/evento/2026081909295889/es_def/images/31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d085db2d"
     },
     {
       "ekitaldia": "Kid Francescoli (Atabal, Biarritz)",
@@ -151335,6 +152655,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "fb6eee23"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-30",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/642350",
+      "irudiaren_url": "/contenidos/evento/2026081909340505/es_def/images/17.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "69d7ef5a"
     },
     {
       "ekitaldia": "El carnaval animal",
@@ -151913,6 +153257,30 @@
       "id": "579402d6"
     },
     {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Queen VS. The Beatles",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-13",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/544127",
+      "irudiaren_url": "/contenidos/evento/2026081908460364/es_def/images/4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f13f5c81"
+    },
+    {
       "ekitaldia": "Go!azen 13.0",
       "azalpena": "",
       "mota": "antzerkia",
@@ -151961,6 +153329,30 @@
       "id": "3d6b106c"
     },
     {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Especial de San Valentín",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-13",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/429763",
+      "irudiaren_url": "/contenidos/evento/2026081909385349/es_def/images/14.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "10e43643"
+    },
+    {
       "ekitaldia": "Izaro (13 de febrero - Donostia/San Sebastián)",
       "azalpena": "",
       "mota": "musika",
@@ -152007,6 +153399,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "03285c45"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Especial Día de San Valentín",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-13",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.5,
+      "url": "https://feverup.com/m/395592",
+      "irudiaren_url": "/contenidos/evento/2026081908053013/es_def/images/34.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "55bc835e"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Especial de San Valentín",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-13",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/519881",
+      "irudiaren_url": "/contenidos/evento/2026081908481714/es_def/images/14.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b375d7b0"
     },
     {
       "ekitaldia": "Janus Lester (14 de febrero - Pamplona)",
@@ -152081,6 +153521,54 @@
       "id": "47444570"
     },
     {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"La ley innata",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-20",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.5,
+      "url": "https://feverup.com/m/584765",
+      "irudiaren_url": "/contenidos/evento/2026081908075783/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2a02365a"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Tributo a Ludovico Einaudi",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-20",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/132369",
+      "irudiaren_url": "/contenidos/evento/2026081909455462/es_def/images/29.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c9340d09"
+    },
+    {
       "ekitaldia": "Izaro (20 de febrero - Pamplona)",
       "azalpena": "",
       "mota": "musika",
@@ -152103,6 +153591,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1b2eb183"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Pamplona: \"Coldplay vs. Ed Sheeran",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-20",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Hotel Tres Reyes",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": 14.0,
+      "url": "https://feverup.com/m/642351",
+      "irudiaren_url": "/contenidos/evento/2026081909523432/es_def/images/18.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "48397946"
     },
     {
       "ekitaldia": "ABAO Bilbao Opera: \"Roberto Devereux",
@@ -152175,6 +153687,126 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "bf89f01b"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Queen vs. ABBA",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/670404",
+      "irudiaren_url": "/contenidos/evento/2026081908225337/es_def/images/10.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e569a587"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Lo mejor de Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/671996",
+      "irudiaren_url": "/contenidos/evento/2026081908250792/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "dda50b18"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Ed Sheeran vs. Coldplay",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aula San Pablo. C/ Vicente Goicoechea, 5",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": 21.0,
+      "url": "https://feverup.com/m/674300",
+      "irudiaren_url": "/contenidos/evento/2026081908310541/es_def/images/12.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "72e2f5e6"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Coldplay VS. Imagine Dragons",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/556074",
+      "irudiaren_url": "/contenidos/evento/2026081908355541/es_def/images/18.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d8d71776"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Las Cuatro Estaciones de Vivaldi",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/583052",
+      "irudiaren_url": "/contenidos/evento/2026081908392776/es_def/images/20.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2ad86a38"
     },
     {
       "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Adele",
@@ -152271,6 +153903,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "990149f9"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Ludovico Einaudi",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-02-27",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Iglesia de la Encarnación (Atxuri)",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256963,
+          -2.923441
+        ]
+      },
+      "prezioa": 15.5,
+      "url": "https://feverup.com/m/83884",
+      "irudiaren_url": "/contenidos/evento/2026081907592627/es_def/images/29.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cb5fba73"
     },
     {
       "ekitaldia": "Henge",
@@ -152465,6 +154121,30 @@
       "id": "12454de2"
     },
     {
+      "ekitaldia": "Oasis Exist",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-03-12",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Azkena",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.263603,
+          -2.929774
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://azkena.eus/12-de-marzo-oasis-exist",
+      "irudiaren_url": "/contenidos/evento/2026081911300091/es_def/images/29.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "eca799f0"
+    },
+    {
       "ekitaldia": "Euskadiko Orkestra 2026/27: \"Matinée 11: Steven Lin",
       "azalpena": "",
       "mota": "musika",
@@ -152487,6 +154167,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "37566201"
+    },
+    {
+      "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Tributo a Hans Zimmer",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-03-13",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Aquarium-Palacio del Mar de Donostia-San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3229610421343,
+          -1.99195861816406
+        ]
+      },
+      "prezioa": 20.5,
+      "url": "https://feverup.com/m/406750",
+      "irudiaren_url": "/contenidos/evento/2026081908331498/es_def/images/42.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "dfc7a007"
     },
     {
       "ekitaldia": "Euskadiko Orkestra 2026/27: \"AMERIKA",
