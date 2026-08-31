@@ -1,7 +1,7 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-08-30T12:51:38.305698+00:00",
-    "ekitaldi_kopurua": 7263,
+    "noiz_eguneratua": "2026-08-31T12:22:18.917048+00:00",
+    "ekitaldi_kopurua": 7280,
     "iturriak": [
       "kulturklik.eus"
     ]
@@ -96905,6 +96905,30 @@
       "id": "ba435f2c"
     },
     {
+      "ekitaldia": "Regata clasificatoria masculina",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-02",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Bahía de La Concha",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/regata-clasificatoria-masculina-26",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "663af485"
+    },
+    {
       "ekitaldia": "MagialdiAraba 2026",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -102897,6 +102921,30 @@
       "id": "b50cad5f"
     },
     {
+      "ekitaldia": "Regata clasificatoria femenina",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-03",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Bahía de La Concha",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/regata-clasificatoria-femenina-26",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c9177d51"
+    },
+    {
       "ekitaldia": "Josturak: Paisaia eta Mugimendua Zarautzen\", Elena Arreseren erakusketa",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -103263,6 +103311,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a751ba6a"
+    },
+    {
+      "ekitaldia": "Bertso jaialdia: Oihana Bartra, Xabi Paya, Wilson Saliwonczyck",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-03",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Kultur Etxea",
+        "herria": "Zeanuri",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.1,
+          -2.75
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-03-zeanuri-jaialdia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a54091cd"
     },
     {
       "ekitaldia": "Egia Dantzan 2026: egitaraua",
@@ -109631,6 +109703,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "8d74a072"
+    },
+    {
+      "ekitaldia": "Kaspar Hauser - Jeder für sich und Gott gegen alle, Werner Herzog",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Zinea",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 4.5,
+      "url": "https://www.tabakalera.eus/es/kaspar-hauser-jeder-fur-sich-und-gott-gegen-alle-werner-herzog",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f539bba7"
     },
     {
       "ekitaldia": "Musika Aire Zabalean 2026: Udal Banda: \"Gure bizitzaren sintoniak",
@@ -122355,6 +122451,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "b88f8412"
+    },
+    {
+      "ekitaldia": "Primera jornada de las Regatas de San Sebastián",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-06",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Bahía de La Concha",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/primera-jornada-regatas-2026",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2e0bbd43"
     },
     {
       "ekitaldia": "Generación volta\", Sanlé Sory-ren erakusketa",
@@ -135329,6 +135449,30 @@
       "id": "fbd14187"
     },
     {
+      "ekitaldia": "Galder Bilbao \"Txapi",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-10",
+      "hasiera_ordua": "13:00",
+      "lekua": {
+        "non": "Agirre lehendakaria plaza",
+        "herria": "Leioa",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3333,
+          -2.98333
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-10-leioa-ekitaldipekoa",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5eb8ec54"
+    },
+    {
       "ekitaldia": "MagialdiAraba 2026",
       "azalpena": "",
       "mota": "antzerkia",
@@ -136697,6 +136841,30 @@
       "id": "1056671b"
     },
     {
+      "ekitaldia": "Bertso saioa: Galder Bilbao \"Txapi\", Tomas Lakarta, Erlantz Pazos Ayo, Xabier Sainz de la Maza",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-12",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Txosnagunetik hasita",
+        "herria": "Leioa",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3333,
+          -2.98333
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-12-leioa-plaza-librea",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e0f28fee"
+    },
+    {
       "ekitaldia": "MAKILhotsak",
       "azalpena": "",
       "mota": "dantza",
@@ -137463,6 +137631,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "7c375d92"
+    },
+    {
+      "ekitaldia": "Segunda jornada de las Regatas de San Sebastián",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-13",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Bahía de La Concha",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/segunda-jornada-regatas-2026",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f1a704a4"
     },
     {
       "ekitaldia": "BISITA: Mirandaola burdinola martxan",
@@ -139217,6 +139409,30 @@
       "id": "60af1bf9"
     },
     {
+      "ekitaldia": "Miren Amuriza, Xabier Amuriza, Alaitz Areitio, Durangaldeko Bertso Eskola, Andoni Egaña, Onintza Enbeita, Maialen Lujanbio",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-19",
+      "hasiera_ordua": "12:30",
+      "lekua": {
+        "non": "Plaza",
+        "herria": "Iurreta",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.1833,
+          -2.63333
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-19-iurreta-berezia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ff512487"
+    },
+    {
       "ekitaldia": "Campeonato de Bertsolaris de Euskal Herria 2026 (1ª fase): Peru Abarrategi, Unai Anda, Miren Artetxe, Xabat Galletebeitia, Eki Mateorena, Maddi Ane Txoperena",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -139673,6 +139889,30 @@
       "id": "ac750c9f"
     },
     {
+      "ekitaldia": "Bertso saioa: Beñat Gaztelumendi, Iratxe Ibarra",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-20",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Basarrate parkean hasita",
+        "herria": "Getxo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3569,
+          -3.01146
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-20-getxo-plaza-librea",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "80318439"
+    },
+    {
       "ekitaldia": "Zinema Guztiontzat: \"Izurde Mutikoa",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -139743,6 +139983,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "e6a9b642"
+    },
+    {
+      "ekitaldia": "Bertso jaialdia: Beñat Gaztelumendi, Iratxe Ibarra, Peio Lago, Naroa Torralba",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-20",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "San Nikolas plaza",
+        "herria": "Getxo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3569,
+          -3.01146
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-20-getxo-jaialdia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d15407da"
     },
     {
       "ekitaldia": "Denboraren lapurrak",
@@ -141785,6 +142049,30 @@
       "id": "6ceccb42"
     },
     {
+      "ekitaldia": "Bertso jaialdia: Andoni Egaña, Aitor Etxebarriazarraga, Oihana Iguaran, Maddi Ane Txoperena",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Azoka parkea",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2572,
+          -2.92376
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-27-bilbo-jaialdia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d87b65ac"
+    },
+    {
       "ekitaldia": "Zinema Guztiontzat: \"Sari nagusia ziztu bizian",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -141855,6 +142143,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d4e56c11"
+    },
+    {
+      "ekitaldia": "Bertso txapelketa: Maddalen Arozena, Aroa Arrizubieta, Eneritz Artetxe, Aitor Bizkarra, Ane Labaka, Aner Peritz",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-09-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Santi Brouard pilotalekua",
+        "herria": "Lekeitio",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3667,
+          -2.5
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-09-27-lekeitio-txapelketa",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "525e2f3e"
     },
     {
       "ekitaldia": "J.M. brutal",
@@ -142335,6 +142647,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6edb8cdd"
+    },
+    {
+      "ekitaldia": "Paiva & Talavera",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-01",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Gibelurdin Taberna (Loiola)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/talavera-paiva",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "35cc23d4"
     },
     {
       "ekitaldia": "Bewitched eta Mork",
@@ -142839,6 +143175,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "422cdb05"
+    },
+    {
+      "ekitaldia": "Begiluzeak",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-03",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 0,
+      "url": "https://www.tabakalera.eus/es/begiluzeak",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "dfc0dfb7"
     },
     {
       "ekitaldia": "Sábados musicales 2026, en Álava: Julen Arzamendi y Alaitz Artola",
@@ -146873,6 +147233,30 @@
       "id": "bf922e8f"
     },
     {
+      "ekitaldia": "Txiri-txiri",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-20",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 12.0,
+      "url": "https://www.tabakalera.eus/es/txiri-txiri#c426718",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "51f2a7dc"
+    },
+    {
       "ekitaldia": "Presentación de libro: 'Tretatxu",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -148671,6 +149055,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6626e385"
+    },
+    {
+      "ekitaldia": "Komikiekin mintzoan kux-kux",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-30",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Biblioteca Central Infantil",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/komikiekin-mintzoan-octubre-30",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "660f5fc3"
     },
     {
       "ekitaldia": "Federico Albanese",
