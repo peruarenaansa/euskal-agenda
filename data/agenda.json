@@ -1,372 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-09-20T10:26:37.527999+00:00",
-    "ekitaldi_kopurua": 7907,
+    "noiz_eguneratua": "2026-09-21T11:40:32.150670+00:00",
+    "ekitaldi_kopurua": 7893,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Colonias de verano 2026 en el Museo de Bellas Artes de Bilbao",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "09:00",
-      "lekua": {
-        "non": "Museo de Bellas Artes de Bilbao",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.2638937838451,
-          -2.94611120363697
-        ]
-      },
-      "prezioa": 100.0,
-      "url": "https://bilbaomuseoa.eus/visita/actividad/summer-time/d8bdaf8b-09c5-79bc-0388-632c73662fb0",
-      "irudiaren_url": "/contenidos/evento/2026052212465882/es_def/images/18.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "62d5b40c"
-    },
-    {
-      "ekitaldia": "Presentación de libro: \"Ganbara\" (Marlen Haushofer, Naroa Zubillaga)",
-      "azalpena": "",
-      "mota": "hitzaldiak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "10:30",
-      "lekua": {
-        "non": "Biblioteca Municipal Central de San Sebastián",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.321573,
-          -1.985084
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/06/22/presentacion-de-libro-ganbara-marlen-haushofer-naroa-zubillaga-/webkklik00-detalle/es/",
-      "irudiaren_url": "/contenidos/evento/2026060213353811/es_def/images/45.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "28a4efde"
-    },
-    {
-      "ekitaldia": "Cuentacuentos: \"Jentilak, gure senide zaharrak",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Liburuterraza",
-        "herria": "Artziniega",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          43.1208771535617,
-          -3.12801361083984
-        ]
-      },
-      "prezioa": null,
-      "url": "https://artziniegakoudala.eus/es/agenda/eventodetalle/42396/-/cuentos-pequenos",
-      "irudiaren_url": "/contenidos/evento/2026060508355512/es_def/images/4.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "80572f84"
-    },
-    {
-      "ekitaldia": "Fiestas de Oleta 2026 en Donostia/San Sebastián: Hodei Magoa: \"Essentia",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "17:30",
-      "lekua": {
-        "non": "Plaza de Oleta (Altza)",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/essentia-hodei-magoa-jun22",
-      "irudiaren_url": "/contenidos/evento/2026051305051717/es_def/images/14.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "632b7d0b"
-    },
-    {
-      "ekitaldia": "Basauri Plazara 2026: \"Welcome & Sorry",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Basozelai (Zortziko plaza)",
-        "herria": "Basauri",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.239656,
-          -2.885518
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DY1ZovViNEt",
-      "irudiaren_url": "/contenidos/evento/2026052714391231/es_def/images/75.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "8a710e2e"
-    },
-    {
-      "ekitaldia": "Fiestas de Sestao 2026: \"Artilusio",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Plaza de San Pedro",
-        "herria": "Sestao",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.30962828883786,
-          -3.006906509399414
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.sestao.eus/es-ES/Eventos/Documents/20260610-programa-sestaoko-jaiak-2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026061508553748/es_def/images/56.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a35087f2"
-    },
-    {
-      "ekitaldia": "Aitatxo",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Biblioteca de Izurtza",
-        "herria": "Izurtza",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.152273,
-          -2.641978
-        ]
-      },
-      "prezioa": null,
-      "url": "https://aitatxodokumentala.eus/es#pases",
-      "irudiaren_url": "/contenidos/evento/2026060210310416/es_def/images/83.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "13b03220"
-    },
-    {
-      "ekitaldia": "Presentación de libro: \"Esnatu ala hil",
-      "azalpena": "",
-      "mota": "hitzaldiak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Bittori plaza",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.846718,
-          -2.671635
-        ]
-      },
-      "prezioa": null,
-      "url": "https://alea.eus/gasteiz/1781686592460-liburua-gari-goikoetxea",
-      "irudiaren_url": "/contenidos/evento/2026061907371437/es_def/images/31.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ed844cdd"
-    },
-    {
-      "ekitaldia": "Fiestas de San Juan 2026 en Eibar: Gari, Montxo eta Joselontxo: \"EKILIKUA",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Plaza Untzaga",
-        "herria": "Eibar",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.184142,
-          -2.473208
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.eibar.eus/es/cultura/programa-cultural-eibar/otros/programa-sanjuanes-eibar-2026/embed/programa-sanjuanes-eibar-2026",
-      "irudiaren_url": "/contenidos/evento/2026060908441561/es_def/images/61.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b89288ed"
-    },
-    {
-      "ekitaldia": "Fiestas de San Juan 2026 en Tolosa: Et Incarnatus Orkestra",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Urkizun, Iraolaneko zuloa",
-        "herria": "Tolosa",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.136978,
-          -2.073914
-        ]
-      },
-      "prezioa": null,
-      "url": "https://udala.tolosa.eus/sites/default/files/SANJOANAK-PROGRAMA-26-web-1-1.pdf",
-      "irudiaren_url": "/contenidos/evento/2026060910510366/es_def/images/Musika4.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d825baea"
-    },
-    {
-      "ekitaldia": "Euskadiko Orkestra: \"Talentu gaztea. Apoyo al talento joven",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Conservatorio de Música Jesús Guridi",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8561791440269,
-          -2.67860412597656
-        ]
-      },
-      "prezioa": null,
-      "url": "/noticias/talentu-gaztea-apoyo-talento-joven-concierto-euskadiko-orkestra-dirigido-0",
-      "irudiaren_url": "/contenidos/evento/2026061913443542/es_def/images/113.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0bf274b1"
-    },
-    {
-      "ekitaldia": "Fiestas de Sestao 2026: Orfeón de Sestao",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Parroquia de Santa María",
-        "herria": "Sestao",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.30962828883786,
-          -3.006906509399414
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.sestao.eus/es-ES/Eventos/Documents/20260610-programa-sestaoko-jaiak-2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026061508571498/es_def/images/Coro.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "34f70b8e"
-    },
-    {
-      "ekitaldia": "Fiestas de Sestao 2026: Ispirit",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "patio de Los Hermanos",
-        "herria": "Sestao",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.30962828883786,
-          -3.006906509399414
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.sestao.eus/es-ES/Eventos/Documents/20260610-programa-sestaoko-jaiak-2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026061508591797/es_def/images/3ispirit.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6960c135"
-    },
-    {
-      "ekitaldia": "Fiestas San Juan 2026 en Andoain: Rap, trap eta DJ saioa",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Nafarroa Plaza",
-        "herria": "Andoain",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.22048,
-          -2.021122
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.andoain.eus/documents/131314/568017/Sanjuanak+Andoain+2026+egitaraua.pdf",
-      "irudiaren_url": "/contenidos/evento/2026060513250182/es_def/images/Musika1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "25d7eb4a"
-    },
-    {
-      "ekitaldia": "Fiestas de Leioa 2026: BASAKI",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-06-22",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Txosnagunea - Elexalde",
-        "herria": "Leioa",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.32580207042292,
-          -2.987508773803711
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.leioa.net/uploads/n4023_SAN_JUAN_2026_-_ESKUKO_PROGRAMA_-_Desplegable_Fiestas.pdf",
-      "irudiaren_url": "/contenidos/evento/2026060912274837/es_def/images/Musika3.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c081f99a"
-    },
     {
       "ekitaldia": "Cursos de verano 2026 de UEU: \"Hizkuntzalari Euskaldunen VIII. Topaketa: Elebitasuna neurozientziaren begiradatik",
       "azalpena": "",
@@ -138498,6 +138138,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6d43efee"
+    },
+    {
+      "ekitaldia": "MusikAuzo 2026: MAIALEN IBARRA (aplazado a septiembre)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-09-24",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Plaza del Funicular",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26861,
+          -2.92629
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kulturabarrutik.eus/programa/musikauzo-2026",
+      "irudiaren_url": "/contenidos/evento/2026051213443705/es_def/images/57.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "16d1e2f3"
     },
     {
       "ekitaldia": "Carminho (24 de septiembre - Bilbao)",
