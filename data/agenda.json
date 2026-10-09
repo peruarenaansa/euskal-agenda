@@ -1,852 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-10-08T12:38:34.667763+00:00",
-    "ekitaldi_kopurua": 8771,
+    "noiz_eguneratua": "2026-10-09T12:26:55.190398+00:00",
+    "ekitaldi_kopurua": 8797,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Cine infantil: \"Rio",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "11:00",
-      "lekua": {
-        "non": "Centro Cultural Aiete",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.305863,
-          -1.991954
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/rio-carlos-saldanha",
-      "irudiaren_url": "/contenidos/evento/2026061605070850/es_def/images/13.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "85abcf1f"
-    },
-    {
-      "ekitaldia": "Arabako Plazetan 2026: \"Hariak Zirkus",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Colegio público",
-        "herria": "Alegría-Dulantzi",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.841492,
-          -2.513507
-        ]
-      },
-      "prezioa": null,
-      "url": "https://kulturaraba.eus/es/-/arabako-plazetan",
-      "irudiaren_url": "/contenidos/evento/2026052515061058/es_def/images/53.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a7e3233f"
-    },
-    {
-      "ekitaldia": "Acto de conmemoración del 25 Premio Orfeón Donostiarra-EHU",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "17:00",
-      "lekua": {
-        "non": "Palacio Miramar",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.314846,
-          -1.998489
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.uik.eus/es/curso/acto-conmemoracion-del-25-premio-orfeon-donostiarra-ehu",
-      "irudiaren_url": "/contenidos/evento/2026051215023462/es_def/images/67.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c0349b94"
-    },
-    {
-      "ekitaldia": "Winnipeg, el barco de la esperanza",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "17:17",
-      "lekua": {
-        "non": "Cines Gorbeia",
-        "herria": "Zigoitia",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.96788,
-          -2.718273
-        ]
-      },
-      "prezioa": 4.8,
-      "url": "https://www.cinesgorbeia.com/peliculas/pelicula?id=2087",
-      "irudiaren_url": "/contenidos/evento/2026070911553056/es_def/images/7.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b8642f9d"
-    },
-    {
-      "ekitaldia": "Winnipeg, el barco de la esperanza",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "17:30",
-      "lekua": {
-        "non": "Cines Príncipe",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.3233473985671,
-          -1.98217928409576
-        ]
-      },
-      "prezioa": 7.1,
-      "url": "https://sadecines.com/es/principe/winnipeg-itxaropenaren-ontzia/ids6482",
-      "irudiaren_url": "/contenidos/evento/2026070808490671/es_def/images/7.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "292d5249"
-    },
-    {
-      "ekitaldia": "Música al Aire Libre 2026: Banda Municipal de Música \"De la Raiz al mito",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Jardín Secreto del Agua",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.844405,
-          -2.675125
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_7b50e084_19c781d5eec_6e8",
-      "irudiaren_url": "/contenidos/evento/2026052705035200/es_def/images/47.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f77b9c61"
-    },
-    {
-      "ekitaldia": "Jazzinema 2026: \"The Last Waltz (El último vals)",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Tabakalera",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.316777,
-          -1.975626
-        ]
-      },
-      "prezioa": 4.5,
-      "url": "https://filmoteka.eus/es/programacion/the-last-waltz-el-ultimo-vals",
-      "irudiaren_url": "/contenidos/evento/2026062513160621/es_def/images/72.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ba05afa4"
-    },
-    {
-      "ekitaldia": "San Fermín 2026: Demode Quartet: \"A Kupela",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Civivox Pompelo",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://sanferminespamplona.es/wp-content/uploads/PAM_sf2026_digital_CAS.pdf",
-      "irudiaren_url": "/contenidos/evento/2026062611404904/es_def/images/29.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "089a00de"
-    },
-    {
-      "ekitaldia": "FEMMM Vocal Jazz | Arrasate Blues",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Otros - Otros",
-        "herria": "Arrasate / Mondragón",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.06519715086127,
-          -2.484542202539994
-        ]
-      },
-      "prezioa": null,
-      "url": "https://kutxafundazioa.eus/es/agenda/2026-katapulta-tour-gipuzkoa-femmm-vocal-jazz",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4239ce67"
-    },
-    {
-      "ekitaldia": "Arrasate Blues 2026: Femmm Vocal Jazz (Katapulta Tour Gipuzkoa 2026)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Euskal Herria Plaza",
-        "herria": "Arrasate / Mondragón",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.06519715086127,
-          -2.484542202539994
-        ]
-      },
-      "prezioa": null,
-      "url": "https://kutxafundazioa.eus/es/agenda/2026-katapulta-tour-gipuzkoa-femmm-vocal-jazz",
-      "irudiaren_url": "/contenidos/evento/2026070405043760/es_def/images/34.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1dae59a6"
-    },
-    {
-      "ekitaldia": "Arrasate Blues 2026: Femmm Vocal Jazz",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Euskal Herria Plaza",
-        "herria": "Arrasate / Mondragón",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.06519715086127,
-          -2.484542202539994
-        ]
-      },
-      "prezioa": null,
-      "url": "https://kutxafundazioa.eus/es/agenda/2026-katapulta-tour-gipuzkoa-femmm-vocal-jazz",
-      "irudiaren_url": "/contenidos/evento/2026070405043760/es_def/images/24323232.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d4d60c8e"
-    },
-    {
-      "ekitaldia": "Udafest ILINTI",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Legazpi",
-        "herria": "Legazpi",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.05021895005582,
-          -2.3335722887120385
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.legazpi.eus/es/legazpi/vive/agenda/eventodetalle/1678/-/udafest-ilinti",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2a82bd0a"
-    },
-    {
-      "ekitaldia": "Oh-pera",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Sainz Indo Plaza",
-        "herria": "Karrantza Harana/Valle de Carranza",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.222323,
-          -3.359045
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/Dac3k2dOfmU?hl=es",
-      "irudiaren_url": "/contenidos/evento/2026070709074557/es_def/images/49.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "10037074"
-    },
-    {
-      "ekitaldia": "JazzHerrian 2026: ANGRY LOVERS",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Fuente Dos Caños",
-        "herria": "Agurain/Salvatierra",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.852442,
-          -2.389455
-        ]
-      },
-      "prezioa": null,
-      "url": "https://kulturagurain.eus/es/actua/jazzherrian-angry-lovers",
-      "irudiaren_url": "/contenidos/evento/2026061514103636/es_def/images/56.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "8d9ce10b"
-    },
-    {
-      "ekitaldia": "Euskal Museoa Bilbao Plazara 2026: \"ADK 3.7 Dualtasuna",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Museo Vasco Bilbao",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.258171,
-          -2.921639
-        ]
-      },
-      "prezioa": 3.0,
-      "url": "https://www.euskalmuseoa.eus/es/actividad/plazara",
-      "irudiaren_url": "/contenidos/evento/2026062416583356/es_def/images/43.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3eae5dac"
-    },
-    {
-      "ekitaldia": "Ciclo de Conciertos de Artziniega 2026: Moser String Quartet",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Santuario de La Encina",
-        "herria": "Artziniega",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          43.122201,
-          -3.128209
-        ]
-      },
-      "prezioa": 9.0,
-      "url": "https://prentsa.araba.eus/es/-/el-10-ciclo-de-conciertos-de-artziniega-organizado-por-la-asociacion-mendieta-kultura-comenzara-el-sabado-13-de-junio",
-      "irudiaren_url": "/contenidos/evento/2026042410334006/es_def/images/Musika4.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3600221b"
-    },
-    {
-      "ekitaldia": "Itxas Soinua 2026: GARIKOITZ MENDIZABAL & GORKA HERMOSA: \"Sustraien Matxinada",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Parroquia de la Asunción de Santa María",
-        "herria": "Lekeitio",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.365509,
-          -2.503344
-        ]
-      },
-      "prezioa": 8.0,
-      "url": "https://www.itxasoinua.com/edizioa",
-      "irudiaren_url": "/contenidos/evento/2026060412430631/es_def/images/45.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e4f57cfd"
-    },
-    {
-      "ekitaldia": "San Fermín 2026 : Puntu Takoma eta Bibi Tanga & The Selenites (Plaza Compañía)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza Compañía",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.8176891,
-          -1.643017
-        ]
-      },
-      "prezioa": null,
-      "url": "https://sanferminespamplona.es/wp-content/uploads/PAM_sf2026_digital_CAS.pdf",
-      "irudiaren_url": "/contenidos/evento/2026062611430200/es_def/images/21.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "10450e7a"
-    },
-    {
-      "ekitaldia": "Gorefest 2026: Festival de cine fantástico y de terror",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Nestor Basterretxea Aretoa (Bermeo)",
-        "herria": "Bermeo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.41868,
-          -2.723792
-        ]
-      },
-      "prezioa": 6.0,
-      "url": "https://www.bermeo.eus/agenda-detalle.html?id_evento=10380",
-      "irudiaren_url": "/contenidos/evento/2026063013392907/es_def/images/69.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b0b02e7b"
-    },
-    {
-      "ekitaldia": "Alvaro del Valle Quintet",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Altxerri Jazz Club",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.322711275052,
-          -1.98122978210449
-        ]
-      },
-      "prezioa": 5.0,
-      "url": "https://altxerri.com/",
-      "irudiaren_url": "/contenidos/evento/2026070609241729/es_def/images/micro.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9518f648"
-    },
-    {
-      "ekitaldia": "Gorka Knörr: homenaje",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Arkabia",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.846718,
-          -2.671635
-        ]
-      },
-      "prezioa": 15.0,
-      "url": "https://arkabia.eus/evento/gorka-knorr",
-      "irudiaren_url": "/contenidos/evento/2026062309082331/es_def/images/30.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e610056e"
-    },
-    {
-      "ekitaldia": "Actuación del Coro Beti Lagunak: 4.º aniversario - Memorial Itziar Madariaga",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza Antsonekoa",
-        "herria": "Urduliz",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.379722,
-          -2.962009
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/07/10/actuacion-del-coro-beti-lagunak-4-aniversario-memorial-itziar-madariaga/webkklik00-detalle/es/",
-      "irudiaren_url": "/contenidos/evento/2026070718521164/es_def/images/Coro.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "66faf3d0"
-    },
-    {
-      "ekitaldia": "JOMO 2026: Kris II, Udda eta Chikawaii",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "SAREAN - Asociación Cultural Espacio Plaza",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256338347241,
-          -2.92756676673889
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbi.info/event/jomo",
-      "irudiaren_url": "/contenidos/evento/2026070813231544/es_def/images/a275495347d34590deffe391399a14b11.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1d6d633f"
-    },
-    {
-      "ekitaldia": "Bostich eta Fussible",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Dabadaba",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.3154482579131,
-          -1.97590884649663
-        ]
-      },
-      "prezioa": 18.0,
-      "url": "https://musikazuzenean.eus/ekitaldia/bostich-fussible",
-      "irudiaren_url": "/contenidos/evento/2026070813375527/es_def/images/images3.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4663b4af"
-    },
-    {
-      "ekitaldia": "Nortec Collective: Bostich eta Fussible",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Dabadaba",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.3154482579131,
-          -1.97590884649663
-        ]
-      },
-      "prezioa": 18.0,
-      "url": "https://dabadabass.com/event/nortec-collective-bostich-fussible-4029/register",
-      "irudiaren_url": "/contenidos/evento/2026033113391210/es_def/images/149.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4cdc8a34"
-    },
-    {
-      "ekitaldia": "Herri Sanferminak 2026: Izpiak, La Jodedera eta Sisklata eta Leidys",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Plaza Virgen de la O",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.81845,
-          -1.64985
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DZo91gSqwFN",
-      "irudiaren_url": "/contenidos/evento/2026070612225779/es_def/images/LATXAMA.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "fe7597ec"
-    },
-    {
-      "ekitaldia": "San Fermín 2026: Espectáculo Drag: Albina & Donatella",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Plaza de los Fueros (Pamplona)",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.809348,
-          -1.644446
-        ]
-      },
-      "prezioa": null,
-      "url": "https://sanferminespamplona.es/wp-content/uploads/PAM_sf2026_digital_CAS.pdf",
-      "irudiaren_url": "/contenidos/evento/2026062611372678/es_def/images/20.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1172fe4e"
-    },
-    {
-      "ekitaldia": "Ødei",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Toki Ona",
-        "herria": "Getaria",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.303261,
-          -2.204363
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/odei-20",
-      "irudiaren_url": "/contenidos/evento/2026070814030735/es_def/images/55.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f44346fa"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Andoni Egaña, Nerea Elustondo, Agin Laburu, Maialen Lujanbio",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Iturri ondo",
-        "herria": "Deba",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.2957,
-          -2.35213
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-07-10-deba-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026061105022552/es_def/images/AginLaburu.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "94524204"
-    },
-    {
-      "ekitaldia": "Aire Zabaleko Zinema: \"Kayara. Inka gerraria",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Txipio",
-        "herria": "Plentzia",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.40443,
-          -2.950102
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DZ7ZX4Ktkk5?igsh=MXJ6Ynd4OWYyZmFnaA==",
-      "irudiaren_url": "/contenidos/evento/2026062908073018/es_def/images/36.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "633f38c9"
-    },
-    {
-      "ekitaldia": "Ciclo de Música Berumuga 2026: Jackie Venson",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Espoloia",
-        "herria": "Bergara",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.113152,
-          -2.414841
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bergara.eus/eu/node/21964",
-      "irudiaren_url": "/contenidos/evento/2026062915055911/es_def/images/63.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1753be84"
-    },
-    {
-      "ekitaldia": "Zarauzko Bertso Astea 2026: Urko Arakistain, Antton Fernandez, Uxue Fernandez Lasa, Hodei Iruretagoiena Albizu, Beñat Torres, Adei Urbitarte",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Baserriren bustuaren aurrean",
-        "herria": "Zarautz",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.286,
-          -2.16956
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-07-10-zarautz-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026070705031725/es_def/images/1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a2660cf5"
-    },
-    {
-      "ekitaldia": "Fiestas de San Cristobal de Mendiola 2026: Legez Kanpo, Ohil eta Maniaks",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Barrio Mendiola",
-        "herria": "Abadiño",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.170352,
-          -2.607099
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DacWX3kDnit",
-      "irudiaren_url": "/contenidos/evento/2026070812565366/es_def/images/rock.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a8856c07"
-    },
-    {
-      "ekitaldia": "Risas Bajo Las Estrellas 2026: \"Minecraft film bat",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Frontón de Bitoriano",
-        "herria": "Zuia",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.96496504291173,
-          -2.8379058837890625
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.zuia.eus/eu/barreak-izarren-azpian-zikloak-minecraft-filma-euskaraz-eskainiko-du-murgian-uztailaren-10ean",
-      "irudiaren_url": "/contenidos/evento/2026070907575670/es_def/images/41.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "00cdbcee"
-    },
-    {
-      "ekitaldia": "Bele",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-10",
-      "hasiera_ordua": "23:59",
-      "lekua": {
-        "non": "Facultad HUHEZi",
-        "herria": "Eskoriatza",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.017074,
-          -2.52698
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/bele-mugi-panderoa",
-      "irudiaren_url": "/contenidos/evento/2026070813572742/es_def/images/BELE.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0738a113"
-    },
     {
       "ekitaldia": "Fiestas de Añorga 2026 en Donostia/San Sebastián: Albina & Divina",
       "azalpena": "",
@@ -140564,6 +139724,30 @@
       "id": "9dc50956"
     },
     {
+      "ekitaldia": "Inurri Itsuak",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-09",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Getxo Zinemak",
+        "herria": "Getxo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.362286,
+          -3.012567
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://getxozinemak.sacatuentrada.es/es/detalles/las-ciegas-hormigas-19",
+      "irudiaren_url": "/contenidos/evento/2026100817175820/es_def/images/20.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f32ca340"
+    },
+    {
       "ekitaldia": "Feria del Libro de Vitoria-Gasteiz 2026: Ipuin Kontalaria: Hitzak Dantzan con Sorlasean",
       "azalpena": "",
       "mota": "antzerkia",
@@ -140994,6 +140178,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "0976dd7b"
+    },
+    {
+      "ekitaldia": "Club de lectura \"Eus-Karria\": \"Marinel zaharraren balada\" & \"Moby Dick",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-09",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Biblioteca de Gaubea",
+        "herria": "Valdegovía/Gaubea",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.848208,
+          -3.098116
+        ]
+      },
+      "prezioa": null,
+      "url": "https://alea.eus/anana/1791197465505-moby-dick-bidaia-literarioa-eta-musikala",
+      "irudiaren_url": "/contenidos/evento/2026100810261064/es_def/images/Capturadepantalla20261005alas12.49.28tokikom700x700.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "190f2800"
     },
     {
       "ekitaldia": "Protocolo",
@@ -141788,6 +140996,30 @@
       "id": "c58152f2"
     },
     {
+      "ekitaldia": "Ateri, Vibora, Lukiek eta Tapia Eta Leturia Band",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-09",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Elizondo",
+        "herria": "Baztan",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.16452,
+          -1.510798
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://musikazuzenean.eus/ekitaldia/ateri-vibora-lukiek",
+      "irudiaren_url": "/contenidos/evento/2026100812565393/es_def/images/LUKIEK.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b17eef67"
+    },
+    {
       "ekitaldia": "God Save The Queen",
       "azalpena": "",
       "mota": "musika",
@@ -142124,6 +141356,54 @@
       "id": "6b116cb3"
     },
     {
+      "ekitaldia": "Hitzen Mintegia 2026. Taller De Escritura En Euskera",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "10:00",
+      "lekua": {
+        "non": "Civivox Condestable",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.818269,
+          -1.6444958
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.pamplonaescultura.es/",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3eadeaf8"
+    },
+    {
+      "ekitaldia": "DEL RECURSO AL RELATO. CASERÍO LANDETXO 2026",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "10:00",
+      "lekua": {
+        "non": "Izenaduba (Olentzeroren Baserria - Landetxo Goikoa)",
+        "herria": "Mungia",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.35607,
+          -2.85464
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.mungia.eus/documents/39611/0/Mungia_Agenda_URRIA_2026.pdf/c5d3f3c7-de92-77b5-a0ae-48745477c8c2?t=1790839969593",
+      "irudiaren_url": "/contenidos/evento/2026100509075831/es_def/images/18.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2ca4402e"
+    },
+    {
       "ekitaldia": "Makusi Jaia",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -142316,6 +141596,30 @@
       "id": "7fa57131"
     },
     {
+      "ekitaldia": "Andrea Berbois",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Aiaraldea Ekintzen Faktoria",
+        "herria": "Laudio/Llodio",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          43.13461,
+          -2.96815
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.faktoria.eus/web/image/155461-ed702b82/WhatsApp%20Image%202026-09-23%20at%2021.55.50.jpeg",
+      "irudiaren_url": "/contenidos/evento/2026100808104403/es_def/images/Musika4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0d8268dc"
+    },
+    {
       "ekitaldia": "Bertso saioa: Irati Anda, Ekaitz Samaniego",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -142410,6 +141714,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "aabab9a7"
+    },
+    {
+      "ekitaldia": "Katarsia, Broken Brothers Brass Band, Skabidean, 48280, Bengo, Fito Skins eta La Traba Producciones",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "15:30",
+      "lekua": {
+        "non": "Elizondo",
+        "herria": "Baztan",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.16452,
+          -1.510798
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://musikazuzenean.eus/ekitaldia/katarsia-2",
+      "irudiaren_url": "/contenidos/evento/2026100813231702/es_def/images/SKABIDEAN.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7fbf196a"
     },
     {
       "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Coldplay VS. Imagine Dragons",
@@ -142626,6 +141954,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "bafb7ffa"
+    },
+    {
+      "ekitaldia": "Stan Garac, Puntapaya, Ohil eta Zeker",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Skatepark Izarraitz",
+        "herria": "Azpeitia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.183900834486366,
+          -2.2654151916503906
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.pista.bike/es/events/yk-riders-fest-2026",
+      "irudiaren_url": "/contenidos/evento/2026100813152798/es_def/images/Proyectonuevo11.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0b45a545"
     },
     {
       "ekitaldia": "Fiestas de Agurain 2026: KULTURMAGIC",
@@ -143684,6 +143036,30 @@
       "id": "dd2407c4"
     },
     {
+      "ekitaldia": "11º ANIVERSARIO DE MUNGIROCK: Wesley & The Boys eta Ardi Galduak",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Mungi Rock",
+        "herria": "Mungia",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.357443,
+          -2.842343
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.mungia.eus/documents/39611/0/Zemendia_WEB.pdf/446c1eb1-a68b-dea1-ebb1-d9b8f4b564d5?t=1761818644760",
+      "irudiaren_url": "/contenidos/evento/2026100815254790/es_def/images/17.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "12c36fa2"
+    },
+    {
       "ekitaldia": "CANDLELIGHT Donostia/San Sebastián: \"Queen VS. ABBA",
       "azalpena": "",
       "mota": "musika",
@@ -143804,6 +143180,30 @@
       "id": "ab7e6f1f"
     },
     {
+      "ekitaldia": "Anestesia: \"ERANTZUN 30 URTE BIRA\" eta HILOTZ",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "21:30",
+      "lekua": {
+        "non": "Bilboko kafe antzokia",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2637844046885,
+          -2.92798519134521
+        ]
+      },
+      "prezioa": 16.0,
+      "url": "https://www.kafeantzokia.eus/es/agenda/anestesia-urria2026-kafeantzokia-bilbo",
+      "irudiaren_url": "/contenidos/evento/2026021013313013/es_def/images/41.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c4950f99"
+    },
+    {
       "ekitaldia": "Fiestas de Agurain 2026 : Kiliki, Alerta Gorria eta Bele (txosnak)",
       "azalpena": "",
       "mota": "musika",
@@ -143874,6 +143274,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "71250958"
+    },
+    {
+      "ekitaldia": "Zentzu Okerra",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-10",
+      "hasiera_ordua": "22:00",
+      "lekua": {
+        "non": "Andoaingo Gaztetxea",
+        "herria": "Andoain",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.2108374671831,
+          -2.02783584594726
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://musikazuzenean.eus/ekitaldia/zentzu-okerra-dj-ak",
+      "irudiaren_url": "/contenidos/evento/2026100813105525/es_def/images/Proyectonuevo10.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b506da79"
     },
     {
       "ekitaldia": "Petti",
@@ -144090,6 +143514,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "020a2ab0"
+    },
+    {
+      "ekitaldia": "Aztakol eta Azax",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-11",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Skatepark Izarraitz",
+        "herria": "Azpeitia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.183900834486366,
+          -2.2654151916503906
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.pista.bike/es/events/yk-riders-fest-2026",
+      "irudiaren_url": "/contenidos/evento/2026100813431918/es_def/images/Proyectonuevo12.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "6ce601dc"
     },
     {
       "ekitaldia": "Concierto de la banda municipal de txistularis de San Sebastián",
@@ -144692,6 +144140,30 @@
       "id": "69bee841"
     },
     {
+      "ekitaldia": "Coral Liguori eta Coral Trinitat Nova",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-11",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Civivox Condestable",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.818269,
+          -1.6444958
+        ]
+      },
+      "prezioa": 0,
+      "url": "https://www.pamplonaescultura.es/eventos/musicas-de-domingo-coral-liguori",
+      "irudiaren_url": "/contenidos/evento/2026100813560160/es_def/images/coc.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "564c66ff"
+    },
+    {
       "ekitaldia": "Parasite Ltd, Stolen Soul eta Henkore",
       "azalpena": "",
       "mota": "musika",
@@ -144810,6 +144282,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d762025a"
+    },
+    {
+      "ekitaldia": "Mirotz, Belako, Hazas, Santa Salud, Kiliki, J Martina, Mikosis, Istilu, Mateo Zikuta & Durum solo Karne, Berandu Baino Lehen, Ostikoka, Estutu, Kumbialari eta Brava",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-11",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Elizondo",
+        "herria": "Baztan",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.16452,
+          -1.510798
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://musikazuzenean.eus/ekitaldia/mirotz-belako-hazas-santa-salud-kiliki-j-martina-mikosis-istilu-mateo-zikuta-durum-solo-karne-berandu-baino-lehen-ostikoka-estutu-kumbialari-brava",
+      "irudiaren_url": "/contenidos/evento/2026100813562501/es_def/images/BELAKO.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "93732dbe"
     },
     {
       "ekitaldia": "Fiestas de Agurain 2026: NEOMAK",
@@ -144954,6 +144450,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "f4bce56a"
+    },
+    {
+      "ekitaldia": "Anje Duhalde eta Olaia Inziarte",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-12",
+      "hasiera_ordua": "13:00",
+      "lekua": {
+        "non": "Elizondo",
+        "herria": "Baztan",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.16452,
+          -1.510798
+        ]
+      },
+      "prezioa": 40.0,
+      "url": "https://musikazuzenean.eus/ekitaldia/anje-duhalde-olaia-inziarte",
+      "irudiaren_url": "/contenidos/evento/2026100814020219/es_def/images/images32.jfif",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7a0d902e"
     },
     {
       "ekitaldia": "Bailables con Agurtzane y Ion Elustondo",
@@ -145220,6 +144740,30 @@
       "id": "fefba553"
     },
     {
+      "ekitaldia": "Presentación de libro: \"Atzerakarga",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-13",
+      "hasiera_ordua": "11:30",
+      "lekua": {
+        "non": "Biblioteca Municipal Central de San Sebastián",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.321573,
+          -1.985084
+        ]
+      },
+      "prezioa": null,
+      "url": "https://mail/-attachment.googleusercontent.com/attachment/u/1?ui=2&ik=2ffd377db9&attid=0.2&permmsgid=msg-f:1878468254905484256&th=1a11a8ecdf7d43e0&view=att&disp=inline&realattid=1a11a8d0a13c26139022&z=null",
+      "irudiaren_url": "/contenidos/evento/2026100710503762/es_def/images/descarga.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "41c8ab86"
+    },
+    {
       "ekitaldia": "Fiestas San Fausto 2026 en Basauri: Edurre Dantza Taldea",
       "azalpena": "",
       "mota": "dantza",
@@ -145290,6 +144834,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "0de29809"
+    },
+    {
+      "ekitaldia": "Entrevista musicada a Olaia Inziarte (Kutxa Beltza - 13 octubre)",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-13",
+      "hasiera_ordua": "16:15",
+      "lekua": {
+        "non": "Bilboko kafe antzokia",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2637844046885,
+          -2.92798519134521
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kafeantzokia.eus/es/agenda/olaiainziarte-kafeantzokia-bilbo-urria-2026",
+      "irudiaren_url": "/contenidos/evento/2026100814102435/es_def/images/OLAIAINZIARTE.jfif",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c0e0eb59"
     },
     {
       "ekitaldia": "Ilustrazio narratiboa eta komiki esperimentala\", curso impartido por Paula Estevez",
@@ -145770,6 +145338,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "11aacea0"
+    },
+    {
+      "ekitaldia": "Kresala Zinekluba: \"La cortina de humo",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-10-13",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Cines Trueba",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3223366225032,
+          -1.97470664978027
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kresalazinekluba.com/2026/10/07/urriak-13-de-octubre-la-cortina-de-humo-barry-levinson-1997",
+      "irudiaren_url": "/contenidos/evento/2026100812231234/es_def/images/images31.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "9050cf1a"
     },
     {
       "ekitaldia": "Fiestas San Fausto 2026 en Basauri: Puro Relajo",
@@ -146708,6 +146300,30 @@
       "id": "0436a491"
     },
     {
+      "ekitaldia": "Cuentacuentos: Storytelling for kids",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-10-15",
+      "hasiera_ordua": "17:15",
+      "lekua": {
+        "non": "Lekuona Fabrika",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.312752,
+          -1.899633
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/storytelling-for-kids-pq1bvz",
+      "irudiaren_url": "/contenidos/evento/2026100808064467/es_def/images/37.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "240284fc"
+    },
+    {
       "ekitaldia": "Haur literatura eta Atxaga",
       "azalpena": "",
       "mota": "hitzaldiak",
@@ -147236,6 +146852,30 @@
       "id": "ed1517bd"
     },
     {
+      "ekitaldia": "Sorgina banaiz\" (proyección y coloquio)",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-15",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Arizkunenea - Casa de Cultura de Baztan",
+        "herria": "Baztan",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.1458063577919,
+          -1.51813030242919
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeJGw8HjB4b",
+      "irudiaren_url": "/contenidos/evento/2026100809232506/es_def/images/Proyectonuevo6.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "593589f2"
+    },
+    {
       "ekitaldia": "Orquesta Sinfónica de Navarra 2026/27: \"Con luz propia",
       "azalpena": "",
       "mota": "musika",
@@ -147546,6 +147186,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "38950499"
+    },
+    {
+      "ekitaldia": "Borla",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-15",
+      "hasiera_ordua": "21:30",
+      "lekua": {
+        "non": "Sala Jimmy Jazz",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8524667920482,
+          -2.67658710479736
+        ]
+      },
+      "prezioa": null,
+      "url": "https://jimmyjazzgasteiz.com/borla",
+      "irudiaren_url": "/contenidos/evento/2026100814150558/es_def/images/BORLA.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "92a3e22f"
     },
     {
       "ekitaldia": "LA BELLOTA: semana cultural del Centro Extremeño",
@@ -147884,6 +147548,30 @@
       "id": "7f37b2e7"
     },
     {
+      "ekitaldia": "Cuentacuentos: \"Liburu Bat Mundu Bat: Liburuak, zuntz naturalak eta tokoko jasangarritasuna",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Lekuona Fabrika",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.312752,
+          -1.899633
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/cuentacuentos-y-taller-sensorial-liburu-bat-mundu-bat-liburuak-zuntz-naturalak-eta-tokiko-jasangarritasuna-desde-4-anos-pn29hu",
+      "irudiaren_url": "/contenidos/evento/2026100808133025/es_def/images/nc6ldinikobengoetxealiburubatmundubat6aa9044a2ce4b.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f5cfb579"
+    },
+    {
       "ekitaldia": "Atauri Art 2026: \"Untxia eta Koioteren abenturak: Nikaraguako istoriak",
       "azalpena": "",
       "mota": "antzerkia",
@@ -148220,6 +147908,30 @@
       "id": "6345e409"
     },
     {
+      "ekitaldia": "Ombuaren itzala",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Udaletxeko ganbara",
+        "herria": "Irura",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.165688,
+          -2.069616
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeOw4zLCmPq?img_index=2",
+      "irudiaren_url": "/contenidos/evento/2026100815302030/es_def/images/24.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "188c05bb"
+    },
+    {
       "ekitaldia": "Ja! Bilbao 2026: \"Lo real de lo irreal\": conversación entre ANNA STAROBINETS y ELIA BARCELÓ",
       "azalpena": "",
       "mota": "hitzaldiak",
@@ -148362,6 +148074,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "b02a8db8"
+    },
+    {
+      "ekitaldia": "Lur bizia, baratza bizia",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Salón de Brinkola",
+        "herria": "Legazpi",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.05021895005582,
+          -2.3335722887120385
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.legazpi.eus/es/legazpi/vive/agenda/eventodetalle/1871/-/conferencias-lur-bizia-baratza-bizia",
+      "irudiaren_url": "/contenidos/evento/2026100805031113/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "36a0fc33"
     },
     {
       "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Coldplay VS. Imagine Dragons",
@@ -148746,6 +148482,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "3e271733"
+    },
+    {
+      "ekitaldia": "Asteklima 2026: \"Arco",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "franc",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Cines Niessen",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.314342,
+          -1.900704
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/asteklima-2026-arco-ugo-bienvenu-2025-g3w62",
+      "irudiaren_url": "/contenidos/evento/2026100808222302/es_def/images/images30.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fe6a5afe"
     },
     {
       "ekitaldia": "Amorante",
@@ -149588,6 +149348,30 @@
       "id": "78739a65"
     },
     {
+      "ekitaldia": "Ciclo Ingudea 2026: LUMI",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-16",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://iak.eus/es/agenda/ingudea-lumi",
+      "irudiaren_url": "/contenidos/evento/2026100808073548/es_def/images/6.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "87f35d1a"
+    },
+    {
       "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"La ley innata",
       "azalpena": "",
       "mota": "musika",
@@ -149994,6 +149778,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "71cba1b0"
+    },
+    {
+      "ekitaldia": "Denden doinuak: Conciertos de Escaparate",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-17",
+      "hasiera_ordua": "11:30",
+      "lekua": {
+        "non": "Zona Virgen Blanca y calles Diputación, Herrería, Zapatería y Correría",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8462303,
+          -2.6744884
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u62992c29_1a10fd93732__6d01",
+      "irudiaren_url": "/contenidos/evento/2026100805010833/es_def/images/5.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "57d22e47"
     },
     {
       "ekitaldia": "Campeonato de Euskal Herria de Danza 2026",
@@ -150738,6 +150546,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d4b8242c"
+    },
+    {
+      "ekitaldia": "Alperrak, tunanteak eta maleanteak",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-17",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Bideogela",
+        "herria": "Berriatua",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.309107,
+          -2.465414
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeOf2I0jnRI?img_index=2&stkn=MXdjaWxjZnlybjI2NQ==",
+      "irudiaren_url": "/contenidos/evento/2026100815353549/es_def/images/27.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3f6f0e78"
     },
     {
       "ekitaldia": "Algorta-Uppsala: Abestuz batu",
@@ -152108,6 +151940,30 @@
       "id": "d74a98cd"
     },
     {
+      "ekitaldia": "Afrikaldia 2026: \"After the long rains",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-10-18",
+      "hasiera_ordua": "12:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": null,
+      "url": "https://iak.eus/agenda/afrikaldia-after-the-long-rains",
+      "irudiaren_url": "/contenidos/evento/2026100810184794/es_def/images/IAKAgendaFamiliaJarduerak4768x512.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d985c13b"
+    },
+    {
       "ekitaldia": "Concierto de la banda municipal de txistularis de San Sebastián",
       "azalpena": "",
       "mota": "musika",
@@ -152442,6 +152298,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "f6979d29"
+    },
+    {
+      "ekitaldia": "Maracuda",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-18",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Harresi Aretoa",
+        "herria": "Agurain/Salvatierra",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8504532196677,
+          -2.38961219787597
+        ]
+      },
+      "prezioa": 3.0,
+      "url": "https://kulturagurain.eus/actua/maracuda-2",
+      "irudiaren_url": "/contenidos/evento/2026100811334551/es_def/images/42.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "458484cc"
     },
     {
       "ekitaldia": "Zir Zir Hara! 2026: \"Lubbert",
@@ -153164,6 +153044,30 @@
       "id": "cbeff332"
     },
     {
+      "ekitaldia": "Ciclo IAKantuan 2026: Amalur Abesbatza",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-18",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://iak.eus/es/agenda/amalur-abesbatza",
+      "irudiaren_url": "/contenidos/evento/2026100810481548/es_def/images/Mesadetrabajo1copia250768x512.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f2d2cbf8"
+    },
+    {
       "ekitaldia": "Sabbat",
       "azalpena": "",
       "mota": "musika",
@@ -153594,6 +153498,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "63873225"
+    },
+    {
+      "ekitaldia": "Erreka Mari",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-19",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Taberna Mayor (Basauri)",
+        "herria": "Basauri",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.239656,
+          -2.885518
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeL0rj1iPtE",
+      "irudiaren_url": "/contenidos/evento/2026100807461426/es_def/images/41.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f1b9d823"
     },
     {
       "ekitaldia": "Tertulias literarias: \"Un soir d'été",
@@ -154772,6 +154700,30 @@
       "id": "d05399ba"
     },
     {
+      "ekitaldia": "Hitzen lapurra",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-21",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Lekuona Fabrika",
+        "herria": "Errenteria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.312752,
+          -1.899633
+        ]
+      },
+      "prezioa": null,
+      "url": "https://kultura.errenteria.eus/es/agenda/evento/cuentacuentos-para-publico-adulto-nb3zvi",
+      "irudiaren_url": "/contenidos/evento/2026100808444364/es_def/images/22.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "10cfa3a9"
+    },
+    {
       "ekitaldia": "Nosferatu 2026: \"Irma la Dulce",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -155106,6 +155058,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "ca1081e6"
+    },
+    {
+      "ekitaldia": "Haritik tiraka\" (ensayo abierto)",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-21",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": null,
+      "url": "https://iak.eus/agenda/haritik-tiraka-bitsa-konpainia",
+      "irudiaren_url": "/contenidos/evento/2026100809520032/es_def/images/IAKAgendaudazkena2026211024x683.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e5a06d4b"
     },
     {
       "ekitaldia": "Loraldia 2027: \"Gero, aldiz, geroaldi",
@@ -155876,6 +155852,30 @@
       "id": "0455e238"
     },
     {
+      "ekitaldia": "Coral de Cámara de Pamplona: \"Concierto 80 Aniversario",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-22",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Auditorio Baluarte",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.8148587900543,
+          -1.64674758911132
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.baluarte.com/es/agenda/evento/concierto-80-aniversario-coral-camara-pamplona-22-octubre-2026",
+      "irudiaren_url": "/contenidos/evento/2026100812210055/es_def/images/80.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "de2ac90d"
+    },
+    {
       "ekitaldia": "Ura bere bidean 2026\" (22, 23 y 24 octubre)",
       "azalpena": "",
       "mota": "musika",
@@ -156018,6 +156018,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "f30dae79"
+    },
+    {
+      "ekitaldia": "Bertso jaialdia: Manex Agirre, Andoni Egaña, Sebastian Lizaso, Maialen Lujanbio, Eki Mateorena, Eli Zaldua",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-22",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-10-22-gasteiz-jaialdia",
+      "irudiaren_url": "/contenidos/evento/2026100805014541/es_def/images/4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f591eecb"
     },
     {
       "ekitaldia": "Cineclub de Ermua: \"Vivir la tierra",
@@ -157410,6 +157434,54 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "394b755c"
+    },
+    {
+      "ekitaldia": "Amimona",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-23",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "CBA - Centro de Cultura y Creatividad (Irun)",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.338391,
+          -1.78899
+        ]
+      },
+      "prezioa": 10.25,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/amimona-1",
+      "irudiaren_url": "/contenidos/evento/2026100817241976/es_def/images/IV.png",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "44be5f9d"
+    },
+    {
+      "ekitaldia": "Abbey Road: \"The Beatles Show & Orchestra",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-10-23",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Amaia KZ",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3388503616367,
+          -1.79662942886352
+        ]
+      },
+      "prezioa": 19.5,
+      "url": "https://amaiakz.sacatuentrada.es/es/entradas/numeradas/abbey-road-beatles-tributua-tributo-a-los-beatles-/4496898",
+      "irudiaren_url": "/contenidos/evento/2026100818014712/es_def/images/84.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1e814966"
     },
     {
       "ekitaldia": "Sam Sauvage",
@@ -161036,6 +161108,30 @@
       "id": "c1816183"
     },
     {
+      "ekitaldia": "Harrapakalan 2026",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-25",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://iak.eus/es/agenda/gabia-margarita-molotov-y-harrapakalan",
+      "irudiaren_url": "/contenidos/evento/2026100810412376/es_def/images/Mesadetrabajo1copia2201024x68211.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "6777d069"
+    },
+    {
       "ekitaldia": "FusionArte 2026: HARRIBITXI",
       "azalpena": "",
       "mota": "musika",
@@ -162954,6 +163050,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "634aabe4"
+    },
+    {
+      "ekitaldia": "Club de lectura para adultos: \"Haize-lekuak",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-29",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Biblioteca de Mendaro",
+        "herria": "Mendaro",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.264252,
+          -2.375622
+        ]
+      },
+      "prezioa": 0,
+      "url": "https://www.mendaro.eus/eu/agenda?p_p_id=net_serikat_liferay_portlet_schedule_web_IZFESchedulePortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_net_serikat_liferay_portlet_schedule_web_IZFESched=null",
+      "irudiaren_url": "/contenidos/evento/2026100809361949/es_def/images/haizelekuak1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7c82aa63"
     },
     {
       "ekitaldia": "Bertsolari",
@@ -164972,6 +165092,30 @@
       "id": "3f551147"
     },
     {
+      "ekitaldia": "Aitona Zittalak: \"ez dugu erremediorik",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-30",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://iak.eus/agenda/aitona-zittalak-ez-dugu-erremediorik",
+      "irudiaren_url": "/contenidos/evento/2026100810582009/es_def/images/IAKAgendaudaberria202618768x512.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c27cbc42"
+    },
+    {
       "ekitaldia": "Random Key",
       "azalpena": "",
       "mota": "musika",
@@ -165402,6 +165546,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "97865618"
+    },
+    {
+      "ekitaldia": "Al otro lado de la puerta",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-31",
+      "hasiera_ordua": "16:00",
+      "lekua": {
+        "non": "Larreko kulturgunea",
+        "herria": "Saint-Pée-sur-Nivelle",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.3568261888,
+          -1.55044555664
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeOYSyeNfs5",
+      "irudiaren_url": "/contenidos/evento/2026100810031054/es_def/images/2332.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e5c4d5ca"
     },
     {
       "ekitaldia": "Grimm anaien parkea",
@@ -165860,6 +166028,30 @@
       "id": "e08993d8"
     },
     {
+      "ekitaldia": "Herentzia",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-31",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Amaia KZ",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3388503616367,
+          -1.79662942886352
+        ]
+      },
+      "prezioa": 16.45,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/herentzia",
+      "irudiaren_url": "/contenidos/evento/2026100817271147/es_def/images/8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "eff61cb3"
+    },
+    {
       "ekitaldia": "Tankard, Exodia eta Hidden",
       "azalpena": "",
       "mota": "musika",
@@ -166074,6 +166266,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "ea6823fc"
+    },
+    {
+      "ekitaldia": "Zorretan",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-31",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "Larreko kulturgunea",
+        "herria": "Saint-Pée-sur-Nivelle",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.3568261888,
+          -1.55044555664
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeOYSyeNfs5",
+      "irudiaren_url": "/contenidos/evento/2026100810063819/es_def/images/16.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3c7a1642"
     },
     {
       "ekitaldia": "Nøgen (31 de octubre - Azpeitia)",
@@ -167924,6 +168140,30 @@
       "id": "ec997d09"
     },
     {
+      "ekitaldia": "Tretatxu",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-06",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "CBA - Centro de Cultura y Creatividad (Irun)",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.338391,
+          -1.78899
+        ]
+      },
+      "prezioa": 5.65,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/tretatxu",
+      "irudiaren_url": "/contenidos/evento/2026100817332990/es_def/images/49.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "237694a5"
+    },
+    {
       "ekitaldia": "Club de lectura para jóvenes (10-13 años): \"Matilda",
       "azalpena": "",
       "mota": "hitzaldiak",
@@ -168066,6 +168306,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "508bd555"
+    },
+    {
+      "ekitaldia": "Bertso ekitaldi berezia: Miren Artetxe, Unai Mendiburu, Maddi Ane Txoperena Araitz Bizkai, Oihana Landa",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-06",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Azebarri txokoa",
+        "herria": "Getxo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3569,
+          -3.01146
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-11-06-getxo-berezia",
+      "irudiaren_url": "/contenidos/evento/2026100805015422/es_def/images/mirenartetxe.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bd6b839f"
     },
     {
       "ekitaldia": "El Humor En La Ópera",
@@ -168570,6 +168834,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6bd71446"
+    },
+    {
+      "ekitaldia": "Ciclo Ingudea 2026: XAK",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-06",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://iak.eus/es/ekitaldia/ingudea-xak",
+      "irudiaren_url": "/contenidos/evento/2026090214222293/es_def/images/9768x512.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "655f40a2"
     },
     {
       "ekitaldia": "Francisco López. Criaturas Sónicas",
@@ -171234,6 +171522,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "e93fd4d9"
+    },
+    {
+      "ekitaldia": "Narrugorrik, paseo-audición | Ixiar Rozas",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-13",
+      "hasiera_ordua": "15:30",
+      "lekua": {
+        "non": "Otros - Otros",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.31434345314294,
+          -1.9748434025301513
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://kutxafundazioa.eus/es/agenda/narrugorrik-paseo-audicion-ixiar-rozas",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5c237207"
     },
     {
       "ekitaldia": "Tretatxu",
@@ -175196,6 +175508,30 @@
       "id": "1c503abc"
     },
     {
+      "ekitaldia": "Escape Room",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-20",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Amaia KZ",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3388503616367,
+          -1.79662942886352
+        ]
+      },
+      "prezioa": 10.25,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/escape-room-16",
+      "irudiaren_url": "/contenidos/evento/2026100817290473/es_def/images/47.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d2d08d31"
+    },
+    {
       "ekitaldia": "Raimundo El Canastero",
       "azalpena": "",
       "mota": "musika",
@@ -176084,6 +176420,30 @@
       "id": "60d305d4"
     },
     {
+      "ekitaldia": "Haika Jazz Quartet",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-11-21",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "CBA - Centro de Cultura y Creatividad (Irun)",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.338391,
+          -1.78899
+        ]
+      },
+      "prezioa": 10.25,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/haika-jazz-quartet",
+      "irudiaren_url": "/contenidos/evento/2026100817303824/es_def/images/116.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b1d0c7f5"
+    },
+    {
       "ekitaldia": "Barrence Whitfield & Mfc Chicken eta Henri Herbert & The Fury",
       "azalpena": "",
       "mota": "musika",
@@ -176660,6 +177020,30 @@
       "id": "a9512f4c"
     },
     {
+      "ekitaldia": "Ciclo IAKantuan 2026: Nomaziak Abesbatza",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-22",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Izaskun Arrue ? Gasteiz Antzokia",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.84788648006944,
+          -2.6744381503217602
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://iak.eus/es/agenda/iakantuan-zikloa",
+      "irudiaren_url": "/contenidos/evento/2026100810522474/es_def/images/IAKantuanAgenda2026201.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "71c05473"
+    },
+    {
       "ekitaldia": "Flotsam and Jetsam (22 de noviembre - Vitoria-Gasteiz)",
       "azalpena": "",
       "mota": "musika",
@@ -177234,6 +177618,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6a23265c"
+    },
+    {
+      "ekitaldia": "Club de lectura para adultos: \"Gezurra berdaderoa",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-26",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Biblioteca de Mendaro",
+        "herria": "Mendaro",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.264252,
+          -2.375622
+        ]
+      },
+      "prezioa": 0,
+      "url": "https://www.mendaro.eus/eu/agenda?p_p_id=net_serikat_liferay_portlet_schedule_web_IZFESchedulePortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_net_serikat_liferay_portlet_schedule_web_IZFESched=null",
+      "irudiaren_url": "/contenidos/evento/2026100809410573/es_def/images/gezurraberdaderoa1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a6b53887"
     },
     {
       "ekitaldia": "La hora del cuento: Ana Apika",
@@ -178266,6 +178674,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "8f299076"
+    },
+    {
+      "ekitaldia": "Stravinsky",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Centro Cultural de Noain",
+        "herria": "Noáin (Valle de Elorz)/Noain (Elortzibar)",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.757136,
+          -1.633002
+        ]
+      },
+      "prezioa": 12.0,
+      "url": "https://redteatrosnavarra.com/es/agenda/stravinsky-el-p%C3%A1jaro-de-fuego-y-la-consagraci%C3%B3n-de-la-primavera-9626",
+      "irudiaren_url": "/contenidos/evento/2026100811523919/es_def/images/str.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a5a6e8f2"
     },
     {
       "ekitaldia": "Midnight Boogie Weekend: LOS FULANOS eta THE LAZY TONES",
@@ -179562,6 +179994,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d68bbc2a"
+    },
+    {
+      "ekitaldia": "Amares, amar los mares",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-29",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Casa de Cultura de Burlada",
+        "herria": "Burlada/Burlata",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.82431,
+          -1.62079
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://redteatrosnavarra.com/es/agenda/amares-amar-los-mares-9663",
+      "irudiaren_url": "/contenidos/evento/2026100811562022/es_def/images/AmaresWeb5.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e85ec774"
     },
     {
       "ekitaldia": "Bertsolari",
@@ -181700,6 +182156,30 @@
       "id": "718e1074"
     },
     {
+      "ekitaldia": "Maite Larburu eta Violeta Veinte",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-05",
+      "hasiera_ordua": "21:00",
+      "lekua": {
+        "non": "CBA - Centro de Cultura y Creatividad (Irun)",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.338391,
+          -1.78899
+        ]
+      },
+      "prezioa": 10.25,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/maite-larburu-violeta-veinte",
+      "irudiaren_url": "/contenidos/evento/2026100817535089/es_def/images/26.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "4a775132"
+    },
+    {
       "ekitaldia": "48280 eta Zilibito Records",
       "azalpena": "",
       "mota": "musika",
@@ -182730,6 +183210,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a74e9826"
+    },
+    {
+      "ekitaldia": "Bilbao Orkestra Sinfonikoa  eta Sociedad Coral de Bilbao: \"El Mesías de G.F. Händel (BOS)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-11",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Euskalduna jauregia",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.266966,
+          -2.944419
+        ]
+      },
+      "prezioa": 27.0,
+      "url": "https://www.euskalduna.eus/es/detalle/MESIAS26@Janto_KB/PAEU1",
+      "irudiaren_url": "/contenidos/evento/2026100812302641/es_def/images/emb.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1218a488"
     },
     {
       "ekitaldia": "Atlas de anatomía 2026",
@@ -184292,6 +184796,30 @@
       "id": "184eff0b"
     },
     {
+      "ekitaldia": "Dantzaldia 2026: \"Nahas\", \"Desvelo\" eta \"El demà d'ahi",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-15",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Museo de Bellas Artes de Bilbao",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.2638937838451,
+          -2.94611120363697
+        ]
+      },
+      "prezioa": null,
+      "url": "https://dantzaldia.org/programacion-2026",
+      "irudiaren_url": "/contenidos/evento/2026100809045840/es_def/images/11.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "eeaf0608"
+    },
+    {
       "ekitaldia": "Cinémartium 2026: \"La voie royale",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -184722,6 +185250,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "e54ef0e5"
+    },
+    {
+      "ekitaldia": "Club de lectura para adultos: \"Dena zulo bera zen",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-17",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Biblioteca de Mendaro",
+        "herria": "Mendaro",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.264252,
+          -2.375622
+        ]
+      },
+      "prezioa": 0,
+      "url": "https://www.mendaro.eus/eu/agenda?p_p_id=net_serikat_liferay_portlet_schedule_web_IZFESchedulePortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_net_serikat_liferay_portlet_schedule_web_IZFESched=null",
+      "irudiaren_url": "/contenidos/evento/2026100809461363/es_def/images/Denazuloberazen1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bad9a55f"
     },
     {
       "ekitaldia": "La hora del cuento: Maite Franko",
@@ -185226,6 +185778,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a9bf612d"
+    },
+    {
+      "ekitaldia": "Ander Sánchez",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-18",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "CBA - Centro de Cultura y Creatividad (Irun)",
+        "herria": "Irun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.338391,
+          -1.78899
+        ]
+      },
+      "prezioa": null,
+      "url": "https://amaiakz.sacatuentrada.es/es/productos/descripcion/clown-ander-sanchez",
+      "irudiaren_url": "/contenidos/evento/2026100817563519/es_def/images/56.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cbf6566e"
     },
     {
       "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Coldplay VS. Imagine Dragons",
@@ -186426,6 +187002,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "ed87b3a2"
+    },
+    {
+      "ekitaldia": "Olentzero y Mari Domingi en Mirandola",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-23",
+      "hasiera_ordua": "10:00",
+      "lekua": {
+        "non": "Museo del Hierro Vasco",
+        "herria": "Legazpi",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.054361,
+          -2.333641
+        ]
+      },
+      "prezioa": 9.0,
+      "url": "https://www.legazpi.eus/es/legazpi/vive/agenda/eventodetalle/1894/-/olentzero-y-mari-domingi-en-mirandaola",
+      "irudiaren_url": "/contenidos/evento/2026100805033947/es_def/images/1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0941b516"
     },
     {
       "ekitaldia": "Buba eta Bubu",
@@ -194250,6 +194850,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "c7fa9caf"
+    },
+    {
+      "ekitaldia": "Elliott Murphy & Band",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-03-13",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Kursaal",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.324116201533,
+          -1.9789981842041
+        ]
+      },
+      "prezioa": 38.0,
+      "url": "https://www.kursaal.eus/es/agenda/elliott-murphy-band",
+      "irudiaren_url": "/contenidos/evento/2026100812131146/es_def/images/em.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "73c9e751"
     },
     {
       "ekitaldia": "concierto TALCO (13 de marzo - Bilbao)",
