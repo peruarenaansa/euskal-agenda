@@ -1,348 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-10-11T11:57:51.029665+00:00",
-    "ekitaldi_kopurua": 8803,
+    "noiz_eguneratua": "2026-10-12T14:07:39.302541+00:00",
+    "ekitaldi_kopurua": 8796,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Herri Sanferminak 2026: Barniz eta SUA",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "00:00",
-      "lekua": {
-        "non": "Plaza Virgen de la O",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.81845,
-          -1.64985
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DZo91gSqwFN",
-      "irudiaren_url": "/contenidos/evento/2026070612330952/es_def/images/SUA.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e065b8a3"
-    },
-    {
-      "ekitaldia": "Fiestas de Barakaldo 2026: Antxo eta Pantxa: \"Lurrazpitik",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Plaza San Vicente",
-        "herria": "Barakaldo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.29502,
-          -2.99278
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.barakaldo.eus/portal/documents/20682/976878ae-5a2a-445d-8e21-824dcca9103d",
-      "irudiaren_url": "/contenidos/evento/2026070710350594/es_def/images/Abesbatza.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2d67165e"
-    },
-    {
-      "ekitaldia": "Urgullen kontu-kontari",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Biblioteca de Verano del Monte Urgull",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.325283,
-          -1.988932
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/kontu-kontari-13jul",
-      "irudiaren_url": "/contenidos/evento/2026061705105670/es_def/images/Ipuinkontalaria.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "37f9c65f"
-    },
-    {
-      "ekitaldia": "San Fermín 2026: Bengo",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Calle Carmen",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/bengo-ziris-fifi-eta-fefa-elektrozarata-mortx-dj-barbarie",
-      "irudiaren_url": "/contenidos/evento/2026071012554456/es_def/images/BENGO2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a13f8db1"
-    },
-    {
-      "ekitaldia": "Dantza Plazetan 2026: Gaztedi Dantzari Taldea",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Plaza del Karmelo",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.254022,
-          -2.913007
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279245985094&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026012114112954/es_def/images/dp26.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "806f0a4d"
-    },
-    {
-      "ekitaldia": "EGO - Joven Orquesta de Euskal Herria",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Baztartxo Udal Antzokia",
-        "herria": "Azkoitia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.1777307454169,
-          -2.3150503639772
-        ]
-      },
-      "prezioa": 16.5,
-      "url": "https://www.egofundazioa.eus/es#agenda",
-      "irudiaren_url": "/contenidos/evento/2026061812131390/es_def/images/32432432.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f180b4cb"
-    },
-    {
-      "ekitaldia": "San Fermín 2026 : Sedientos de Cumbia eta Izo Fitzroy (Plaza Compañía)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza Compañía",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://sanferminespamplona.es/wp-content/uploads/PAM_sf2026_digital_CAS.pdf",
-      "irudiaren_url": "/contenidos/evento/2026062612482353/es_def/images/27.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f83ed643"
-    },
-    {
-      "ekitaldia": "Fiestas de Barakaldo 2026: corales Lagun Beti y Gaztelumendi",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Parroquia San José",
-        "herria": "Barakaldo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.29502,
-          -2.99278
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.barakaldo.eus/portal/documents/20682/976878ae-5a2a-445d-8e21-824dcca9103d",
-      "irudiaren_url": "/contenidos/evento/2026070710374541/es_def/images/Abesbatza.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "49e35162"
-    },
-    {
-      "ekitaldia": "Festival de Jazz de Vitoria-Gasteiz 2026: Amaro Freitas Trío",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Europa jauregia",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8520263286994,
-          -2.68109321594238
-        ]
-      },
-      "prezioa": 20.0,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f20498586_bf7",
-      "irudiaren_url": "/contenidos/evento/2026070805020029/es_def/images/21.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ac5331ea"
-    },
-    {
-      "ekitaldia": "San Fermin 2026: Barniz eta Zeharo Kontent",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Bar Katu",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/dj-bromez-barniz-zeharo-kontent",
-      "irudiaren_url": "/contenidos/evento/2026071013015511/es_def/images/rock.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "33f6f44b"
-    },
-    {
-      "ekitaldia": "Zea Mays",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Mauléon-Licharre",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.2206580884,
-          -0.890321731567
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/zea-mays-42",
-      "irudiaren_url": "/contenidos/evento/2026071013053120/es_def/images/zeamays1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "db3722a6"
-    },
-    {
-      "ekitaldia": "San Fermín 2026: Bengo eta Ziris",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Calle Carmen",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/bengo-ziris-fifi-eta-fefa-elektrozarata-mortx-dj-barbarie",
-      "irudiaren_url": "/contenidos/evento/2026071012554456/es_def/images/BENGO2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "449e38f7"
-    },
-    {
-      "ekitaldia": "San Fermín 2026: Hofe eta Jarfaiter",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Plaza del Castillo",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.8176891,
-          -1.643017
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/07/13/san-fermin-2026-hofe-+-jarfaiter/webkklik00-detalle/es/",
-      "irudiaren_url": "/contenidos/evento/2026051414472344/es_def/images/HOFE1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6ceffe82"
-    },
-    {
-      "ekitaldia": "San Fermin 2026: Oinez Txokoa: Deus Ez",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-13",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Parque de la Taconera",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.817643,
-          -1.648541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.nafarroaoinez.eus/nafarroa-oinez.asp?IdSeccion=30&IdContenido=272&idi=ES",
-      "irudiaren_url": "/contenidos/evento/2026071012452805/es_def/images/images12.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "612f95ca"
-    },
     {
       "ekitaldia": "¿Super catador o inmune al amargor? Descubre qué dice tu ADN",
       "azalpena": "",
@@ -142964,6 +142628,30 @@
       "id": "05a41640"
     },
     {
+      "ekitaldia": "Lutxi eta zuhaitza",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-12",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Soreasu Antzokia",
+        "herria": "Azpeitia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.183900834486366,
+          -2.2654151916503906
+        ]
+      },
+      "prezioa": 6.0,
+      "url": "https://www.kulturaz.eus/agenda/lutxi-eta-zuhaitza",
+      "irudiaren_url": "/contenidos/evento/2026101108535065/es_def/images/324.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e59609f9"
+    },
+    {
       "ekitaldia": "Fiestas San Fausto 2026 en Basauri: MARUXAK",
       "azalpena": "",
       "mota": "musika",
@@ -143658,6 +143346,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "23c3a4e5"
+    },
+    {
+      "ekitaldia": "Cineclub Fas: \"SALVE MARÍA",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-10-13",
+      "hasiera_ordua": "19:45",
+      "lekua": {
+        "non": "Salón Indautxu",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26053,
+          -2.94102
+        ]
+      },
+      "prezioa": 3.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/10/13/cineclub-fas-salve-maria-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026100810313761/es_def/images/3.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "78b6b698"
     },
     {
       "ekitaldia": "Fiestas San Fausto 2026 en Basauri: Puro Relajo",
@@ -157124,6 +156836,30 @@
       "id": "bbb00448"
     },
     {
+      "ekitaldia": "Euskal Herriko Bertsolari Txapelketa 2026: Semifinal",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-24",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Plazaola kirolgunea",
+        "herria": "Larraun",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          43.0038,
+          -1.90171
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-10-24-larraun-txapelketa",
+      "irudiaren_url": "/contenidos/evento/2026092505114207/es_def/images/44.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a7f66615"
+    },
+    {
       "ekitaldia": "Royal Film Concert Orchestra: \"The music of Morricone, Zimmer and Williams",
       "azalpena": "",
       "mota": "musika",
@@ -164732,6 +164468,30 @@
       "id": "5e091d88"
     },
     {
+      "ekitaldia": "Euskal Herriko Bertsolari Txapelketa 2026: Semifinal",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-31",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Ipurua kiroldegia",
+        "herria": "Eibar",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1849,
+          -2.47158
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-10-31-eibar-txapelketa",
+      "irudiaren_url": "/contenidos/evento/2026100205060721/es_def/images/30.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "95706c50"
+    },
+    {
       "ekitaldia": "Ciclo de Música para Órgano en Navarra 2026: Lucie ?áková",
       "azalpena": "",
       "mota": "musika",
@@ -168378,6 +168138,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1ab0110b"
+    },
+    {
+      "ekitaldia": "Euskal Herriko Bertsolari Txapelketa 2026: Semifinal",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-07",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Gernika Jai-Alai",
+        "herria": "Gernika-Lumo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3167,
+          -2.68333
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-11-07-gernika-lumo-txapelketa",
+      "irudiaren_url": "/contenidos/evento/2026100905030277/es_def/images/41.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5f9b8acd"
     },
     {
       "ekitaldia": "Baba Yaga eta sorginkerien liburua",
@@ -172074,6 +171858,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "2a8f2d7c"
+    },
+    {
+      "ekitaldia": "Euskal Herriko Bertsolari Txapelketa 2026: semifinal (Miarritze/Biarritz)",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-14",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Biarritz Jai Alai",
+        "herria": "Biarritz",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.4816474915,
+          -1.55913102627
+        ]
+      },
+      "prezioa": 22.0,
+      "url": "https://www.eke.eus/eu/agenda/euskal-herriko-bertsolari-txapelketa-finalaurrekoa",
+      "irudiaren_url": "/contenidos/evento/2026061205010318/es_def/images/25.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "647e9d2a"
     },
     {
       "ekitaldia": "Irati Castro Henrich: \"Eko eta itsasoa",
@@ -186426,6 +186234,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "8f9f0dce"
+    },
+    {
+      "ekitaldia": "Final Euskal Herriko Bertsolari Txapelketa",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-20",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Navarra Arena",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.795392,
+          -1.634713
+        ]
+      },
+      "prezioa": 52.0,
+      "url": "https://www.bertsozale.eus/eu/euskal-herriko-bertsolari-txapelketa/saioak/abenduak-20-irunea",
+      "irudiaren_url": "/contenidos/evento/2026060912261225/es_def/images/27.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "6a632103"
     },
     {
       "ekitaldia": "Tretatxu",
