@@ -1,252 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-10-18T10:14:12.644793+00:00",
-    "ekitaldi_kopurua": 8876,
+    "noiz_eguneratua": "2026-10-19T11:47:40.392105+00:00",
+    "ekitaldi_kopurua": 8867,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Taller de arte y arquitectura",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "10:00",
-      "lekua": {
-        "non": "Txillida Leku",
-        "herria": "Hernani",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.2783925948982,
-          -1.99770927429199
-        ]
-      },
-      "prezioa": 20.0,
-      "url": "https://www.museochillidaleku.com/agenda/agenda/taller-arte-y-arquitectura-2026",
-      "irudiaren_url": "/contenidos/evento/2026052610005414/es_def/images/15.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "71980877"
-    },
-    {
-      "ekitaldia": "Museo Chillida Leku: \"Udalekuak - Taller de arte y arquitectura",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "10:00",
-      "lekua": {
-        "non": "Txillida Leku",
-        "herria": "Hernani",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.2783925948982,
-          -1.99770927429199
-        ]
-      },
-      "prezioa": 20.0,
-      "url": "https://www.museochillidaleku.com/agenda/agenda/taller-arte-y-arquitectura-2026",
-      "irudiaren_url": "/contenidos/evento/2026070818072906/es_def/images/87.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "fbfc520a"
-    },
-    {
-      "ekitaldia": "Uztakale: Parque Infantil",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "17:00",
-      "lekua": {
-        "non": "Zona peatonal de Laubide",
-        "herria": "Legazpi",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.05021895005582,
-          -2.3335722887120385
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.legazpi.eus/es/legazpi/vive/agenda/eventodetalle/1631/-/uztakale-parque-infantil",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e3c22ef1"
-    },
-    {
-      "ekitaldia": "Urgullen kontu-kontari",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Biblioteca de Verano del Monte Urgull",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.325283,
-          -1.988932
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/kontu-kontari-20jul",
-      "irudiaren_url": "/contenidos/evento/2026061705113220/es_def/images/Ipuinkontalaria.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c853e850"
-    },
-    {
-      "ekitaldia": "Bajada de grupos de dantza desde Santa Marina",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Peñas de Santa Marina",
-        "herria": "Urduliz",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.37244591733042,
-          -2.960281779944782
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/07/20/bajada-de-grupos-de-dantza-desde-santa-marina/webkklik00-detalle/es/",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "aa31325e"
-    },
-    {
-      "ekitaldia": "Fiestas de Amorebieta-Etxano 2026: \"Iluntzean",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Zubiondo parkea",
-        "herria": "Amorebieta-Etxano",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.220496,
-          -2.733236
-        ]
-      },
-      "prezioa": null,
-      "url": "https://amorebieta/-etxano.eus/es/amorebieta-etxano-celebrara-las-fiestas-del-carmen-con-un-amplio-programa-que-combina-tradicion-musica-y-participacion",
-      "irudiaren_url": "/contenidos/evento/2026070713341701/es_def/images/2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3f1089a9"
-    },
-    {
-      "ekitaldia": "Biemb'art 2026",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Muxikebarri - Centro de Arte, Cultura y Congresos de Getxo",
-        "herria": "Getxo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.351504,
-          -3.013059
-        ]
-      },
-      "prezioa": 3.0,
-      "url": "https://getxo/-kultura.eus/es/41-nazioarteko-folklore-jaialdia/biembart-kongoko-errepublika",
-      "irudiaren_url": "/contenidos/evento/2026071005003835/es_def/images/73.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f5c51e14"
-    },
-    {
-      "ekitaldia": "Fiestas de Ermua 2026: Bertso jaialdia: Maddi Agirre, Irune Aiestaran, Ixone Asategi, Irune Basagoiti, Danel Herrarte, Unai Mendiburu",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Plaza 8 de Marzo",
-        "herria": "Ermua",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.186642,
-          -2.502607
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DaNdD3fCHwn?img_index=10",
-      "irudiaren_url": "/contenidos/evento/2026070108332706/es_def/images/IruneBasagoiti.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "8f932104"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Maddi Agirre, June Aiestaran, Ixone Asategi, Irune Basagoiti, Danel Herrarte, Josu Ibarguren, Unai Mendiburu",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Martxoak 8, plaza",
-        "herria": "Ermua",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.1833,
-          -2.5
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-07-20-ermua-jaialdia",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "29fb40f1"
-    },
-    {
-      "ekitaldia": "Arin korua",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-20",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Saint-Etienne eliza",
-        "herria": "Saint-Jean-de-Luz",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.3878675,
-          -1.660283
-        ]
-      },
-      "prezioa": 15.0,
-      "url": "https://www.eke.eus/eu/agenda/arin-korua-2",
-      "irudiaren_url": "/contenidos/evento/2026071712210395/es_def/images/Abesbatza.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9231d3e0"
-    },
     {
       "ekitaldia": "Fiestas Madalenas 2026 en Errenteria: BENGO",
       "azalpena": "",
@@ -148338,6 +148098,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1132bb6d"
+    },
+    {
+      "ekitaldia": "Cineclub Fas: \"KARMELE",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-10-20",
+      "hasiera_ordua": "19:45",
+      "lekua": {
+        "non": "Salón Indautxu",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26053,
+          -2.94102
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/10/20/cineclub-fas-karmele-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026101711384984/es_def/images/I.png",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "93738841"
     },
     {
       "ekitaldia": "Ballet de Kiev: \"El lago de los cisnes",
