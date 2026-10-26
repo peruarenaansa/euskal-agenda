@@ -1,180 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-10-25T10:33:36.907680+00:00",
-    "ekitaldi_kopurua": 8951,
+    "noiz_eguneratua": "2026-10-26T12:04:03.960075+00:00",
+    "ekitaldi_kopurua": 8945,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Fiestas de Ermua 2026: \"Mute",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Plaza del Cardenal Orbe",
-        "herria": "Ermua",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.18674,
-          -2.502587
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DaNdD3fCHwn?img_index=13",
-      "irudiaren_url": "/contenidos/evento/2026070108291115/es_def/images/3.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "06c60107"
-    },
-    {
-      "ekitaldia": "Urgullen kontu-kontari",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Biblioteca de Verano del Monte Urgull",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.325283,
-          -1.988932
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/kontu-kontari-27jul",
-      "irudiaren_url": "/contenidos/evento/2026061705120243/es_def/images/Ipuinkontalaria.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a43c0eab"
-    },
-    {
-      "ekitaldia": "Fiestas de Elizondo 2026: Bertso jaialdia: June Aiestaran, Haira Aizpurua, Aitor Servier, Maddi Ane Txoperena",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Baztan",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.15,
-          -1.51667
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-07-27-elizondo-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026063005035354/es_def/images/JuneAiestaran.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3662fabe"
-    },
-    {
-      "ekitaldia": "BIPEDESTRUCCIÓN 2026",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Victoriano Flamarique plaza",
-        "herria": "Olite/Erriberri",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.481714,
-          -1.649352
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.festivalteatroolite.es/es/espectaculos-9/2026-07-27/espectaculos/bipedestruccion-1",
-      "irudiaren_url": "/contenidos/evento/2026071314463674/es_def/images/135.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f458e23c"
-    },
-    {
-      "ekitaldia": "Fiestas de Ordizia 2026: Puro Relajo",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "22:30",
-      "lekua": {
-        "non": "Plaza Garagartza",
-        "herria": "Ordizia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.054198,
-          -2.178116
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.ordizia.eus/images/Egitaraua_Santa_Ana_2026_def_1.pdf",
-      "irudiaren_url": "/contenidos/evento/2026071411102143/es_def/images/pr.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a5b002bd"
-    },
-    {
-      "ekitaldia": "Fiestas de Elizondo 2026: Olaia eta Joana",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "22:30",
-      "lekua": {
-        "non": "Elizondo - Plaza",
-        "herria": "Baztan",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.15,
-          -1.51667
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/Dai45LaT4gY",
-      "irudiaren_url": "/contenidos/evento/2026071512442104/es_def/images/Musika5.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6f04b538"
-    },
-    {
-      "ekitaldia": "Fiestas de Ermua 2026: Travellin? Brothers",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-07-27",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Plaza del Cardenal Orbe",
-        "herria": "Ermua",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.18674,
-          -2.502587
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.ermua.eus/es/noticias/conciertos-santiagos-drogas-zea-mays-travellin-brohters",
-      "irudiaren_url": "/contenidos/evento/2026041515561246/es_def/images/47.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "69e6c41f"
-    },
     {
       "ekitaldia": "Ziku zaku",
       "azalpena": "",
@@ -176874,6 +176706,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "fe6ee527"
+    },
+    {
+      "ekitaldia": "Taxi",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Casa de Cultura de Murgia",
+        "herria": "Zuia",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.96496504291173,
+          -2.8379058837890625
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DeHIDkvDQ39?stkn=bDVqYTV6amxqZ3V6",
+      "irudiaren_url": "/contenidos/evento/2026100608490529/es_def/images/21.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d90009ab"
     },
     {
       "ekitaldia": "Orquesta Sinfónica de Navarra 2026/27: \"En la tierra",
