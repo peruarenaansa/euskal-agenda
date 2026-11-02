@@ -1,396 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-11-01T12:30:59.257610+00:00",
-    "ekitaldi_kopurua": 9305,
+    "noiz_eguneratua": "2026-11-02T14:27:32.977129+00:00",
+    "ekitaldi_kopurua": 9290,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz : Akerbeltz (prefiestas)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "00:00",
-      "lekua": {
-        "non": "Txosnak (Zona Universitaria)",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.847357,
-          -2.671872
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__3b83",
-      "irudiaren_url": "/contenidos/evento/2026071020082211/es_def/images/111.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ba6328ec"
-    },
-    {
-      "ekitaldia": "Fiestas de Bera 2026: Bertso saioa: Unai Iturriaga, Maddi Ane Txoperena",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "12:30",
-      "lekua": {
-        "non": "Herriko etxeko plaza",
-        "herria": "Bera",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.2818,
-          -1.68632
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-03-bera-plaza-librea",
-      "irudiaren_url": "/contenidos/evento/2026070705034239/es_def/images/UnaiIturriaga.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "dbcce84b"
-    },
-    {
-      "ekitaldia": "Fiestas de Oiartzun 2026: cuentacuentos",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "17:00",
-      "lekua": {
-        "non": "Salón del ayuntamiento",
-        "herria": "Oiartzun",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.299282,
-          -1.857874
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026072910590096/es_def/images/Ipuinkontalaria.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4931376a"
-    },
-    {
-      "ekitaldia": "Fiestas de Bera 2026: Joseba B. Lenoir Gang",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "17:30",
-      "lekua": {
-        "non": "Kataku ostatua",
-        "herria": "Bera",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.286434,
-          -1.675383
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/joseba-b-lenoir-gang-4",
-      "irudiaren_url": "/contenidos/evento/2026080109451710/es_def/images/3432.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1e458432"
-    },
-    {
-      "ekitaldia": "Urgullen kontu-kontari",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Biblioteca de Verano del Monte Urgull",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.325283,
-          -1.988932
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.donostiakultura.eus/es/agenda/kontu-kontari-27jul",
-      "irudiaren_url": "/contenidos/evento/2026070805031446/es_def/images/8.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "128cf85c"
-    },
-    {
-      "ekitaldia": "Fiestas de Bera 2026: Banda de Música de Bera",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "18:30",
-      "lekua": {
-        "non": "Herriko Etxeko Plaza",
-        "herria": "Bera",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.286434,
-          -1.675383
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bera.eus/wp-content/uploads/2026/07/BERAKO_EGITARAUA2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026070812371340/es_def/images/Musika4.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b850c201"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Thomas Ospital",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Basílica Santa María del Coro",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.quincenamusical.eus/es/evento/thomas-ospital-organo",
-      "irudiaren_url": "/contenidos/evento/2026072314470729/es_def/images/77.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0af8e21f"
-    },
-    {
-      "ekitaldia": "Jaraialdia 2026: \"Caricatos",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza Luis Aldazabal",
-        "herria": "Elciego",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.515072,
-          -2.618277
-        ]
-      },
-      "prezioa": null,
-      "url": "https://prentsa.araba.eus/documents/1047263/5124184/FestiAraia26_programa_WEB.pdf/3b637df8-d9f8-14e5-bb02-e4f3aeb3fe29?t=1784801183622",
-      "irudiaren_url": "/contenidos/evento/2026072411500351/es_def/images/80.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c74df477"
-    },
-    {
-      "ekitaldia": "Ciclo de Conciertos Versionando",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza San José",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.81998,
-          -1.64137
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.pamplonaescultura.es/programas/versionando-4",
-      "irudiaren_url": "/contenidos/evento/2026072810192417/es_def/images/sadsa.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1920de90"
-    },
-    {
-      "ekitaldia": "Ciclo de Conciertos Versionando 2026: The Rock Drill",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza San José",
-        "herria": "Pamplona/Iruña",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.81998,
-          -1.64137
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.pamplonaescultura.es/programas/versionando-4",
-      "irudiaren_url": "/contenidos/evento/2026072811581156/es_def/images/sadsa.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "02370048"
-    },
-    {
-      "ekitaldia": "Semana Musical Internacional de Bermeo 2026: AHAIRE EHO Flute Quartet",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Iglesia de Santa María",
-        "herria": "Bermeo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.420422,
-          -2.722158
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bermeo.eus/187.html?=null&no_cache=1&L=2&tx_ttnews%5Btt_news%5D=22276&cHash=7b9386bb16a5c5edd71f20f52639749f",
-      "irudiaren_url": "/contenidos/evento/2026072910330829/es_def/images/BZP2026.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "891a1e01"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Francesca Dego, Alessandro Carbonare eta Alessandro Taverna",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Museo San Telmo",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.324954,
-          -1.984927
-        ]
-      },
-      "prezioa": 19.0,
-      "url": "https://www.santelmomuseoa.eus/index.php?option=com_flexicontent&view=items&id=136&Itemid=8&lang=es&ide=41957",
-      "irudiaren_url": "/contenidos/evento/2026070105024995/es_def/images/15.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "34516331"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: Andrigina Drag Show",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Plaza del Machete",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.847357,
-          -2.671872
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__143c",
-      "irudiaren_url": "/contenidos/evento/2026070905073682/es_def/images/79.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "7bf6277c"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: \"Bizi den hotsa\", con Iñaki PalaciosIñigo Etxezarreta, Mikel Urdangarin, Karmele Jaio, Alan Doherty y Goiatz Dutto",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Plaza de los Fueros (Vitoria-Gasteiz)",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.845618,
-          -2.670277
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f24c3c225_2041",
-      "irudiaren_url": "/contenidos/evento/2026070705020993/es_def/images/34324324.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a55314a4"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz : Atrikipunk! (Blusak eta Neskak)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Plaza del Machete",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.847357,
-          -2.671872
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__3b84",
-      "irudiaren_url": "/contenidos/evento/2026071020015432/es_def/images/110.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "820a719d"
-    },
-    {
-      "ekitaldia": "Fiestas de Oiartzun 2026: SÜNE",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-03",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Txosnagunea",
-        "herria": "Oiartzun",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.299282,
-          -1.857874
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.oiartzun.eus/fitxategiak/erab_2/1784890983-Xanistebanak%20Oiartzun%20egitaraua_2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026072414260385/es_def/images/4565.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ae8b6125"
-    },
     {
       "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz - Txosnagunea: Akerbeltz",
       "azalpena": "",
@@ -158106,6 +157722,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "4abbbdd2"
+    },
+    {
+      "ekitaldia": "Cineclub Fas: \"ESPEJOS Nº3",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-03",
+      "hasiera_ordua": "19:45",
+      "lekua": {
+        "non": "Salón Indautxu",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.26053,
+          -2.94102
+        ]
+      },
+      "prezioa": 3.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/03/cineclub-fas-espejos-n-3-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026102912435939/es_def/images/43.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0f200c6e"
     },
     {
       "ekitaldia": "Aitzina Folk 2026: Irish Folk Session",
