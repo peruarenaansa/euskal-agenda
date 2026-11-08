@@ -1,804 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-11-07T12:16:49.997780+00:00",
-    "ekitaldi_kopurua": 9544,
+    "noiz_eguneratua": "2026-11-08T12:37:01.715726+00:00",
+    "ekitaldi_kopurua": 9519,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Guretara. Paseo y baño años 20 en la playa de La Concha con los Bebés de la Bulla",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "10:30",
-      "lekua": {
-        "non": "Desde ikastola Orixe",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-guretara-paseo-y-bano-anos-20-en-la-playa-de-la-concha-con-los-bebes-de-la-bulla?ide=42631",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3bc973fe"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: Oihulari Klown: \"Hau beroa!",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Plaza del Conde de Peñaflorida",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.847736,
-          -2.676593
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__1436",
-      "irudiaren_url": "/contenidos/evento/2026070905045993/es_def/images/81.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "13822802"
-    },
-    {
-      "ekitaldia": "Euskal Dantza Muxikoak",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Quiosco del Boulevard",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-euskal-dantza-muxikoak?ide=12218",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c892f0cd"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Ana Belén García eta Iñaki Etxepare",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "12:45",
-      "lekua": {
-        "non": "Iglesia de Iesu",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.quincenamusical.eus/es/evento/ana-belen-garcia-organo-inaki-etxepare-violonchelo",
-      "irudiaren_url": "/contenidos/evento/2026072710270868/es_def/images/32432432.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0e6d1d73"
-    },
-    {
-      "ekitaldia": "Bertso-saioa: Maddi Agirre, Danel Herrarte, Joanes Illarregi y Miren Artetxe",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Plaza del Machete",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8462303,
-          -2.6744884
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__4af7",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f2252275"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: Banda Municipal: \"Fin de fiesta",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Parque de la Florida",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.844142,
-          -2.676435
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u2e5af7ee_19cae11eb6e__5ec1",
-      "irudiaren_url": "/contenidos/evento/2026070905031486/es_def/images/113.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "21d08e50"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Maddi Agirre, Miren Artetxe, Danel Herrarte, Joanes Illarregi",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Aihotz plaza",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8502,
-          -2.67297
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-09-gasteiz-jaialdia",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "5a32627c"
-    },
-    {
-      "ekitaldia": "D'Capricho",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Uhagon Kulturgunea",
-        "herria": "Markina-Xemein",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.267121377954204,
-          -2.494597008326086
-        ]
-      },
-      "prezioa": null,
-      "url": "https://uhagon.com/ekintza/dcapricho-2",
-      "irudiaren_url": "/contenidos/evento/2026080710572517/es_def/images/DCapricho.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "13b0da45"
-    },
-    {
-      "ekitaldia": "6ª Maratón de Romería",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "17:30",
-      "lekua": {
-        "non": "Barrio Goiburu",
-        "herria": "Andoain",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.22048,
-          -2.021122
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/09/6-maraton-de-romeria/webkklik00-detalle/es/",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "91de980b"
-    },
-    {
-      "ekitaldia": "Semana Grande de Donostia 2026: Los Bebés de la Bulla",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "18:30",
-      "lekua": {
-        "non": "Centro y Parte Vieja",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-los-bebes-de-la-bulla?ide=13943",
-      "irudiaren_url": "/contenidos/evento/2026072805123839/es_def/images/136.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6cce615f"
-    },
-    {
-      "ekitaldia": "Fiestas de Arbona 2026: Mutxikoak, Gozategi, Kilimak eta Los Piquillos",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "18:30",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Arbonne",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.4318902137,
-          -1.55105441809
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.eke.eus/eu/agenda/mutxikoak-gozategi-kilimak-los-piquillos",
-      "irudiaren_url": "/contenidos/evento/2026080709521562/es_def/images/18.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b60bb14a"
-    },
-    {
-      "ekitaldia": "Tropicana Son, bailables",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Plaza de las Enfermeras (Terrazas del Kursaal)",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-tropicana-son-bailables?ide=40162",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "13f9993e"
-    },
-    {
-      "ekitaldia": "High On Fire (9 de agosto - Bilbao)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "D8 Sorkuntza Faktoria",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.274547,
-          -2.974357
-        ]
-      },
-      "prezioa": 28.0,
-      "url": "https://www.d8sf.eus/09-08-high-on-fire",
-      "irudiaren_url": "/contenidos/evento/2026021214010325/es_def/images/59.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "8b4d6bbb"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Concierto de órgano",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Parroquia San Pedro",
-        "herria": "Bergara",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.118217,
-          -2.413358
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.quincenamusical.eus/fr/evenement/marie-bernadette-dufourcet-organo-naji-hakim-organo",
-      "irudiaren_url": "/contenidos/evento/2026072109244553/es_def/images/csmorganovernetmecklere28a053891.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "53399d82"
-    },
-    {
-      "ekitaldia": "Semana Grande de Donostia 2026: Banda de Música San Nicolás de Pollos",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Kiosko del Boulevard",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.322064,
-          -1.984635
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-banda-de-musica-san-nicolas-de-pollos?ide=12376",
-      "irudiaren_url": "/contenidos/evento/2026072805125880/es_def/images/148.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b3e33a09"
-    },
-    {
-      "ekitaldia": "Suite Seda",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Altxerri Jazz Club",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.322711275052,
-          -1.98122978210449
-        ]
-      },
-      "prezioa": 5.0,
-      "url": "https://altxerri.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnChNivCyAeh8cqwPloHfZDuAmaeaTF9YKoEvLnIcEVE7qk7fHkDMn3iIc-",
-      "irudiaren_url": "/contenidos/evento/2026072112101822/es_def/images/xc0mmvnnxh9ljvucfjpw.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e7551684"
-    },
-    {
-      "ekitaldia": "Héroe desvelado 2026",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Parroquia San Pedro",
-        "herria": "Zumaia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.297258,
-          -2.256848
-        ]
-      },
-      "prezioa": null,
-      "url": "https://zumaia.eus/eu/albisteak/herriko-sortzaile-eta-eragileen-aldeko-apustua-egingo-du-42-musika-jaialdiak",
-      "irudiaren_url": "/contenidos/evento/2026072709434514/es_def/images/3243232.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "95d1de43"
-    },
-    {
-      "ekitaldia": "Cuarteto para el Fin de los Tiempos 2026",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Iglesia de San Pedro",
-        "herria": "Mendigorria",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.614228,
-          -1.839103
-        ]
-      },
-      "prezioa": 12.0,
-      "url": "https://festivalmendigorria.com/programa-2026-eng/concierto-9-ago-festival-2026",
-      "irudiaren_url": "/contenidos/evento/2026072710241961/es_def/images/8.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e9e23785"
-    },
-    {
-      "ekitaldia": "Gero Axular Dantza Taldea",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza de la Constitución",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-gero-axular-dantza-taldea?ide=12985",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "883f5767"
-    },
-    {
-      "ekitaldia": "Juan de Diego, Andres Navascuez, Eric Surmenian eta Pier Bruera",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Txoberne taberna",
-        "herria": "Bakio",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.427864,
-          -2.811455
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/juan-de-diego-andres-navascuez-eric-surmenian-eta-pier-bruera",
-      "irudiaren_url": "/contenidos/evento/2026080710551986/es_def/images/9.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "cec78b82"
-    },
-    {
-      "ekitaldia": "Nokono",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Pikuxar Euskal Txokoa",
-        "herria": "Irurtzun",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.91864303142474,
-          -1.828100948018215
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/nokono-63",
-      "irudiaren_url": "/contenidos/evento/2026080713445045/es_def/images/NOKONO.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ec00811e"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: \"La Ritirata",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Museo San Telmo",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.324954,
-          -1.984927
-        ]
-      },
-      "prezioa": 17.0,
-      "url": "https://www.santelmomuseoa.eus/index.php?option=com_flexicontent&view=items&id=136&Itemid=8&lang=es&ide=41953",
-      "irudiaren_url": "/contenidos/evento/2026070105031002/es_def/images/18.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f4fbf874"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz - Txosnagunea: Sasha gurrupachikuda eta Indabe",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Txosnagunea - Gazte Karpa",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.846718,
-          -2.671635
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.gasteizkotxosnak.eus/",
-      "irudiaren_url": "/contenidos/evento/2026072114154377/es_def/images/INDABE.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "8d1a119a"
-    },
-    {
-      "ekitaldia": "Fiestas 2026 de Aoiz/Agoiz: Irainak",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Plaza del Mercado",
-        "herria": "Aoiz/Agoitz",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.784378,
-          -1.382685
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.agoitz.eus/noticias/ya-esta-disponible-para-su-consulta-y-descarga-el-programa-de-fiestas-3",
-      "irudiaren_url": "/contenidos/evento/2026072911472928/es_def/images/ProgramaFiestas2026deAoizAgoiz.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "83a3c269"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz: Les Testarudes",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Txosnas (Zona de la Universidad)",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8462303,
-          -2.6744884
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.vitoria/-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u_48bdc1a8_19f1bdf71a3__3b6b",
-      "irudiaren_url": "/contenidos/evento/2026070905252651/es_def/images/104.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "423f06e3"
-    },
-    {
-      "ekitaldia": "Fiestas de La Blanca 2026 en Vitoria-Gasteiz - Txosnagunean: Les Testarudes eta Skabidean",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Txosnagunea - Eszenatoki nagusia",
-        "herria": "Gasteiz",
-        "herrialdea": "Álava",
-        "koordenatuak": [
-          42.8462303,
-          -2.6744884
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.gasteizkotxosnak.eus/",
-      "irudiaren_url": "/contenidos/evento/2026070905252651/es_def/images/104.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a547835a"
-    },
-    {
-      "ekitaldia": "Fiestas de Getaria 2026: Kumbialari",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Txosnagunea",
-        "herria": "Getaria",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.303261,
-          -2.204363
-        ]
-      },
-      "prezioa": null,
-      "url": "https://getaria.eus/wp-content/uploads/2026/07/SB26_WHATSAPP.pdf",
-      "irudiaren_url": "/contenidos/evento/2026080311502752/es_def/images/images2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4e6d6c66"
-    },
-    {
-      "ekitaldia": "Fiestas de Cambo 2026: La Txama, Xabi Solano eta Zutik",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Pilota plaza",
-        "herria": "Cambo-les-Bains",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.3630981445,
-          -1.40350341797
-        ]
-      },
-      "prezioa": 8.0,
-      "url": "https://www.cambolesbains.fr/wp-content/uploads/2024/05/programme-fetes-2026.pdf",
-      "irudiaren_url": "/contenidos/evento/2026080709214693/es_def/images/222.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6c4584af"
-    },
-    {
-      "ekitaldia": "Fiestas 2026 de Aoiz/Agoiz: Irati58 eta Hazas",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:30",
-      "lekua": {
-        "non": "Plaza del Mercado",
-        "herria": "Aoiz/Agoitz",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.784378,
-          -1.382685
-        ]
-      },
-      "prezioa": null,
-      "url": "https://musikazuzenean.eus/ekitaldia/irati-58-hazas-dj-mortx",
-      "irudiaren_url": "/contenidos/evento/2026080711313194/es_def/images/ProgramaFiestas2026deAoizAgoiz.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3b82fe74"
-    },
-    {
-      "ekitaldia": "Xena Pyrotechnics",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "22:45",
-      "lekua": {
-        "non": "Bahía de La Concha",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-xena-pyrotechnics?ide=38109",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c9583b00"
-    },
-    {
-      "ekitaldia": "Aste Nagusi Pirata 2026 en Donostia/San Sebastián: Peppermint Sextet",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "23:05",
-      "lekua": {
-        "non": "Plaza de la Trinidad",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/donostiakopiratak/p/DbIL2dAtyq5",
-      "irudiaren_url": "/contenidos/evento/2026080713335392/es_def/images/27.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "280596d5"
-    },
-    {
-      "ekitaldia": "Tarantella Quattro, bailables",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Plaza Easo",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-tarantella-quattro-bailables?ide=12114",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "95267623"
-    },
-    {
-      "ekitaldia": "Olgetan",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-09",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Quiosco del Boulevard",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://astenagusia.donostiakultura.eus/es/programa/agenda/32-olgetan?ide=21446",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1edf4d23"
-    },
     {
       "ekitaldia": "¡¡Al abordaje!! Montaje de balsas",
       "azalpena": "",
@@ -163724,6 +162932,30 @@
       "id": "0559203c"
     },
     {
+      "ekitaldia": "Jean-Marie Ecay trio",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-08",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Dazz Gasteiz",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.848945001415274,
+          -2.671044138878188
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/08/jean-marie-ecay-trio/webkklik00-detalle/es/",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fec7a6f1"
+    },
+    {
       "ekitaldia": "Amorante: \"EzDotAmaitu",
       "azalpena": "",
       "mota": "musika",
@@ -168138,6 +167370,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "c6631634"
+    },
+    {
+      "ekitaldia": "Blues Hotsak 2026: LAGUNAK SESSIONS: Catalunya Harmonica Summit",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-13",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Teatro Coliseo",
+        "herria": "Eibar",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1859895526333,
+          -2.46851205825805
+        ]
+      },
+      "prezioa": 11.0,
+      "url": "https://www.blueshotsak.eus/azaroak-13-ostirala-eibarren",
+      "irudiaren_url": "/contenidos/evento/2026101610070863/es_def/images/19.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "13f4ae7d"
     },
     {
       "ekitaldia": "Bertrand Belin eta Olivier Daguerre",
@@ -183500,6 +182756,30 @@
       "id": "e4d35dfd"
     },
     {
+      "ekitaldia": "Ombuaren itzala",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-25",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Teatro Coliseo",
+        "herria": "Eibar",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1859895526333,
+          -2.46851205825805
+        ]
+      },
+      "prezioa": 3.0,
+      "url": "https://www.eibar.eus/eu/kultura/agenda/ombuaren-itzala",
+      "irudiaren_url": "/contenidos/evento/2026110709130403/es_def/images/24.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1801833c"
+    },
+    {
       "ekitaldia": "Euskadiko Orkestra 2026/27: \"FALLA / DEBUSSY / STRAVINSKY",
       "azalpena": "",
       "mota": "musika",
@@ -185708,6 +184988,30 @@
       "id": "47d6ade6"
     },
     {
+      "ekitaldia": "Bertso saioa: Kattin Madariaga, Xabi Maia",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Elkartea",
+        "herria": "Esteribar",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.9833,
+          -1.5
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-11-27-eugi-lagun-artekoa",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "27a4a7ad"
+    },
+    {
       "ekitaldia": "Nor naizen baneki",
       "azalpena": "",
       "mota": "antzerkia",
@@ -186714,6 +186018,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "58213f4f"
+    },
+    {
+      "ekitaldia": "Bertso saioa: Ion Barrocal, Ander Ucelay",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "14:30",
+      "lekua": {
+        "non": "Ortze Euskal Taberna",
+        "herria": "Muskiz",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3333,
+          -3.1
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-11-28-muskiz-lagun-artekoa",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3e6bca3c"
     },
     {
       "ekitaldia": "CANDLELIGHT Vitoria-Gasteiz: \"Queen vs. ABBA",
@@ -190026,6 +189354,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "7fd0011c"
+    },
+    {
+      "ekitaldia": "Dena da kimika kontua",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-01",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Ernest Lluch K.E.",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/kimika-mentxu-aiertza",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "367d62f1"
     },
     {
       "ekitaldia": "Martes Musicales 2026-2027: Dmytro Choni",
@@ -193818,6 +193170,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "1218a488"
+    },
+    {
+      "ekitaldia": "Qualia",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-11",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Gazteszena (Egia)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/qualia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "07889ed0"
     },
     {
       "ekitaldia": "Atlas de anatomía 2026",
@@ -202842,6 +202218,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "58e93d89"
+    },
+    {
+      "ekitaldia": "Taller familiar | La piel tiene memoria, con Elisabeth Domínguez",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2027-01-09",
+      "hasiera_ordua": "11:30",
+      "lekua": {
+        "non": "Kutxa Fundazioa Artegunea",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.31696587592571,
+          -1.975736611641526
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://kutxafundazioa.eus/es/agenda/taller-familiar-la-piel-tiene-memoria-con-elisabeth-dominguez",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "afe24042"
     },
     {
       "ekitaldia": "Ene Kantak: \"Amagoia Dragoia\" (Donostia/San Sebastián)",
