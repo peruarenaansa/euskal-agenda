@@ -1,972 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-11-21T14:02:46.345629+00:00",
-    "ekitaldi_kopurua": 9906,
+    "noiz_eguneratua": "2026-11-22T13:56:07.429669+00:00",
+    "ekitaldi_kopurua": 9878,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Fiestas de San Bartolomé 2026 en Zegama: GOZATEGI",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "00:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Zegama",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          42.975677,
-          -2.290072
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/Db_edS9gnzV?img_index=4",
-      "irudiaren_url": "/contenidos/evento/2026081412044190/es_def/images/images25.jpeg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4a9dcf74"
-    },
-    {
-      "ekitaldia": "Bilbao Aste Nagusia - Celebración 10º Aniversario del Cartel Conmemorativo",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "11:30",
-      "lekua": {
-        "non": "El Arenal esquina calle Correo",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/23/bilbao-aste-nagusia-celebracion-10-aniversario-del-cartel-conmemorativo/webkklik00-detalle/es/",
-      "irudiaren_url": "/contenidos/evento/2026081807470994/es_def/images/202608180747099410Aniversarioinfografia17870320301053322685.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "5210b453"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: Banda Municipal de Música de Bilbao \"Zarzuela y grandes clásicos populares",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Arenal",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249877810&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026080513430960/es_def/images/bumb.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "870b0229"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: \"Finito-infinito",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "12:30",
-      "lekua": {
-        "non": "Plaza de la Convivencia (entre las Torres Isozaki)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "http://www.bilbao.net/cs/Satellite?c=BIO_Noticia_FA&cid=1279249575467&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071310301474/es_def/images/Sintitulo47.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1e2100bc"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : THE NEATBEATS (Crazy Horse)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Crazy Horse",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.270191,
-          -2.933164
-        ]
-      },
-      "prezioa": 16.0,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/23/aste-nagusia-de-bilbao-2026-crazy-horse-the-neatbeats/webkklik00-detalle/es/",
-      "irudiaren_url": "/contenidos/evento/2026071611182464/es_def/images/59.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "06ee6943"
-    },
-    {
-      "ekitaldia": "Aste Nagusia 2026 de Bilbao: Bertso saioa: Sustrai Colina, Jone Uria, Maite Sarasola, Aitor Etxebarriazarraga",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Plaza Santiago",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.257307,
-          -2.924059
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249740273&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026072213352155/es_def/images/maitesarasola.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d5158595"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Sustrai Colina, Aitor Etxebarriazarraga, Maite Sarasola, Jone Uria",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Santiago Plaza",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.2572,
-          -2.92376
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-23-bilbo-jaialdia",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "bff232ce"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Kranba! Konpartsa): \"Diskopuntx",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Kranba! Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712142682/es_def/images/29.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1854d970"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Diego-Visión (Hontzak Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Hontzak Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713334016/es_def/images/42.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "41083bab"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Kaskagorri Konpartsa): Espectáculo de magia",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "16:00",
-      "lekua": {
-        "non": "Kaskagorri Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712084959/es_def/images/Magia.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "0e3fc9a0"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Zaratas Konpartsa): \"JA'H",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "17:00",
-      "lekua": {
-        "non": "Zaratas Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712171352/es_def/images/30.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "7668ae8f"
-    },
-    {
-      "ekitaldia": "Arnaga laukotea",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "17:00",
-      "lekua": {
-        "non": "Iglesia",
-        "herria": "Villefranque",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.4377761763,
-          -1.45294189453
-        ]
-      },
-      "prezioa": 10.0,
-      "url": "https://www.eke.eus/eu/agenda/arnaga-laukotea-2",
-      "irudiaren_url": "/contenidos/evento/2026081805003645/es_def/images/7.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "dc10be0b"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Andoni Egaña, Joanes Illarregi, Maialen Lujanbio, Ekhiñe Zapiain",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Larraun",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          43.0517,
-          -1.95464
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-23-gorriti-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026072505050854/es_def/images/MaialenLujanbio1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "6bce0bb1"
-    },
-    {
-      "ekitaldia": "Desfile de la Ballena 2026: Recorrido y horario (Aste Nagusia Bilbao 2026)",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Parte de la Plaza Circular",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261278,
-          -2.927161
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249809698&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026072713503447/es_def/images/33.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4d13dce0"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Txalaparta ikuskizuna (Bilboko Konpartsak)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Arenal",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081810262329/es_def/images/32.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "cd533fb5"
-    },
-    {
-      "ekitaldia": "Atsulai abesbatza",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Iglesia",
-        "herria": "Ainhoa",
-        "herrialdea": "",
-        "koordenatuak": [
-          43.3080044282,
-          -1.49873256683
-        ]
-      },
-      "prezioa": 10.0,
-      "url": "https://www.eke.eus/eu/agenda/atsulai-abesbatza-3",
-      "irudiaren_url": "/contenidos/evento/2026082013092806/es_def/images/image4806219a2b9d0074eb2c4506f54234459de.jpeg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1eb4c734"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Former Child, Blakkat Mentxu eta Soka (Zaratas Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "18:30",
-      "lekua": {
-        "non": "Zaratas Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712192129/es_def/images/30.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d0678745"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: \"Collage 2024",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Pérgola del Parque de Doña Casilda",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.265762,
-          -2.941964
-        ]
-      },
-      "prezioa": null,
-      "url": "http://www.bilbao.net/cs/Satellite?c=BIO_Noticia_FA&cid=1279249575467&language=eu&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071310322421/es_def/images/112.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "cd96623f"
-    },
-    {
-      "ekitaldia": "Kilometro Lezo 2026: \"Azkena eta bagoaz",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Plaza Lopene",
-        "herria": "Lezo",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.321127,
-          -1.898775
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.lezo.eus/eu/-/azkena-eta-bagoaz-trapu-zaharra-",
-      "irudiaren_url": "/contenidos/evento/2026081711042880/es_def/images/34232.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "3630837d"
-    },
-    {
-      "ekitaldia": "Romería con Agurtzane y Ion Elustondo",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Musika Plaza",
-        "herria": "Zarautz",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.280364,
-          -2.171588
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/23/romeria-con-agurtzane-y-ion-elustondo/webkklik00-detalle/es/",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f10368b6"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: \"Z.U.K.U.A.",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "19:30",
-      "lekua": {
-        "non": "Euskalduna jauregia",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.266966,
-          -2.944419
-        ]
-      },
-      "prezioa": 13.5,
-      "url": "https://www.euskalduna.eus/es/detalle/ZUKUA26@Janto_KB/PESBT",
-      "irudiaren_url": "/contenidos/evento/2026062213513446/es_def/images/zk.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "bc061dc2"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Darkold eta Mandarinas Al Sol (Muestra Metal, Pop-Rock)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Bilborock",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.25717541127295,
-          -2.927548458327492
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249383364&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026062913045705/es_def/images/Bilborock1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "02535a93"
-    },
-    {
-      "ekitaldia": "Alvaro Gaviria & Paul San Martin",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Altxerri Jazz Club",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.322711275052,
-          -1.98122978210449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://altxerri.com/",
-      "irudiaren_url": "/contenidos/evento/2026072112420782/es_def/images/micro.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ac7370f1"
-    },
-    {
-      "ekitaldia": "Bidasoa Folk 2026: Caamaño & Ameixeiras eta Xabi Aburruzaga",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plazoleta del Juncal",
-        "herria": "Irun",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.338272,
-          -1.789207
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.irunhondarribiahendaye.com/bidasoafolk/cas/julie-rouault.php",
-      "irudiaren_url": "/contenidos/evento/2026072212331385/es_def/images/36.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c5ed151e"
-    },
-    {
-      "ekitaldia": "Fiestas de Lakuntza 2026: Hogei Berriro",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Lakuntza",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.937826,
-          -2.021171
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.lakuntza.eus/es/berriak.asp?IdNoticia=444",
-      "irudiaren_url": "/contenidos/evento/2026081413533563/es_def/images/48.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "16abfde3"
-    },
-    {
-      "ekitaldia": "Fiestas de Ibarra 2026: \"Hamaikua",
-      "azalpena": "",
-      "mota": "dantza",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "San Bartolome plaza",
-        "herria": "Ibarra",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.052914,
-          -2.564295
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.ibarra.eus/eu/-/2026ko-san-bartolome-jaien-inguruko-informazio-osoa",
-      "irudiaren_url": "/contenidos/evento/2026081708270755/es_def/images/DSC02188.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "cf6e87b4"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Capella de Ministrers",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Museo San Telmo",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.324954,
-          -1.984927
-        ]
-      },
-      "prezioa": 16.0,
-      "url": "https://www.santelmomuseoa.eus/index.php?option=com_flexicontent&view=items&id=136&Itemid=8&lang=es&ide=41958",
-      "irudiaren_url": "/contenidos/evento/2026070105033166/es_def/images/21.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e8788147"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Iñaki Bermúdez & Albert Guinovart (Iglesia de la Encarnación)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Iglesia de la Encarnación (Atxuri)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.26060527595661,
-          -2.9234168841389105
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071409211666/es_def/images/Musika4.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d5e82f6a"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Miriam Montana & Sònia Benavent",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Iglesia de San Nicolás",
-        "herria": "Orio",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.278322,
-          -2.126597
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.quincenamusical.eus/es/evento/miriam-hontana-violin-sonia-benavent-violin",
-      "irudiaren_url": "/contenidos/evento/2026072412585829/es_def/images/96.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4ab40055"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Tributos FOO FIGHTERS, RATM eta SOAD (Aixeberri Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Txosna Aixeberri Konpartsa",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.260015098414414,
-          -2.924830913543695
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/23/aste-nagusia-de-bilbao-2026-aixeberri-konpartsa-tributos-foo-fighters-+-ratm-+-soad/webkklik00-detalle/es/",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "003df781"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Doministikum, Somak eta XpresidentX (Kulturgune)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Kulturgune (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713112944/es_def/images/Musika2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "72b5e7c2"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Misoginia, Salidos Kordiales eta Peedoh (Piztiak Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "21:00",
-      "lekua": {
-        "non": "Piztiak Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712374489/es_def/images/32.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f9b2f031"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: \"Los trovadores urbanos",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "21:30",
-      "lekua": {
-        "non": "Plaza de la Convivencia (entre las Torres Isozaki)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.265762,
-          -2.941964
-        ]
-      },
-      "prezioa": null,
-      "url": "http://www.bilbao.net/cs/Satellite?c=BIO_Noticia_FA&cid=1279249575467&language=eu&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071310345851/es_def/images/113.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9ede4a3d"
-    },
-    {
-      "ekitaldia": "Bertso jaialdia: Sustrai Colina, Bixente Gorostidi, Oihana Iguaran, Maialen Lujanbio, Unai Mendizabal",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "21:30",
-      "lekua": {
-        "non": "Altuna anaiak frontoia",
-        "herria": "Amezketa",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.0481,
-          -2.08541
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-23-amezketa-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026072505051642/es_def/images/unaimendizabal.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4371ff9e"
-    },
-    {
-      "ekitaldia": "Fiestas de Bidania-Goiatz 2026: Bertso jaialdia: Maddalen Arzallus, Nerea Ibarzabal, Xabat Illarregi, Sebastian Lizaso",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "22:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Bidania-Goiatz",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.1401,
-          -2.16983
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-23-bidania-goiatz-jaialdia",
-      "irudiaren_url": "/contenidos/evento/2026072505052509/es_def/images/maddalenarzallus.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1690ecda"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Estutu eta Nazka (Algara Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Algara Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DbDaCXYjHZE?img_index=1",
-      "irudiaren_url": "/contenidos/evento/2026072714064949/es_def/images/35.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "276c7889"
-    },
-    {
-      "ekitaldia": "Fiestas de Elgoibar 2026: SÜNE",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Kalegoen plaza",
-        "herria": "Elgoibar",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.215187,
-          -2.415702
-        ]
-      },
-      "prezioa": null,
-      "url": "https://elgoibar.eus/info/2026_SBJAIAK.pdf",
-      "irudiaren_url": "/contenidos/evento/2026080509431525/es_def/images/4565.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9d2022a8"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Sofokaos eta Arene 6 (Euskalgunea)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Euskalgunea (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712261238/es_def/images/31.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "40762130"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Ingot eta Maloa Brothers (Kulturgune)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Kulturgune (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713141350/es_def/images/INGOT.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a1f1a13e"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Tapia eta Leturia & Band (Muelle Evaristo Churruca)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-23",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Muelle Evaristo Churruca (canchas de baloncesto)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.26060527595661,
-          -2.9234168841389105
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249612716&language=es&pageid=1279228147839&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071409305014/es_def/images/TAPIAETALETURIABAND.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f00f0d6e"
-    },
     {
       "ekitaldia": "Aste Nagusia de Bilbao 2026 : Gaupasa (Pérgola Doña Casilda)",
       "azalpena": "",
@@ -177764,6 +176804,30 @@
       "id": "bc74b8ff"
     },
     {
+      "ekitaldia": "Titirijai 2026: \"Tretatxu",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-22",
+      "hasiera_ordua": "12:30",
+      "lekua": {
+        "non": "Lizeo Antzokia",
+        "herria": "Gernika-Lumo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.315125,
+          -2.677171
+        ]
+      },
+      "prezioa": 6.0,
+      "url": "https://kulturagernika/-lumo.eus/es/evento/tretatxu-anita-maravillas",
+      "irudiaren_url": "/contenidos/evento/2026092212082537/es_def/images/49.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "100864be"
+    },
+    {
       "ekitaldia": "Concierto de Xixili eguna de la Banda de Música de Getaria",
       "azalpena": "",
       "mota": "musika",
@@ -179492,6 +178556,30 @@
       "id": "be0d4e6e"
     },
     {
+      "ekitaldia": "Semana de Cine Italiano 2026 en Vitoria-Gasteiz",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-23",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Facultad de Letras EHU (Aula Magna y Salón de Grados)",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.840274,
+          -2.670719
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.ehu.eus/es/web/letren-fakultatea/-/ii-settimana-del-cinema-italiano",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "66727500"
+    },
+    {
       "ekitaldia": "Presentación de libro: \"Etxe bat norberarena",
       "azalpena": "",
       "mota": "hitzaldiak",
@@ -179754,6 +178842,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "2b84f5f7"
+    },
+    {
+      "ekitaldia": "Euskadiko Orkestra : \"Falla / Debussy / Stravinsky (temporada sinfónica 2026/27)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-23",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Kursaal",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.324116201533,
+          -1.9789981842041
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "/noticias/lucas-macias-dirige-euskadiko-orkestra-programa-sinfonico-con-obras-falla-debussy",
+      "irudiaren_url": "/contenidos/evento/2026112110232552/es_def/images/454554.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "636cf79d"
     },
     {
       "ekitaldia": "Klasikoak 2026: \"La reine Margot (La reina Margot)",
@@ -184076,6 +183188,30 @@
       "id": "237bbb51"
     },
     {
+      "ekitaldia": "Euskadiko Orkestra 2026/27: \"Falla / Debussy / Stravinsky",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Kursaal",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.324116201533,
+          -1.9789981842041
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "/concierto/falla-debussy-stravinsky",
+      "irudiaren_url": "/contenidos/evento/2026112110163553/es_def/images/38.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b7d0637b"
+    },
+    {
       "ekitaldia": "Nor naizen baneki",
       "azalpena": "",
       "mota": "antzerkia",
@@ -186044,6 +185180,54 @@
       "id": "a47a8c8e"
     },
     {
+      "ekitaldia": "Titirijai 2026: \"AsKe",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Teatro Coliseo",
+        "herria": "Eibar",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1859895526333,
+          -2.46851205825805
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://eibarkultura.eus/es/eventos/aske",
+      "irudiaren_url": "/contenidos/evento/2026091609024169/es_def/images/16.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "382f1005"
+    },
+    {
+      "ekitaldia": "Titirijai 2026: \"PETITES HISTOIRES SANS PAROLES",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Juanba Berasategi Aretoa",
+        "herria": "Pasaia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.324585,
+          -1.916827
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.pasaia.eus/es/agenda/ekitaldia?entryId=45101559",
+      "irudiaren_url": "/contenidos/evento/2026091811060997/es_def/images/32.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ca059d28"
+    },
+    {
       "ekitaldia": "Epa Txiki!",
       "azalpena": "",
       "mota": "antzerkia",
@@ -186618,6 +185802,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "5a97daf3"
+    },
+    {
+      "ekitaldia": "Musika irudiak eraikiz: JANUS LESTER",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/musika-irudiak-eraikiz-janus-lester",
+      "irudiaren_url": "/contenidos/evento/2026110505031045/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "35239bdd"
     },
     {
       "ekitaldia": "Ensemble Les Surprises eta Veronique Gens",
@@ -188154,6 +187362,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "060f454c"
+    },
+    {
+      "ekitaldia": "Titirijai 2026: \"FILAR",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-29",
+      "hasiera_ordua": "16:45",
+      "lekua": {
+        "non": "Sala Modelo",
+        "herria": "Zarautz",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.2857344250856,
+          -2.17615127563476
+        ]
+      },
+      "prezioa": 4.45,
+      "url": "https://www.zarautz.eus/eu/agenda?p_p_id=net_serikat_liferay_portlet_schedule_web_IZFESchedulePortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_net_serikat_liferay_portlet_schedule_web_IZFESched=null",
+      "irudiaren_url": "/contenidos/evento/2026112109083076/es_def/images/6.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5dd528af"
     },
     {
       "ekitaldia": "Superthings: Filma",
@@ -191996,6 +191228,30 @@
       "id": "dca01d3d"
     },
     {
+      "ekitaldia": "Bertso jaialdia: Amets Arzallus, Sustrai Colina, Nerea Ibarzabal, Maddi Ane Txoperena",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-03",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Herriko etxea",
+        "herria": "Baiona",
+        "herrialdea": "Lapurdi",
+        "koordenatuak": [
+          43.4833,
+          -1.48333
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-12-03-baiona-jaialdia",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "733ae7cf"
+    },
+    {
       "ekitaldia": "Kcantá",
       "azalpena": "",
       "mota": "musika",
@@ -192570,6 +191826,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "9df94b36"
+    },
+    {
+      "ekitaldia": "Bertso saioa: Ibai Amillategi, Aitor Etxebarriazarraga",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Herriko taberna",
+        "herria": "Kortezubi",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.3333,
+          -2.65
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-12-04-kortezubi-plaza-librea",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f2bcd76e"
     },
     {
       "ekitaldia": "Euskadiko Orkestra 2026/27: \"ENIGMA",
@@ -202508,6 +201788,30 @@
       "id": "6a632103"
     },
     {
+      "ekitaldia": "Bertso txapelketa: Maialen Lujanbio",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-20",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Nafarroa Arena",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.8169,
+          -1.64323
+        ]
+      },
+      "prezioa": null,
+      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-12-20-irunea-txapelketa",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ffa20695"
+    },
+    {
       "ekitaldia": "Tretatxu",
       "azalpena": "",
       "mota": "antzerkia",
@@ -207858,6 +207162,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "fbdaa38b"
+    },
+    {
+      "ekitaldia": "The Lord",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Casares-Tomasene",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/gospel-lord",
+      "irudiaren_url": "",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d08cf9a4"
     },
     {
       "ekitaldia": "Homenaje a los pioneros del Rock de Bilbao",
