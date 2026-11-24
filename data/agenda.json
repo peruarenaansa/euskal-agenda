@@ -1,732 +1,12 @@
 {
   "meta": {
-    "noiz_eguneratua": "2026-11-23T17:03:50.148579+00:00",
-    "ekitaldi_kopurua": 9848,
+    "noiz_eguneratua": "2026-11-24T16:51:49.868067+00:00",
+    "ekitaldi_kopurua": 9868,
     "iturriak": [
       "kulturklik.eus"
     ]
   },
   "ekitaldiak": [
-    {
-      "ekitaldia": "Ziku zaku",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "11:00",
-      "lekua": {
-        "non": "Tabakalera",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.320725,
-          -1.984449
-        ]
-      },
-      "prezioa": 0,
-      "url": "https://www.tabakalera.eus/es/ziku-zaku",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "bd4694e4"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Los Chimberos (Pérgola Doña Casilda)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Pérgola del Parque de Doña Casilda",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.265762,
-          -2.941964
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249739648&language=es&pageid=3000005580&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026072710215388/es_def/images/21.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "b54ee62e"
-    },
-    {
-      "ekitaldia": "Bertso saioa: Jon Abasolo, Kattalin Arabolaza, Iradi Barrenetxea, Adei Urbitarte",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Eguerdian txosnagunea eta arratsaldean Zazpi kaleetan",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.2572,
-          -2.92376
-        ]
-      },
-      "prezioa": null,
-      "url": "https://bdb.bertsozale.eus/web/saioa/view_agenda/2026-08-25-bilbo-plaza-librea",
-      "irudiaren_url": "/contenidos/evento/2026073105041143/es_def/images/mikrofonoa1.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "73f134a5"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: Banda Municipal de Música de Bilbao \"De Atxuri al Arenal",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Arenal",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249877810&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026080513444678/es_def/images/bumb.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "d86b7b38"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Kaialde): Cuentacuentos",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:00",
-      "lekua": {
-        "non": "Kaialde (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081810290060/es_def/images/Ipuinkontalaria.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9cf33a00"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026: \"Woof",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:30",
-      "lekua": {
-        "non": "Pérgola del Parque de Doña Casilda",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.265762,
-          -2.941964
-        ]
-      },
-      "prezioa": null,
-      "url": "http://www.bilbao.net/cs/Satellite?c=BIO_Noticia_FA&cid=1279249575467&language=eu&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071310470721/es_def/images/32432.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "4f8c5d70"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Algara Konpartsa): Bertso poteoa",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "12:30",
-      "lekua": {
-        "non": "Algara Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081810165681/es_def/images/2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "066c086c"
-    },
-    {
-      "ekitaldia": "Aste Nagusia 2026 de Bilbao: \"Ez da kasualitatea\" bertso saio musikatua: Oihana Bartra, Eli Pagola, Aner Peritz",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Plaza Santiago",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.257307,
-          -2.924059
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249740273&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026072213325902/es_def/images/Ezdakasualitatea.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2af1d483"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Dizzz eta Mursego (Kranba! Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "13:00",
-      "lekua": {
-        "non": "Kranba! Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713264874/es_def/images/29.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2af39c77"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 (Algara Konpartsa): Aste Nagusiko Bertsolari Gazteen VII. Sariketa",
-      "azalpena": "",
-      "mota": "bestelakoak",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "16:00",
-      "lekua": {
-        "non": "Algara Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081810184192/es_def/images/2.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "ee33abc7"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Rise To Fall  eta Stolen Soul (Nave9) (20th Anniversary)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "18:00",
-      "lekua": {
-        "non": "Itsasmuseum Bilbao - Museo Marítimo Vasco",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.2662375756903,
-          -2.94631004333496
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DatMmjcRpif",
-      "irudiaren_url": "/contenidos/evento/2026071408080411/es_def/images/3.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "74d1ede5"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Mari Metal Jaia (Uribarri Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Arenal",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/Da4mQ2bsSMX",
-      "irudiaren_url": "/contenidos/evento/2026072714013370/es_def/images/34.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "f4510111"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Soulnettes (Hontzak Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "inglé",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "19:00",
-      "lekua": {
-        "non": "Hontzak Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713364730/es_def/images/42.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "62ed3421"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: Seoul Philharmonic Orchestra",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Kursaal",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.324116201533,
-          -1.9789981842041
-        ]
-      },
-      "prezioa": 33.0,
-      "url": "https://www.kursaal.eus/es/agenda/87-quincena-musical-seoul-philharmonic-orchestra",
-      "irudiaren_url": "/contenidos/evento/2026060210594604/es_def/images/22.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2e0f320c"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Izena eta Basaki (Muestra Metal, Pop-Rock)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Bilborock",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.25717541127295,
-          -2.927548458327492
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249383364&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026062913100502/es_def/images/55.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "47b0bc30"
-    },
-    {
-      "ekitaldia": "Quincena Musical de San Sebastián 2026: \"Pinos de Roma",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Kursaal",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.324116201533,
-          -1.9789981842041
-        ]
-      },
-      "prezioa": 42.0,
-      "url": "https://www.quincenamusical.eus/es/evento/default-9f487c8f6f5b9f40c3903be4a7c59818",
-      "irudiaren_url": "/contenidos/evento/2026072014110507/es_def/images/107.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "7f94dae7"
-    },
-    {
-      "ekitaldia": "Cisco Herzhaft",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Altxerri Jazz Club",
-        "herria": "Donostia",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.322711275052,
-          -1.98122978210449
-        ]
-      },
-      "prezioa": null,
-      "url": "https://altxerri.com/",
-      "irudiaren_url": "/contenidos/evento/2026072112482240/es_def/images/micro.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c65be4e6"
-    },
-    {
-      "ekitaldia": "Sinfonika-Afonika",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza Consistorial",
-        "herria": "Villava/Atarrabia",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.83427,
-          -1.608337
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.villava.es/eventos/teatro-circo-familiar-sinfonika-afonika-euskera",
-      "irudiaren_url": "/contenidos/evento/2026072708143435/es_def/images/47.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "cbdfccbb"
-    },
-    {
-      "ekitaldia": "Sidari",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Leidor Aretoa",
-        "herria": "Tolosa",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.135738813317,
-          -2.0759117603302
-        ]
-      },
-      "prezioa": 11.09,
-      "url": "https://leidorantzokia.janto.es/es/espectaculo/sidari-xake-produkzioak/250926",
-      "irudiaren_url": "/contenidos/evento/2026080711040054/es_def/images/sid.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "bdff83f5"
-    },
-    {
-      "ekitaldia": "Fiestas de Lakuntza 2026: \"Festa Fiesta Party Party",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:00",
-      "lekua": {
-        "non": "Plaza",
-        "herria": "Lakuntza",
-        "herrialdea": "Navarra",
-        "koordenatuak": [
-          42.937826,
-          -2.021171
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.lakuntza.eus/es/berriak.asp?IdNoticia=444",
-      "irudiaren_url": "/contenidos/evento/2026081414010290/es_def/images/61024x683.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e810807a"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Dúo Boreal (Iglesia de la Encarnación)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Iglesia de la Encarnación (Atxuri)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.26060527595661,
-          -2.9234168841389105
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249506330&language=es&pageid=3000075248&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026070313481892/es_def/images/114.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "bd46ab2e"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Zinez (Aixeberri Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Txosna Aixeberri Konpartsa",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.kulturklik.euskadi.eus/evento/2026/08/25/aste-nagusia-de-bilbao-2026-aixeberri-konpartsa-zinez/webkklik00-detalle/es/",
-      "irudiaren_url": "",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "c8c6614e"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Gatazka, Mrs Klams eta ALARMA MOREA (Kulturgune)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "20:30",
-      "lekua": {
-        "non": "Kulturgunea (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713170668/es_def/images/ALARMAMOREA.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "746ab8a0"
-    },
-    {
-      "ekitaldia": "Fiestas San Bartolomé de Elgoibar 2026: \"Su talka",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "22:30",
-      "lekua": {
-        "non": "Desde Kalegoen plaza",
-        "herria": "Elgoibar",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.215187,
-          -2.415702
-        ]
-      },
-      "prezioa": null,
-      "url": "https://elgoibar.eus/info/2026_SBJAIAK.pdf",
-      "irudiaren_url": "/contenidos/evento/2026071712274419/es_def/images/35.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "9eb28886"
-    },
-    {
-      "ekitaldia": "Fiestas de Elgoibar 2026: \"Su Talka",
-      "azalpena": "",
-      "mota": "antzerkia",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "22:30",
-      "lekua": {
-        "non": "Desde Kalegoen plaza",
-        "herria": "Elgoibar",
-        "herrialdea": "Gipuzkoa",
-        "koordenatuak": [
-          43.215187,
-          -2.415702
-        ]
-      },
-      "prezioa": null,
-      "url": "https://elgoibar.eus/info/2026_SBJAIAK.pdf",
-      "irudiaren_url": "/contenidos/evento/2026071712274419/es_def/images/35.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "fb9b4815"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Indabe, Sua eta Ezpalak (Algara Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "eu",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Algara Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.instagram.com/p/DbJL8GYDDs4?img_index=1",
-      "irudiaren_url": "/contenidos/evento/2026072714112211/es_def/images/37.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "1530b6c0"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : AimarZ, Labar eta La Fulana (Euskalgunea)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Euskalgunea (Txosnagunea)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712281765/es_def/images/31.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "a1c3efed"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Katiuskak, Forma eta Orsini (Kranba! Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "23:00",
-      "lekua": {
-        "non": "Kranba! Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.261164,
-          -2.923589
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081713275007/es_def/images/29.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "2b2d25ca"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : Kalàscima (Muelle Evaristo Churruca)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Muelle Evaristo Churruca (canchas de baloncesto)",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.26060527595661,
-          -2.9234168841389105
-        ]
-      },
-      "prezioa": null,
-      "url": "https://www.bilbao.eus/cs/Satellite?c=BIO_Noticia_FA&cid=1279249612716&language=es&pageid=1279228147839&pagename=Bilbaonet/BIO_Noticia_FA/BIO_Noticia",
-      "irudiaren_url": "/contenidos/evento/2026071409341288/es_def/images/7.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "e590be6a"
-    },
-    {
-      "ekitaldia": "Aste Nagusia de Bilbao 2026 : BELE eta TOC (Kaskagorri Konpartsa)",
-      "azalpena": "",
-      "mota": "musika",
-      "hizkuntza": "",
-      "hasiera_data": "2026-08-25",
-      "hasiera_ordua": "23:30",
-      "lekua": {
-        "non": "Kaskagorri Konpartsa Txosna",
-        "herria": "Bilbo",
-        "herrialdea": "Bizkaia",
-        "koordenatuak": [
-          43.256963,
-          -2.923441
-        ]
-      },
-      "prezioa": null,
-      "url": "https://app.bilbokokonpartsak.eus/ekintzak",
-      "irudiaren_url": "/contenidos/evento/2026081712585223/es_def/images/39.jpg",
-      "iturria": "kulturklik.eus",
-      "etiketak": [],
-      "nabarmendua": "0",
-      "id": "fa9b61df"
-    },
     {
       "ekitaldia": "Doraemon eta zaldun mozorrodunak",
       "azalpena": "",
@@ -179612,6 +178892,30 @@
       "id": "3299ea4d"
     },
     {
+      "ekitaldia": "Xamar \"Biziaroak - Herri kultura",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-26",
+      "hasiera_ordua": "15:00",
+      "lekua": {
+        "non": "Lapurdi ge",
+        "herria": "Ustaritz",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.365053,
+          -1.203747
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.eke.eus/eu/agenda/xamar-biziaroak-herri-kultura-1",
+      "irudiaren_url": "/contenidos/evento/2026112105001074/es_def/images/Hitzaldia2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c5c7720f"
+    },
+    {
       "ekitaldia": "Cuentacuentos: \"Azalerako ipuinak",
       "azalpena": "",
       "mota": "antzerkia",
@@ -180594,6 +179898,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "2fb8edd8"
+    },
+    {
+      "ekitaldia": "Musiklasik 2026: \"Evening Prayer\" (Ciclo Gospel 2026-2027)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-11-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Aiete",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.305863,
+          -1.991954
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/gospel-femenino-musiklasik",
+      "irudiaren_url": "/contenidos/evento/2026101705054821/es_def/images/12.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "8cba4b8c"
     },
     {
       "ekitaldia": "Orquesta Sinfónica de Navarra 2026/27: \"En la tierra",
@@ -182228,6 +181556,30 @@
       "id": "68fe139f"
     },
     {
+      "ekitaldia": "Jauziak",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Geltoki",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.81278,
+          -1.64515
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.geltoki.red/iluntze-dantzaldiak",
+      "irudiaren_url": "/contenidos/evento/2026112314324751/es_def/images/49.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "070698db"
+    },
+    {
       "ekitaldia": "Donostia Bertsotan 2026: Maialen Lujanbio, Nerea Ibarzabal, Amets Arzallus, Aitor Mendiluze",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -182466,6 +181818,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "b7d0637b"
+    },
+    {
+      "ekitaldia": "Loraldia Plaza 2026 : Ines Osinaga eta Ahizpak (Zaratamo-Arrigorriaga)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Sala de Cultura",
+        "herria": "Zaratamo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.211505,
+          -2.873626
+        ]
+      },
+      "prezioa": 8.0,
+      "url": "https://www.arrigorriaga.eus/es/blog/2/loraldia-plaza-zaratamo-arrigorriaga-celebrara-su-quinta-edicion-con-seis-citas-con-la-creacion-vasca-contemporanea",
+      "irudiaren_url": "/contenidos/evento/2026112315181379/es_def/images/52.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0bda7d1a"
     },
     {
       "ekitaldia": "Nor naizen baneki",
@@ -182970,6 +182346,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "6ba8d2aa"
+    },
+    {
+      "ekitaldia": "Sacamantecas",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-27",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Casa de Cultura Manuel Lekuona",
+        "herria": "Lasarte-Oria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.2704561736065,
+          -2.0229434967041
+        ]
+      },
+      "prezioa": 6.1,
+      "url": "https://www.lasarte/-oria.eus/es/-/okendo-zinema-taldeak-40.-urte-betetzen-ditu",
+      "irudiaren_url": "/contenidos/evento/2026112311522338/es_def/images/25.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3a854355"
     },
     {
       "ekitaldia": "Maika Makovski",
@@ -185084,6 +184484,30 @@
       "id": "35239bdd"
     },
     {
+      "ekitaldia": "Ciclo Gospel 2026-2027: ARIANE",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Casino Kursaal",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.305863,
+          -1.991954
+        ]
+      },
+      "prezioa": 15.0,
+      "url": "https://www.donostiakultura.eus/es/agenda/gospel-femenino-musiklasik",
+      "irudiaren_url": "/contenidos/evento/2026112313265712/es_def/images/37.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5d99ebb8"
+    },
+    {
       "ekitaldia": "Ensemble Les Surprises eta Veronique Gens",
       "azalpena": "",
       "mota": "musika",
@@ -185250,6 +184674,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "061c2a5e"
+    },
+    {
+      "ekitaldia": "Loraldia Plaza 2026 (Zaratamo-Arrigorriaga): \"Sukramarkus",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-28",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Arkotxako eleiza",
+        "herria": "Zaratamo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.211505,
+          -2.873626
+        ]
+      },
+      "prezioa": 8.0,
+      "url": "https://www.arrigorriaga.eus/es/blog/2/loraldia-plaza-zaratamo-arrigorriaga-celebrara-su-quinta-edicion-con-seis-citas-con-la-creacion-vasca-contemporanea",
+      "irudiaren_url": "/contenidos/evento/2026112315200627/es_def/images/53.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c9c33021"
     },
     {
       "ekitaldia": "Cándida",
@@ -187292,6 +186740,30 @@
       "id": "df9f6355"
     },
     {
+      "ekitaldia": "Intujai-Entnae: \"Berriro Mundu Berri Bat",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-29",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Escuela Navarra de Teatro",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817486,
+          -1.640935
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/29/intujai-entnae-berriro-mundu-berri-bat-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026112309562009/es_def/images/26.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "787ce650"
+    },
+    {
       "ekitaldia": "Bertsolari",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -187628,6 +187100,30 @@
       "id": "f40fc605"
     },
     {
+      "ekitaldia": "Sacamantecas",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-11-29",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Amurrio Antzokia",
+        "herria": "Amurrio",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          43.0523792061855,
+          -3.00049066543579
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://amurrioantzokia.eus/es/nuestros-eventos/sacamantecas-en-euskera-con-subtitulos-en-castellano",
+      "irudiaren_url": "/contenidos/evento/2026111309353854/es_def/images/81.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2e0fb816"
+    },
+    {
       "ekitaldia": "Tempus fugit",
       "azalpena": "",
       "mota": "dantza",
@@ -187938,6 +187434,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "f5efe26b"
+    },
+    {
+      "ekitaldia": "Presentación del libro \"El nacimiento de un Gobierno a través de sus protagonistas",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-11-30",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Gogora - Instituto de la Memoria, la Convivencia y los Derechos Humanos",
+        "herria": "Bilbo",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.264303208725444,
+          -2.943015492028434
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/11/30/presentacion-del-libro-el-nacimiento-de-un-gobierno-a-traves-de-sus-protagonistas-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026112310152306/es_def/images/27.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c8f969a9"
     },
     {
       "ekitaldia": "Bertso saioa: Aissa Intxausti, Unai Iturriaga",
@@ -188730,6 +188250,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "a28fdd29"
+    },
+    {
+      "ekitaldia": "Topaketa Nahi Zubeldiarekin",
+      "azalpena": "",
+      "mota": "hitzaldiak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-01",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "et'abar liburudend",
+        "herria": "Hasparren",
+        "herrialdea": "",
+        "koordenatuak": [
+          43.3851522724,
+          -1.30308151245
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.eke.eus/eu/agenda/topaketa-nahi-zubeldiarekin",
+      "irudiaren_url": "/contenidos/evento/2026112105003067/es_def/images/51.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "3b20bb81"
     },
     {
       "ekitaldia": "Martes Musicales 2026-2027: Dmytro Choni",
@@ -194492,6 +194036,30 @@
       "id": "69f578b3"
     },
     {
+      "ekitaldia": "Loraldia Plaza 2026 (Zaratamo-Arrigorriaga): Alaia Martin eta Olatz Salvador: \"1:1 Eskala",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-11",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Lonbo Aretoa",
+        "herria": "Arrigorriaga",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.211871,
+          -2.888366
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.arrigorriaga.eus/es/blog/2/loraldia-plaza-zaratamo-arrigorriaga-celebrara-su-quinta-edicion-con-seis-citas-con-la-creacion-vasca-contemporanea",
+      "irudiaren_url": "/contenidos/evento/2026112315213512/es_def/images/54.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "b6b1f259"
+    },
+    {
       "ekitaldia": "Belako",
       "azalpena": "",
       "mota": "musika",
@@ -194634,6 +194202,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "855ad29e"
+    },
+    {
+      "ekitaldia": "Diego Sánchez: \"Perdido en los 80 - Menuda movida",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-11",
+      "hasiera_ordua": "20:30",
+      "lekua": {
+        "non": "Amurrio Antzokia",
+        "herria": "Amurrio",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          43.0523792061855,
+          -3.00049066543579
+        ]
+      },
+      "prezioa": 16.0,
+      "url": "https://amurrioantzokia.eus/es/nuestros-eventos/perdido-en-los-80s-menuda-movida-2",
+      "irudiaren_url": "/contenidos/evento/2026112308362561/es_def/images/9.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "1a61810a"
     },
     {
       "ekitaldia": "Armenian (tributo a System of a Down)",
@@ -194972,6 +194564,30 @@
       "id": "409d3fdd"
     },
     {
+      "ekitaldia": "Eginzaleak!",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "11:00",
+      "lekua": {
+        "non": "Tabakalera",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.316777,
+          -1.975626
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.tabakalera.eus/es/eginzaleak-2026-0",
+      "irudiaren_url": "/contenidos/evento/2026112105024827/es_def/images/1.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ab63dcb0"
+    },
+    {
       "ekitaldia": "La hora del cuento",
       "azalpena": "",
       "mota": "antzerkia",
@@ -195018,6 +194634,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "68070e0c"
+    },
+    {
+      "ekitaldia": "Pop Up & Tardeo",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "11:30",
+      "lekua": {
+        "non": "Aretxaplaza",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.83444357454679,
+          -2.6695919028134028
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/12/12/pop-up-tardeo-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026112311513397/es_def/images/44.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f676ca7e"
     },
     {
       "ekitaldia": "Tretatxu",
@@ -195332,6 +194972,30 @@
       "id": "6db7f051"
     },
     {
+      "ekitaldia": "Ecstatic Dance Donostia: \"Mystical",
+      "azalpena": "",
+      "mota": "dantza",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "17:30",
+      "lekua": {
+        "non": "Manteo Kiroldegia",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.325090972141346,
+          -1.9682639837238662
+        ]
+      },
+      "prezioa": 20.0,
+      "url": "https://www.kulturklik.euskadi.eus/evento/2026/12/12/ecstatic-dance-donostia-mystical-/webkklik00-detalle/es/",
+      "irudiaren_url": "/contenidos/evento/2026112312315481/es_def/images/2026112312315481AbenduaKulturklik17954335148646563287.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c61bd421"
+    },
+    {
       "ekitaldia": "Metalskala Fest 2026: ANY GIVEN DAY, PROMKINKS eta NAME",
       "azalpena": "",
       "mota": "musika",
@@ -195498,6 +195162,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "624f63c0"
+    },
+    {
+      "ekitaldia": "Titereszena 2026-2027: \"Ogi zati bat",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Topic. Centro Internacional del Títere de Tolosa",
+        "herria": "Tolosa",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.1381345068573,
+          -2.0748496055603
+        ]
+      },
+      "prezioa": null,
+      "url": "https://topic.eus/nueva-temporada-titereszena-2026-2027",
+      "irudiaren_url": "/contenidos/evento/2026112309145797/es_def/images/15.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c6d79faa"
     },
     {
       "ekitaldia": "CANDLELIGHT Bilbao: \"Tributo a Queen y The Beatles",
@@ -196122,6 +195810,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d69743c7"
+    },
+    {
+      "ekitaldia": "Loraldia Plaza 2026 : Mikel Urdangarin (Zaratamo-Arrigorriaga)",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-12",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Lonbo Aretoa",
+        "herria": "Arrigorriaga",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.211871,
+          -2.888366
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://www.arrigorriaga.eus/es/blog/2/loraldia-plaza-zaratamo-arrigorriaga-celebrara-su-quinta-edicion-con-seis-citas-con-la-creacion-vasca-contemporanea",
+      "irudiaren_url": "/contenidos/evento/2026112315235104/es_def/images/55.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "72449b0e"
     },
     {
       "ekitaldia": "Fuet!",
@@ -197660,6 +197372,30 @@
       "id": "408fe225"
     },
     {
+      "ekitaldia": "Ondas de Jazz en la Ciudad 2026-2027: Jericó Gospel",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-15",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Conservatorio de Música Jesús Guridi",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8561791440269,
+          -2.67860412597656
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://blogs.vitoria/-gasteiz.org/medios/2026/11/18/jazz-uhinak-programak-talentuarekiko-pedagogiarekiko-eta-musikaren-dibertsitatearekiko-konpromisoa-berretsi-du-xxi-edizioan?lang=eu",
+      "irudiaren_url": "/contenidos/evento/2026112312341675/es_def/images/33.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0235a7bf"
+    },
+    {
       "ekitaldia": "Bizan Gala 2026: Goizargi Gospel Choir",
       "azalpena": "",
       "mota": "musika",
@@ -197802,6 +197538,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "faa68253"
+    },
+    {
+      "ekitaldia": "Christmas Show 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-15",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Civivox Pompelo",
+        "herria": "Pamplona/Iruña",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.817643,
+          -1.648541
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/the-spolem-girls-pamplona-iruna-2026-12-15-61-es",
+      "irudiaren_url": "/contenidos/evento/2026112313311753/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "f6f96f53"
     },
     {
       "ekitaldia": "Tasha & Tracie",
@@ -199268,6 +199028,30 @@
       "id": "1329d7b2"
     },
     {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Goiko Gela",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-18",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Ernest Lluch",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.302306,
+          -1.972512
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/goiko-gela-26",
+      "irudiaren_url": "/contenidos/evento/2026111405044129/es_def/images/67.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ef7abfc6"
+    },
+    {
       "ekitaldia": "Jone, batzuetan\" (Proyección y tertulia con Sara Fantova)",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -200444,6 +200228,54 @@
       "id": "ce319a1f"
     },
     {
+      "ekitaldia": "Aretha Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-19",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Casa de Cultura Manuel Lekuona",
+        "herria": "Lasarte-Oria",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.2704561736065,
+          -2.0229434967041
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/ispirit-lasarte-oria-2026-12-19-6-es",
+      "irudiaren_url": "/contenidos/evento/2026112313342083/es_def/images/3ispirit.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5defcf0d"
+    },
+    {
+      "ekitaldia": "Christmas Show 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-19",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Meatzari Aretoa",
+        "herria": "Muskiz",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.322046,
+          -3.120112
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/the-spolem-girls-muskiz-2026-12-19-7-es",
+      "irudiaren_url": "/contenidos/evento/2026112313353028/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "e504ae6c"
+    },
+    {
       "ekitaldia": "Afines",
       "azalpena": "",
       "mota": "dantza",
@@ -200754,6 +200586,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "36c011f7"
+    },
+    {
+      "ekitaldia": "Go Marching in 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-19",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Iglesia Santa María",
+        "herria": "Deba",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.295562,
+          -2.353894
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/samaria-gospel-singers-deba-2026-12-19-40-es",
+      "irudiaren_url": "/contenidos/evento/2026112313542286/es_def/images/39.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "7b94eba7"
     },
     {
       "ekitaldia": "Anestesia \"Erantzun 30 Urte Bira 2026\" (19 de diciembre)",
@@ -201788,6 +201644,30 @@
       "id": "b8fd2894"
     },
     {
+      "ekitaldia": "Aretha Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-20",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Landetxe Kultur Aretoa",
+        "herria": "Oiartzun",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.30000057513137,
+          -1.8612074439517128
+        ]
+      },
+      "prezioa": 9.0,
+      "url": "https://ciclogospel.com/concierto-ciclo/ispirit-oiartzun-2026-12-20-17-es",
+      "irudiaren_url": "/contenidos/evento/2026112313573695/es_def/images/3ispirit.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "d183314b"
+    },
+    {
       "ekitaldia": "Sacamantecas",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -202004,6 +201884,30 @@
       "id": "bcb10a83"
     },
     {
+      "ekitaldia": "Sesión especial infantil navideña: \"Karramarro Uhartea",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-22",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Polborina",
+        "herria": "Hondarribia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.362531,
+          -1.791498
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.hondarribia.eus/es/-/sesion-especial-infantil-navidades",
+      "irudiaren_url": "/contenidos/evento/2026112314403650/es_def/images/45.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a9dbb6ce"
+    },
+    {
       "ekitaldia": "3 elementu ? Hodei Magoa ? 17:30",
       "azalpena": "",
       "mota": "antzerkia",
@@ -202218,6 +202122,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "9b2d9d73"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Blue Velvet Gospel Singers",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-22",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Jesusen Bihotza Parrokia (Loiola)",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.320725,
+          -1.984449
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/blue-velvet-gospel",
+      "irudiaren_url": "/contenidos/evento/2026111905061947/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c6c2a137"
     },
     {
       "ekitaldia": "Peiremans eta (22 y 23 de diciembre - Zentral Pamplona)",
@@ -202578,6 +202506,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "fd791c9d"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Blue Velvet Gospel Singers",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-23",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Iglesia de Mercadillo",
+        "herria": "Sopuerta",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.256754,
+          -3.167926
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/blue-velvet-gospel-singers-sopuerta-2026-12-23-45-es",
+      "irudiaren_url": "/contenidos/evento/2026112314001737/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ac947daa"
     },
     {
       "ekitaldia": "Peiremans eta (23 de diciembre - Zentral Pamplona)",
@@ -203324,6 +203276,78 @@
       "id": "405e8af4"
     },
     {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Gospel Uhinak",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia",
+        "herria": "Labastida/Bastida",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.590459,
+          -2.792992
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/conciertos",
+      "irudiaren_url": "/contenidos/evento/2026112314014258/es_def/images/Musika8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "34e5c4d4"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Blue Velvet Gospel Singers",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Erribera",
+        "herria": "Astigarraga",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.280315,
+          -1.954365
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/blue-velvet-gospel-singers-sopuerta-2026-12-23-45-es",
+      "irudiaren_url": "/contenidos/evento/2026112314030314/es_def/images/92.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2c8c8890"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: ARIANE",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-26",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Iglesia San Nicolás, Fontecha",
+        "herria": "Añana",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.802352,
+          -2.982607
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/conciertos",
+      "irudiaren_url": "/contenidos/evento/2026112314063901/es_def/images/37.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "86934c90"
+    },
+    {
       "ekitaldia": "Janus Lester (26 de diciembre - Donostia)",
       "azalpena": "",
       "mota": "musika",
@@ -203780,6 +203804,30 @@
       "id": "5dae9add"
     },
     {
+      "ekitaldia": "Go Marching in 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-27",
+      "hasiera_ordua": "17:00",
+      "lekua": {
+        "non": "Iglesia San Juan Evangelista",
+        "herria": "Berriz",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          42.846718,
+          -2.671635
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.instagram.com/p/DdTOZ4-jmB8?img_index=12",
+      "irudiaren_url": "/contenidos/evento/2026091615164111/es_def/images/39.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "15b66d0e"
+    },
+    {
       "ekitaldia": "Sari nagusia ziztu bizian",
       "azalpena": "",
       "mota": "bestelakoak",
@@ -203946,6 +203994,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "5bc960ef"
+    },
+    {
+      "ekitaldia": "Sesión especial adulta navideña: \"El apartamento",
+      "azalpena": "",
+      "mota": "bestelakoak",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-27",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Polborina",
+        "herria": "Hondarribia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.362531,
+          -1.791498
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.hondarribia.eus/es/-/pelicula-el-apartamento",
+      "irudiaren_url": "/contenidos/evento/2026112314352765/es_def/images/43.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "ac8358c1"
     },
     {
       "ekitaldia": "Olaia Inziarte (27 de diciembre - Donostia)",
@@ -204116,6 +204188,54 @@
       "id": "8d19746f"
     },
     {
+      "ekitaldia": "Christmas Show 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-27",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro de Artes Escénicas Sarobe",
+        "herria": "Urnieta",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.248358,
+          -1.990138
+        ]
+      },
+      "prezioa": 7.0,
+      "url": "https://www.sarobeurnieta.eus/ekitaldia/the-spolem-girls-gospel-kontzertua",
+      "irudiaren_url": "/contenidos/evento/2026092212035025/es_def/images/50.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "53b6f982"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Gospel Uhinak",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-27",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Capilla del Pilar",
+        "herria": "Laguardia",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.5543448216289,
+          -2.5841903686523438
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/conciertos",
+      "irudiaren_url": "/contenidos/evento/2026112314103045/es_def/images/Musika8.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "9eb5c811"
+    },
+    {
       "ekitaldia": "Festival SantasPascuas 2026: SAL DEL COCHE eta AKAUZAZTE",
       "azalpena": "",
       "mota": "musika",
@@ -204138,6 +204258,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "80f513e0"
+    },
+    {
+      "ekitaldia": "Tigrea",
+      "azalpena": "",
+      "mota": "antzerkia",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-27",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Zaraia Aretoa",
+        "herria": "Aretxabaleta",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.0373247864634,
+          -2.50353097915649
+        ]
+      },
+      "prezioa": 6.0,
+      "url": "https://aretxabaletaklik.eus/#/",
+      "irudiaren_url": "/contenidos/evento/2026112312572160/es_def/images/42.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "178375ce"
     },
     {
       "ekitaldia": "CANDLELIGHT Pamplona: \"Coldplay VS. Imagine Dragons",
@@ -204932,6 +205076,30 @@
       "id": "84d3ce58"
     },
     {
+      "ekitaldia": "Go Marching in 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-29",
+      "hasiera_ordua": "18:30",
+      "lekua": {
+        "non": "Iglesia",
+        "herria": "Irura",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.165688,
+          -2.069616
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/samaria-gospel-singers-irura-2026-12-29-68-es",
+      "irudiaren_url": "/contenidos/evento/2026112314112617/es_def/images/39.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "882a6ade"
+    },
+    {
       "ekitaldia": "UR",
       "azalpena": "",
       "mota": "musika",
@@ -205026,6 +205194,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "0216d193"
+    },
+    {
+      "ekitaldia": "Ciclo Gospel 2026-2027: Blue Velvet Gospel Singers",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "eu",
+      "hasiera_data": "2026-12-29",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Zaraia Aretoa",
+        "herria": "Aretxabaleta",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.0373247864634,
+          -2.50353097915649
+        ]
+      },
+      "prezioa": 6.0,
+      "url": "https://ciclogospel.com/concierto-ciclo/blue-velvet-gospel-singers-aretxabaleta-2026-12-29-71-es",
+      "irudiaren_url": "/contenidos/evento/2026112310134668/es_def/images/24.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c311946d"
     },
     {
       "ekitaldia": "Alabama Gospel Choir: \"Oh happy day!",
@@ -205388,6 +205580,30 @@
       "id": "7b1fbd92"
     },
     {
+      "ekitaldia": "Christmas Show 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2026-12-30",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Santa Ana Udal Antzokia",
+        "herria": "Oñati",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.033043011184,
+          -2.41089820861816
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/the-spolem-girls-onati-2026-12-30-74-es",
+      "irudiaren_url": "/contenidos/evento/2026112314134257/es_def/images/2.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "9a0da555"
+    },
+    {
       "ekitaldia": "Ego : \"Concierto de Navidad (Euskal Herriko Gazte Orkestra)",
       "azalpena": "",
       "mota": "musika",
@@ -205482,6 +205698,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "74c2cc6f"
+    },
+    {
+      "ekitaldia": "Aretha Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2026-12-30",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Sala Modelo",
+        "herria": "Zarautz",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.2857344250856,
+          -2.17615127563476
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/ispirit-oiartzun-2026-12-20-17-es",
+      "irudiaren_url": "/contenidos/evento/2026112314141691/es_def/images/3ispirit.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "fa510587"
     },
     {
       "ekitaldia": "Jon Plazaola: \"AA Aita",
@@ -205940,6 +206180,30 @@
       "id": "21a1617d"
     },
     {
+      "ekitaldia": "Go Marching in 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-02",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Olalde Aretoa",
+        "herria": "Mungia",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.357364,
+          -2.849243
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/samaria-gospel-singers-mungia-2027-01-02-44-es",
+      "irudiaren_url": "/contenidos/evento/2026112314150362/es_def/images/39.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "cf6e9868"
+    },
+    {
       "ekitaldia": "Bengo eta Etxepe (2 de enero - Bilbo)",
       "azalpena": "",
       "mota": "musika",
@@ -206204,6 +206468,30 @@
       "id": "5cfeb52f"
     },
     {
+      "ekitaldia": "Go Marching in 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-03",
+      "hasiera_ordua": "18:00",
+      "lekua": {
+        "non": "Auditorio Barañáin",
+        "herria": "Barañáin/Barañain",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.8049100865819,
+          -1.68854713439941
+        ]
+      },
+      "prezioa": 8.3,
+      "url": "https://www.auditoriobaranain.com/programacion/samaria-gospel-singers",
+      "irudiaren_url": "/contenidos/evento/2026112314172192/es_def/images/39.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "39f79ff4"
+    },
+    {
       "ekitaldia": "Muxin eta Zapotxin: \"Baserritarrak",
       "azalpena": "",
       "mota": "antzerkia",
@@ -206466,6 +206754,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "d08cf9a4"
+    },
+    {
+      "ekitaldia": "Historia del Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-04",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Centro Cultural Casares-Tomasene",
+        "herria": "Donostia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.3184338544051,
+          -1.92840099334716
+        ]
+      },
+      "prezioa": null,
+      "url": "https://www.donostiakultura.eus/es/agenda/gospel-lord",
+      "irudiaren_url": "/contenidos/evento/2026111905055137/es_def/images/95.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "10f47977"
     },
     {
       "ekitaldia": "Homenaje a los pioneros del Rock de Bilbao",
@@ -206996,6 +207308,30 @@
       "id": "6f11dda0"
     },
     {
+      "ekitaldia": "Elvis Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-08",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Itsas Etxea Auditoriuma",
+        "herria": "Hondarribia",
+        "herrialdea": "Gipuzkoa",
+        "koordenatuak": [
+          43.367699,
+          -1.792988
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/goiko-gela-hondarribia-2027-01-08-59-es",
+      "irudiaren_url": "/contenidos/evento/2026112314212406/es_def/images/40.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "5b8aaf09"
+    },
+    {
       "ekitaldia": "Queen revolution",
       "azalpena": "",
       "mota": "antzerkia",
@@ -207404,6 +207740,30 @@
       "id": "5ea4a795"
     },
     {
+      "ekitaldia": "Gospel Goove 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-09",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Berango Antzokia",
+        "herria": "Berango",
+        "herrialdea": "Bizkaia",
+        "koordenatuak": [
+          43.355054,
+          -2.994864
+        ]
+      },
+      "prezioa": 5.0,
+      "url": "https://berangokultura.eus/es/agenda/gospel-groove",
+      "irudiaren_url": "/contenidos/evento/2026111208005056/es_def/images/Musika5.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "bef88230"
+    },
+    {
       "ekitaldia": "Orquesta Sinfónica de Navarra 2026/27: Nadine Sierra - Gala Lírica",
       "azalpena": "",
       "mota": "musika",
@@ -207474,6 +207834,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "8d16cca2"
+    },
+    {
+      "ekitaldia": "Aretha Gospel 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-09",
+      "hasiera_ordua": "20:00",
+      "lekua": {
+        "non": "Casa de Cultura de Zizur Mayor",
+        "herria": "Zizur Mayor/Zizur Nagusia",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.786656,
+          -1.691001
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/ispirit-zizur-mayor-2027-01-09-43-es",
+      "irudiaren_url": "/contenidos/evento/2026112314230077/es_def/images/3ispirit.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "0bd2b363"
     },
     {
       "ekitaldia": "Potato eta Treverb",
@@ -207882,6 +208266,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "e4c69738"
+    },
+    {
+      "ekitaldia": "Happy Day! 2026",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "inglé",
+      "hasiera_data": "2027-01-10",
+      "hasiera_ordua": "19:30",
+      "lekua": {
+        "non": "Casa de Cultura de Villava",
+        "herria": "Villava/Atarrabia",
+        "herrialdea": "Navarra",
+        "koordenatuak": [
+          42.8278589552527,
+          -1.6133165359497
+        ]
+      },
+      "prezioa": null,
+      "url": "https://ciclogospel.com/concierto-ciclo/the-spolem-girls-villava-2027-01-10-35-es",
+      "irudiaren_url": "/contenidos/evento/2026112314251469/es_def/images/41.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "a4f40676"
     },
     {
       "ekitaldia": "Liburu Txiki Kluba",
@@ -209514,6 +209922,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "aacd50ef"
+    },
+    {
+      "ekitaldia": "Ondas de Jazz en la Ciudad 2026-2027: Antton Aranburu & Pablo Fernández Arrieta",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-01-19",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Conservatorio de Música Jesús Guridi",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8561791440269,
+          -2.67860412597656
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://blogs.vitoria/-gasteiz.org/medios/2026/11/18/jazz-uhinak-programak-talentuarekiko-pedagogiarekiko-eta-musikaren-dibertsitatearekiko-konpromisoa-berretsi-du-xxi-edizioan?lang=eu",
+      "irudiaren_url": "/contenidos/evento/2026112312361411/es_def/images/34.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "c896a5a4"
     },
     {
       "ekitaldia": "Martes Musicales 2026-2027: Tianwa Yan y Nicholas Rimmer",
@@ -217652,6 +218084,30 @@
       "id": "a409e9ee"
     },
     {
+      "ekitaldia": "Ondas de Jazz en la Ciudad 2026-2027: Combos de Vitoria-Gasteiz: Conservatorio Jesús Guridi y Escuela municipal de música Luis Aramburu",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-03-09",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Conservatorio de Música Jesús Guridi",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8561791440269,
+          -2.67860412597656
+        ]
+      },
+      "prezioa": 2.0,
+      "url": "https://blogs.vitoria/-gasteiz.org/medios/2026/11/18/jazz-uhinak-programak-talentuarekiko-pedagogiarekiko-eta-musikaren-dibertsitatearekiko-konpromisoa-berretsi-du-xxi-edizioan?lang=eu",
+      "irudiaren_url": "/contenidos/evento/2026112312380999/es_def/images/Musika4.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "dee7b11b"
+    },
+    {
       "ekitaldia": "Martes Musicales 2026-2027: Mandelring Quartett",
       "azalpena": "",
       "mota": "musika",
@@ -220458,6 +220914,30 @@
       "etiketak": [],
       "nabarmendua": "0",
       "id": "9b977c9b"
+    },
+    {
+      "ekitaldia": "Ondas de Jazz en la Ciudad 2026-2027: Jazz Erraldoiak: N-Wise Allah, Original Juan y Xcese ft. La banda de ondas",
+      "azalpena": "",
+      "mota": "musika",
+      "hizkuntza": "",
+      "hasiera_data": "2027-04-20",
+      "hasiera_ordua": "19:00",
+      "lekua": {
+        "non": "Conservatorio de Música Jesús Guridi",
+        "herria": "Gasteiz",
+        "herrialdea": "Álava",
+        "koordenatuak": [
+          42.8561791440269,
+          -2.67860412597656
+        ]
+      },
+      "prezioa": 10.0,
+      "url": "https://blogs.vitoria/-gasteiz.org/medios/2026/11/18/jazz-uhinak-programak-talentuarekiko-pedagogiarekiko-eta-musikaren-dibertsitatearekiko-konpromisoa-berretsi-du-xxi-edizioan?lang=eu",
+      "irudiaren_url": "/contenidos/evento/2026112312421225/es_def/images/36.jpg",
+      "iturria": "kulturklik.eus",
+      "etiketak": [],
+      "nabarmendua": "0",
+      "id": "2d6963ac"
     },
     {
       "ekitaldia": "Club de lectura infantil \"Tximilikuarteka\": \"Walluk",
